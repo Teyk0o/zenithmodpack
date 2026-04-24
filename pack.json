@@ -2394,11 +2394,24 @@
         "projectId": "aeW9oim1",
         "versionId": "V6LRJNSI"
       }
+    },
+    {
+      "name": "Tutorial Suppressor",
+      "slug": "tutorial-suppressor",
+      "filename": "tutorialsuppressor-0.1.0+1.20.6-neoforge.jar",
+      "side": "both",
+      "url": "https://cdn.modrinth.com/data/SSyS4Ayv/versions/gExehcKM/tutorialsuppressor-0.1.0%2B1.20.6-neoforge.jar",
+      "hash": "sha512:698859a95283ef73696f60c880321dcd111032f327f8bd123b4f6e884662bccab5aa30b35ec54e29e1c2a90682beecb47d226471d73abddd94385a2bc65a7af2",
+      "fileSize": 10055,
+      "modrinth": {
+        "projectId": "SSyS4Ayv",
+        "versionId": "gExehcKM"
+      }
     }
   ],
   "filesArchive": {
     "url": "https://teyk0o.github.io/zenithmodpack/files.zip",
-    "hash": "sha256:9b8778759d85ea2e6f2cc93f4407ef90603d93a5066eb166925ab0048705b205",
+    "hash": "sha256:d18e8a395e20f3db2994bf8e12cb2ab11b778a964f352a2f770f241a89eca00e",
     "size": 19179751
   },
   "files": [
