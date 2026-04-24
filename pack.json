@@ -2381,11 +2381,24 @@
         "projectId": "KKlx33Ch",
         "versionId": "ndmghTMU"
       }
+    },
+    {
+      "name": "Create: Easy Stone Generators",
+      "slug": "create-stone-generators",
+      "filename": "create_generators-1.2.5-neoforge-1.21.1.jar",
+      "side": "both",
+      "url": "https://cdn.modrinth.com/data/aeW9oim1/versions/V6LRJNSI/create_generators-1.2.5-neoforge-1.21.1.jar",
+      "hash": "sha512:8085cfd285e090b80e8a3724314620cb2ff7bc21a8bbb29b8397ccdbfccefb2b24215e1e609fc7a5e9a211767447156647b02c83fb00366a4f4eadf4e4a61cac",
+      "fileSize": 215204,
+      "modrinth": {
+        "projectId": "aeW9oim1",
+        "versionId": "V6LRJNSI"
+      }
     }
   ],
   "filesArchive": {
     "url": "https://teyk0o.github.io/zenithmodpack/files.zip",
-    "hash": "sha256:c4f64e3a3105fa951d85b427a2eab58afaafb20be973ed715ab31c5fc9fa681b",
+    "hash": "sha256:9b8778759d85ea2e6f2cc93f4407ef90603d93a5066eb166925ab0048705b205",
     "size": 19179751
   },
   "files": [
