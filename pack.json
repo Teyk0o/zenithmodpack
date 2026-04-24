@@ -2368,11 +2368,24 @@
         "projectId": "7EMBwHEz",
         "versionId": "OFr3ky16"
       }
+    },
+    {
+      "name": "Create: Stones",
+      "slug": "create-stones",
+      "filename": "create-stones-2.0.1.jar",
+      "side": "both",
+      "url": "https://cdn.modrinth.com/data/KKlx33Ch/versions/ndmghTMU/create-stones-2.0.1.jar",
+      "hash": "sha512:dc2ff19f57f6a627fd1d924c97257b329047fb79d0f82eec481046ecd39d40e390a3abfb0c854551554182a8573b417fe64e40aaf2d4c1fb934e0e60e88cee6e",
+      "fileSize": 219969,
+      "modrinth": {
+        "projectId": "KKlx33Ch",
+        "versionId": "ndmghTMU"
+      }
     }
   ],
   "filesArchive": {
     "url": "https://teyk0o.github.io/zenithmodpack/files.zip",
-    "hash": "sha256:ac0a082d9ba54042694ce69c91d8964be32c7ea223304a88fa24429162ad3ec1",
+    "hash": "sha256:c4f64e3a3105fa951d85b427a2eab58afaafb20be973ed715ab31c5fc9fa681b",
     "size": 19179751
   },
   "files": [
