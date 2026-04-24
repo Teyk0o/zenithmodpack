@@ -2151,8 +2151,8 @@
   ],
   "filesArchive": {
     "url": "https://teyk0o.github.io/zenithmodpack/files.zip",
-    "hash": "sha256:e92985cb10b10155e7acb622b69238961a4d98811c4f348eacd30e5c81a6aea9",
-    "size": 19183233
+    "hash": "sha256:4ef8d012f9fab212a63d29151bc6a7bd04d2b7f08cde28336feeb1ad1cd72d78",
+    "size": 19179751
   },
   "files": [
     {
@@ -3752,12 +3752,6 @@
       "normalize": false
     },
     {
-      "path": "resourcepacks/FA-Player",
-      "hash": "sha256:e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-      "size": 0,
-      "normalize": false
-    },
-    {
       "path": "resourcepacks/Fresh Better Cats v1.3 1.21.5.zip",
       "hash": "sha256:9bcb2d5c0d2171f3c2173f6c222ac9ca7abcc75396f3b03ec24973c823116647",
       "size": 610864,
@@ -3786,17 +3780,7 @@
       "hash": "sha256:b058e6ea7b4b8492efdef03115d84043b11ee2d33e263f8610aae189e771e416",
       "size": 269453,
       "normalize": false
-    },
-    {
-      "path": "shaderpacks/Solas Shader V3.5.zip.txt",
-      "hash": "sha256:f829615e936b3eae867b754a51e00dadd4c8db0cc7926f8bd5d19317c08da06d",
-      "size": 72,
-      "normalize": true
     }
   ],
-  "options": {
-    "path": "options.txt",
-    "hash": "sha256:973663746c36ca154dcf363b1f957bde6b5cfc3ea77d541ff600df9600577c1d",
-    "managed": false
-  }
+  "options": null
 }
