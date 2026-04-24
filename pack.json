@@ -1,0 +1,3802 @@
+{
+  "formatVersion": 1,
+  "name": "Zenith: Aeronautics",
+  "author": "Teyko",
+  "version": "1.0.0",
+  "minecraft": "1.21.1",
+  "loader": {
+    "type": "neoforge",
+    "version": "21.1.227"
+  },
+  "installerVersion": "1.0.0",
+  "installerUrl": "https://teyk0o.github.io/zenith-modpack/zenithpack-installer.jar",
+  "installerHash": "",
+  "mods": [
+    {
+      "name": "[1.21.1",
+      "filename": "[1.21.1-Neoforge] Hybrid Aquatic 1.5.5.jar",
+      "side": "both",
+      "url": "https://cdn.modrinth.com/data/HH4FjUqN/versions/1DTuj8UO/%5B1.21.1-Neoforge%5D%20Hybrid%20Aquatic%201.5.5.jar",
+      "hash": "sha512:8e3b83d1fd8437bae4397d387528fc71b63b33ddd67fce5e8da17f79892e0984f66dc6cb8ebf35e74e37753796a71ec9dd92038a88420a17873f9b6d89335a01",
+      "fileSize": 3375151,
+      "modrinth": {
+        "projectId": "HH4FjUqN",
+        "versionId": "1DTuj8UO"
+      }
+    },
+    {
+      "name": "AdvancementPlaques",
+      "filename": "AdvancementPlaques-1.21.1-neoforge-1.6.8.jar",
+      "side": "both",
+      "url": "https://cdn.modrinth.com/data/9NM0dXub/versions/OWylG33I/AdvancementPlaques-1.21.1-neoforge-1.6.8.jar",
+      "hash": "sha512:94724dd77d005f0a189c4843efcc2800cf3d3e01d1f1ac184c6f6ad7c921aec508e93fa0bfac0e641a74c1629d4e5e4d06b8c1a3e0d8e63f97db89b2f879c106",
+      "fileSize": 195730,
+      "modrinth": {
+        "projectId": "9NM0dXub",
+        "versionId": "OWylG33I"
+      }
+    },
+    {
+      "name": "another",
+      "filename": "another_furniture-neoforge-4.0.2.jar",
+      "side": "both",
+      "url": "https://cdn.modrinth.com/data/ulloLmqG/versions/Q29JlZfU/another_furniture-neoforge-4.0.2.jar",
+      "hash": "sha512:4b2afa5bd73b6a9df43cc4dc3e8dfb267b34388ba83810cc3d9c134e547e95458f4608a8be7e34eb09d67acde1a7220d2c311c789e6d1fa7f680f09ad66929ea",
+      "fileSize": 2417424,
+      "modrinth": {
+        "projectId": "ulloLmqG",
+        "versionId": "Q29JlZfU"
+      }
+    },
+    {
+      "name": "appleskin",
+      "filename": "appleskin-neoforge-mc1.21-3.0.9.jar",
+      "side": "both",
+      "url": "https://cdn.modrinth.com/data/EsAfCjCV/versions/uAKA6Laj/appleskin-neoforge-mc1.21-3.0.9.jar",
+      "hash": "sha512:f4ea46273e407334b63e262e2555c9a8204f7b5e60f23f272fbaa83ad9e88800e0ee186aca840710df2dbe0a18b37758695fef2ae1a902c10b3706e3de772937",
+      "fileSize": 75804,
+      "modrinth": {
+        "projectId": "EsAfCjCV",
+        "versionId": "uAKA6Laj"
+      }
+    },
+    {
+      "name": "architectury",
+      "filename": "architectury-13.0.8-neoforge.jar",
+      "side": "both",
+      "url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/ZxYGwlk0/architectury-13.0.8-neoforge.jar",
+      "hash": "sha512:65e3664953385d880320dd6bb818bcb96d361c07c53e2a7f65e64c6a47720ee26b233224ae9cad465ef0b2bbaefdaf30fb0175a983cecd91de058817d6fcf57e",
+      "fileSize": 584004,
+      "modrinth": {
+        "projectId": "lhGA9TYQ",
+        "versionId": "ZxYGwlk0"
+      }
+    },
+    {
+      "name": "autumnity",
+      "filename": "autumnity-1.21.1-6.0.1.jar",
+      "side": "both",
+      "url": "https://cdn.modrinth.com/data/cRh6MJ6n/versions/9jUNvDKx/autumnity-1.21.1-6.0.1.jar",
+      "hash": "sha512:6d7afea7903b494465742e1def892edc35a86cd29d0c0c90f0b46249ecf63dd62bc52d44b71dc216a06972cd4d33ee956bfd73cea2f8a3a798ddf68c1d232327",
+      "fileSize": 1261462,
+      "modrinth": {
+        "projectId": "cRh6MJ6n",
+        "versionId": "9jUNvDKx"
+      }
+    },
+    {
+      "name": "baguettelib",
+      "filename": "baguettelib-1.21.1-NeoForge-2.0.3.jar",
+      "side": "both",
+      "url": "https://cdn.modrinth.com/data/OfKzpbRU/versions/guIAbyuH/baguettelib-1.21.1-NeoForge-2.0.3.jar",
+      "hash": "sha512:3def04f7f11ba743516594b69250ca7c54c11e0c4ffeeb718bfd9736096bfb25768642eb210f6cf716f33b8c12faf2e998df2db98cf495f0527620e8bec80a79",
+      "fileSize": 74380,
+      "modrinth": {
+        "projectId": "OfKzpbRU",
+        "versionId": "guIAbyuH"
+      }
+    },
+    {
+      "name": "barebackhorseriding",
+      "filename": "barebackhorseriding-1.21.1-2.3.jar",
+      "side": "both",
+      "url": "https://cdn.modrinth.com/data/gc78ZRwD/versions/KvWMLqgJ/barebackhorseriding-1.21.1-2.3.jar",
+      "hash": "sha512:2c1c70d255295806a78440951ed80a5db7e40336c5c9edcfad1ff2166ecd40175e474d0fcae2c58b89068fefc4862555fb51bc0d4411c1f40515710eac2d68c1",
+      "fileSize": 53860,
+      "modrinth": {
+        "projectId": "gc78ZRwD",
+        "versionId": "KvWMLqgJ"
+      }
+    },
+    {
+      "name": "beekeeperhut",
+      "filename": "beekeeperhut-neoforge-3.0.2+mc1.21.1.jar",
+      "side": "both",
+      "url": "https://cdn.modrinth.com/data/K62sN7Sd/versions/eLpyxNQm/beekeeperhut-neoforge-3.0.2%2Bmc1.21.1.jar",
+      "hash": "sha512:de2da0a5a431790aa34385babdbfdbd2679147a5b58096172e36160a6748bf603795b3b10ebadba549ae452fd5f8561c6736da98ea7998b80b0d5b5cae96cf90",
+      "fileSize": 88029,
+      "modrinth": {
+        "projectId": "K62sN7Sd",
+        "versionId": "eLpyxNQm"
+      }
+    },
+    {
+      "name": "better",
+      "filename": "better-clouds-1.7.19+1.21.1-neoforge.jar",
+      "side": "both",
+      "url": "https://cdn.modrinth.com/data/5srFLIaK/versions/wapDaY5q/better-clouds-1.7.19%2B1.21.1-neoforge.jar",
+      "hash": "sha512:745ca8e1d3e579470b7cf6503aa3bc559de94fbf2ab6ef88fe0b670f93a40508f705418b8332da66b1853199f5f40872e6cc2cd8fb9fa1636078927c4db2220f",
+      "fileSize": 787669,
+      "modrinth": {
+        "projectId": "5srFLIaK",
+        "versionId": "wapDaY5q"
+      }
+    },
+    {
+      "name": "biolith",
+      "filename": "biolith-neoforge-3.0.10.jar",
+      "side": "both",
+      "url": "https://cdn.modrinth.com/data/iGEl6Crx/versions/byVGeYWw/biolith-neoforge-3.0.10.jar",
+      "hash": "sha512:cc3c37d53af4c0dec19dd7b2cff5c3145e1d97993fb52969288d4d00a2a11dd5f118d5501fec128125f429189556476bc5ba45d20b580fa18bbfd722617f6041",
+      "fileSize": 215482,
+      "modrinth": {
+        "projectId": "iGEl6Crx",
+        "versionId": "byVGeYWw"
+      }
+    },
+    {
+      "name": "blueprint",
+      "filename": "blueprint-1.21.1-8.0.8.jar",
+      "side": "both",
+      "url": "https://cdn.modrinth.com/data/VsM5EDoI/versions/YSWV62mG/blueprint-1.21.1-8.0.8.jar",
+      "hash": "sha512:3864af3a4204a60b88627887dd40efdd820376c465ebfa8201de1cdf21300c57881a08bbce7864f7dd81dbeaddfb6045881b52dfdddc03a7e7592bd6783c8d11",
+      "fileSize": 1098679,
+      "modrinth": {
+        "projectId": "VsM5EDoI",
+        "versionId": "YSWV62mG"
+      }
+    },
+    {
+      "name": "boatload",
+      "filename": "boatload-1.21.1-6.0.2.jar",
+      "side": "both",
+      "url": "https://cdn.modrinth.com/data/hevpK888/versions/cizR5egt/boatload-1.21.1-6.0.2.jar",
+      "hash": "sha512:4814dd93098919ad4b5633a3f95ab1fe00e05d31ae114208c52de0ea3c23c605fa850ec877eb6e50cc10d18b42244d1e411b4f79d3252308465bb68f5f0a95e1",
+      "fileSize": 375132,
+      "modrinth": {
+        "projectId": "hevpK888",
+        "versionId": "cizR5egt"
+      }
+    },
+    {
+      "name": "bookshelf",
+      "filename": "bookshelf-neoforge-1.21.1-21.1.81.jar",
+      "side": "both",
+      "url": "https://cdn.modrinth.com/data/uy4Cnpcm/versions/1sdJl7J1/bookshelf-neoforge-1.21.1-21.1.81.jar",
+      "hash": "sha512:78d4577a8e8fbb241216968475dd73f5b9e5efeb7da802b18a4e6c290e49af6cb4a5676e9855d0d8ff3613f967812e4bd363bbb9196c17c954d19454f84b2214",
+      "fileSize": 328813,
+      "modrinth": {
+        "projectId": "uy4Cnpcm",
+        "versionId": "1sdJl7J1"
+      }
+    },
+    {
+      "name": "bountifulfares",
+      "filename": "bountifulfares-neoforge-1.21.1-3.0.5.jar",
+      "side": "both",
+      "url": "https://cdn.modrinth.com/data/YgrSDjlb/versions/ldSCDIGz/bountifulfares-neoforge-1.21.1-3.0.5.jar",
+      "hash": "sha512:15d8726454f2105b69840cdd3084d43785dfa9e622a4ba15a8e863cc78f0a57f45dd3ec57a085cefce09e89b9cee34fd2f17bf778e6e241a0fa8fe93bd944b4a",
+      "fileSize": 4093808,
+      "modrinth": {
+        "projectId": "YgrSDjlb",
+        "versionId": "ldSCDIGz"
+      }
+    },
+    {
+      "name": "c2me",
+      "filename": "c2me-neoforge-mc1.21.1-0.3.0+alpha.0.91.jar",
+      "side": "both",
+      "url": "https://cdn.modrinth.com/data/COlSi5iR/versions/9iPiN34N/c2me-neoforge-mc1.21.1-0.3.0%2Balpha.0.91.jar",
+      "hash": "sha512:9e0bc6fe17ebbaaec9999c5f742e6e0eb50abd9eea578a76e15ed411adebe8cdf9d17224493ffdc17f16d46bad52efe10efebfb998e346997b03cb5edd144c3f",
+      "fileSize": 4508649,
+      "modrinth": {
+        "projectId": "COlSi5iR",
+        "versionId": "9iPiN34N"
+      }
+    },
+    {
+      "name": "call",
+      "filename": "call-your-horse-v1.3.11.jar",
+      "side": "both",
+      "url": "https://cdn.modrinth.com/data/QuDyXDNw/versions/8McTlamo/call-your-horse-v1.3.11.jar",
+      "hash": "sha512:bc957f4a616ac1d6a1c97273d9e46c3298c467c679e65477b16768b0a00d5120dfce7b2c36e4a0f48e4a51b7ae34a18ddb57f7eea03d784a27e3acc1a229b8b4",
+      "fileSize": 207756,
+      "modrinth": {
+        "projectId": "QuDyXDNw",
+        "versionId": "8McTlamo"
+      }
+    },
+    {
+      "name": "camping",
+      "filename": "camping-neoforge-1.21.1-2.1.4.jar",
+      "side": "both",
+      "url": "https://cdn.modrinth.com/data/uJXTNuf0/versions/FbkgllmH/camping-neoforge-1.21.1-2.1.4.jar",
+      "hash": "sha512:98e50cd679a7a3a0aa0fc8478524b4f367c34dcda9c6affed6aef5d658a270af33abacdee03eeebe4f7f413a1f09fb6502161e63962b09bec38b954dbaf9ef56",
+      "fileSize": 749330,
+      "modrinth": {
+        "projectId": "uJXTNuf0",
+        "versionId": "FbkgllmH"
+      }
+    },
+    {
+      "name": "carryon",
+      "filename": "carryon-neoforge-1.21.1-2.2.4.4.jar",
+      "side": "both",
+      "url": "https://cdn.modrinth.com/data/joEfVgkn/versions/cgZi7nC7/carryon-neoforge-1.21.1-2.2.4.4.jar",
+      "hash": "sha512:8b78ddc55ce6e28d4457dadb5aca4cd32e16d2db3c395276993e67c6acc108ced55e3e3d9a01aa5bf1da0d4fccab6183ba62acc1421054c0b2ecae9bd03cabf6",
+      "fileSize": 357489,
+      "modrinth": {
+        "projectId": "joEfVgkn",
+        "versionId": "cgZi7nC7"
+      }
+    },
+    {
+      "name": "chatanimation",
+      "filename": "chatanimation-neoforge-1.21.1-1.1.3.jar",
+      "side": "both",
+      "url": "https://cdn.modrinth.com/data/DnNYdJsx/versions/fo7IaI89/chatanimation-neoforge-1.21.1-1.1.3.jar",
+      "hash": "sha512:e7f8b57e72b0a82dd549638303ad5e94aad7dd712769352deff4d215ed747654190717e496a3be49a3958c99e1712a9c66713404f7f5eeac62debcc737ee51d6",
+      "fileSize": 380396,
+      "modrinth": {
+        "projectId": "DnNYdJsx",
+        "versionId": "fo7IaI89"
+      }
+    },
+    {
+      "name": "chefsdelight",
+      "filename": "chefsdelight-1.0.5-neoforge-1.21.1.jar",
+      "side": "both",
+      "url": "https://cdn.modrinth.com/data/pvcsfne4/versions/csBO1q5h/chefsdelight-1.0.5-neoforge-1.21.1.jar",
+      "hash": "sha512:ea8bb83fd10a9936d52c72b7952ab46674ca3426d741a7e42f301df19e1474b47594ab9ad1b8b424011305f58146522afe4e991d79920a59f7ff066dd9ae620a",
+      "fileSize": 95250,
+      "modrinth": {
+        "projectId": "pvcsfne4",
+        "versionId": "csBO1q5h"
+      }
+    },
+    {
+      "name": "ColdSweat",
+      "filename": "ColdSweat-2.4.jar",
+      "side": "both",
+      "url": "https://cdn.modrinth.com/data/uXhSmPjd/versions/Hx2FM8dR/ColdSweat-2.4.jar",
+      "hash": "sha512:0f77faae22f6b9e9c8b621c4ba82330368506dec3048175ffeabd263e8a9facfd4d1c3360f0ae46423ace3be284bb0fcba7eacc5a14bb3a2c69e06681cbd52de",
+      "fileSize": 2588919,
+      "modrinth": {
+        "projectId": "uXhSmPjd",
+        "versionId": "Hx2FM8dR"
+      }
+    },
+    {
+      "name": "collective",
+      "filename": "collective-1.21.1-8.20.jar",
+      "side": "both",
+      "url": "https://cdn.modrinth.com/data/e0M1UDsY/versions/QS3LpoNt/collective-1.21.1-8.20.jar",
+      "hash": "sha512:b850339ab7f6966c05ddc44fb5073cee5823f2beaf05b0d013097c84cdd70644ece6f2286ec6515303eab4beb2836863a104aae2c5734ba8d7a2478ade81196c",
+      "fileSize": 942780,
+      "modrinth": {
+        "projectId": "e0M1UDsY",
+        "versionId": "QS3LpoNt"
+      }
+    },
+    {
+      "name": "colorwheel",
+      "filename": "colorwheel-neoforge-1.2.4+mc1.21.1.jar",
+      "side": "both",
+      "url": "https://cdn.modrinth.com/data/BzHgFoGz/versions/OuwQlVxo/colorwheel-neoforge-1.2.4%2Bmc1.21.1.jar",
+      "hash": "sha512:c977d08a8a7f3512e7709d6ab57e627c56cfb904426fecfed5917cc94ef060030f3a3dbc7616ebece97ee83924fa5b8c155483bc4db1be4d1b9346b030a29d18",
+      "fileSize": 384085,
+      "modrinth": {
+        "projectId": "BzHgFoGz",
+        "versionId": "OuwQlVxo"
+      }
+    },
+    {
+      "name": "comforts",
+      "filename": "comforts-neoforge-9.0.5+1.21.1.jar",
+      "side": "both",
+      "url": "https://cdn.modrinth.com/data/SaCpeal4/versions/3kpPjcTc/comforts-neoforge-9.0.5%2B1.21.1.jar",
+      "hash": "sha512:e9de2952545e9e773a6e78fc501e8cd231ea19750c30404355b71df9928eb5bd0921a4429aeca9d0fa10e67717f77fcf7a2aae117ac953b8f7de246b0ad685e4",
+      "fileSize": 422658,
+      "modrinth": {
+        "projectId": "SaCpeal4",
+        "versionId": "3kpPjcTc"
+      }
+    },
+    {
+      "name": "Companion",
+      "filename": "Companion-1.21.1-NeoForge-6.1.1.jar",
+      "side": "both",
+      "url": "https://cdn.modrinth.com/data/4w0EzGRW/versions/eOB43rJ0/Companion-1.21.1-NeoForge-6.1.1.jar",
+      "hash": "sha512:9ea754d6e87618a042b134d3e864a8155f99b12ef7aa13190cd646b7462429c13bff191368ae38062fd1de486339a94c4cbef06e7ccfd79f08f01420ee20eed6",
+      "fileSize": 41800,
+      "modrinth": {
+        "projectId": "4w0EzGRW",
+        "versionId": "eOB43rJ0"
+      }
+    },
+    {
+      "name": "connector",
+      "filename": "connector-2.0.0-beta.14+1.21.1-full.jar",
+      "side": "both",
+      "url": "https://cdn.modrinth.com/data/u58R1TMW/versions/1i8teo7m/connector-2.0.0-beta.14%2B1.21.1-full.jar",
+      "hash": "sha512:6ed3168c2c7dad2606ada1fdf63ee412bb8bb5620718a702f6ac51310e671f2f93ab46fc96400e258f4433e51b96f9dd21441e1a8963d8b356c75b578e156dcc",
+      "fileSize": 4526785,
+      "modrinth": {
+        "projectId": "u58R1TMW",
+        "versionId": "1i8teo7m"
+      }
+    },
+    {
+      "name": "continuity",
+      "filename": "continuity-3.0.0+1.21.neoforge.jar",
+      "side": "both",
+      "url": "https://cdn.modrinth.com/data/1IjD5062/versions/eXGUs5sy/continuity-3.0.0%2B1.21.neoforge.jar",
+      "hash": "sha512:320b6def6073ce0ffc0ce2bd7cdb66324467ea3e7cec05508f32d78f65c60ff3e155394b94c60f62e059404ec0ca3fc6112987a5764a8f85241d3026a2ee4935",
+      "fileSize": 1014626,
+      "modrinth": {
+        "projectId": "1IjD5062",
+        "versionId": "eXGUs5sy"
+      }
+    },
+    {
+      "name": "Controlling",
+      "filename": "Controlling-neoforge-1.21.1-19.0.5.jar",
+      "side": "both",
+      "url": "https://cdn.modrinth.com/data/xv94TkTM/versions/FaNppCJJ/Controlling-neoforge-1.21.1-19.0.5.jar",
+      "hash": "sha512:bd01b2a38a869ea38e5f2a8fcd601e67ea9b132b9883c6ae752bc35dff6e94f6d47b965e31c1ee5c2f6a1221653549680da779fcb5319d199aec261d221d179e",
+      "fileSize": 77555,
+      "modrinth": {
+        "projectId": "xv94TkTM",
+        "versionId": "FaNppCJJ"
+      }
+    },
+    {
+      "name": "copycats",
+      "filename": "copycats-3.0.4+mc.1.21.1-neoforge.jar",
+      "side": "both",
+      "url": "https://cdn.modrinth.com/data/UT2M39wf/versions/kecZ0sl7/copycats-3.0.4%2Bmc.1.21.1-neoforge.jar",
+      "hash": "sha512:ecc98e659be66a71af0aee66a9f4c7c8838f4f0101402644929079ce7280a572a000e7e417905e1869a51d6e49ebbd601008f54585e07ee4ed01f2c4bc752bfe",
+      "fileSize": 1791747,
+      "modrinth": {
+        "projectId": "UT2M39wf",
+        "versionId": "kecZ0sl7"
+      }
+    },
+    {
+      "name": "cornexpansion",
+      "filename": "cornexpansion-neoforge-1.2.4.jar",
+      "side": "both",
+      "url": "https://cdn.modrinth.com/data/20p2kirx/versions/XcyHDbK8/cornexpansion-neoforge-1.2.4.jar",
+      "hash": "sha512:9c5b2fe736c1f738a9100f016ae1078e0812fb1b18738670f40db6238038392599e30abb1522ebadd72457547a13c4371d8d03071f978d5318fed2546a894111",
+      "fileSize": 884191,
+      "modrinth": {
+        "projectId": "20p2kirx",
+        "versionId": "XcyHDbK8"
+      }
+    },
+    {
+      "name": "coroutil",
+      "filename": "coroutil-neoforge-1.21.0-1.3.8.jar",
+      "side": "both",
+      "url": "https://cdn.modrinth.com/data/rLLJ1OZM/versions/H2YXCYUY/coroutil-neoforge-1.21.0-1.3.8.jar",
+      "hash": "sha512:daae9e37acddedccad05e3f8e565f8b4c237f25b2462e043428f88b32fc27e4bc3a00955ed7426a7d7f93f068b4e96b37e2e42d121d40fdf94a31b6c2b7440e0",
+      "fileSize": 63981,
+      "modrinth": {
+        "projectId": "rLLJ1OZM",
+        "versionId": "H2YXCYUY"
+      }
+    },
+    {
+      "name": "corpse",
+      "filename": "corpse-neoforge-1.21.1-1.1.13.jar",
+      "side": "both",
+      "url": "https://cdn.modrinth.com/data/WrpuIfhw/versions/Zwf8nv8y/corpse-neoforge-1.21.1-1.1.13.jar",
+      "hash": "sha512:473aafd82008c1e041e3b4a5a177507d555c8bc9dd1f121f252f1e81bc0c69c79a91cb64be0df343babcb3d4db76efbaa7aa2adaeaae29337808a368bc290ad0",
+      "fileSize": 253694,
+      "modrinth": {
+        "projectId": "WrpuIfhw",
+        "versionId": "Zwf8nv8y"
+      }
+    },
+    {
+      "name": "corpsecurioscompat",
+      "filename": "corpsecurioscompat-1.21.1-NeoForge-4.0.1.jar",
+      "side": "both",
+      "url": "https://cdn.modrinth.com/data/pJGcKPh1/versions/Ix4uAd2i/corpsecurioscompat-1.21.1-NeoForge-4.0.1.jar",
+      "hash": "sha512:3a75b28b4bf25d775c399c8b5eff1f186020957332f3698d4e313cd0c0785c8b5814ca7fd7194e8b938e276073bab99e8d22aa2c5c10ca78763945db825059fe",
+      "fileSize": 23659,
+      "modrinth": {
+        "projectId": "pJGcKPh1",
+        "versionId": "Ix4uAd2i"
+      }
+    },
+    {
+      "name": "create",
+      "filename": "create-1.21.1-6.0.10.jar",
+      "side": "both",
+      "url": "https://cdn.modrinth.com/data/LNytGWDc/versions/UjX6dr61/create-1.21.1-6.0.10.jar",
+      "hash": "sha512:11cc8fc049d2f67f6548c7abfada6b82a3adb5c7ca410a742de04bbca76e03862c518721b88d806f6e6d768a4d68531fdb903a85859b25d1484d550cc7bafd4b",
+      "fileSize": 19123767,
+      "modrinth": {
+        "projectId": "LNytGWDc",
+        "versionId": "UjX6dr61"
+      }
+    },
+    {
+      "name": "create",
+      "filename": "create-aeronautics-bundled-1.21.1-1.1.3.jar",
+      "side": "both",
+      "url": "https://cdn.modrinth.com/data/oWaK0Q19/versions/1sv6OtSz/create-aeronautics-bundled-1.21.1-1.1.3.jar",
+      "hash": "sha512:94831bc4702b3864524258fa0a73a50ab3cd37e9c157b5c6688a6845b866ec5838452804050b55e490549d91dad909fc37f0d619f354c5676e2e2651b9c15ec6",
+      "fileSize": 33003314,
+      "modrinth": {
+        "projectId": "oWaK0Q19",
+        "versionId": "1sv6OtSz"
+      }
+    },
+    {
+      "name": "create",
+      "filename": "create-central-kitchen-2.3.0.jar",
+      "side": "both",
+      "url": "https://cdn.modrinth.com/data/btq68HMO/versions/SpLHbsZw/create-central-kitchen-2.3.0.jar",
+      "hash": "sha512:36c13e70c28efbf811c57c6fca76279aba7a1d94c8a3e85d6f78f525cb01deee56d7e52968b595b3193532c8f3a44cf9022d5a009e5c97cca16aabafb6d3d40e",
+      "fileSize": 342206,
+      "modrinth": {
+        "projectId": "btq68HMO",
+        "versionId": "SpLHbsZw"
+      }
+    },
+    {
+      "name": "create",
+      "filename": "create_cold_sweat-1.1.2.jar",
+      "side": "both",
+      "url": "https://cdn.modrinth.com/data/Arx7g8V4/versions/4B4BwhGn/create_cold_sweat-1.1.2.jar",
+      "hash": "sha512:738b939c9bceae91282b00e029f702ca3486ab433a1b69754a74784b10526d3c28db263f7ade947152c0c129ff321169e1ed32fb422572308567ab83860bc418",
+      "fileSize": 214958,
+      "modrinth": {
+        "projectId": "Arx7g8V4",
+        "versionId": "4B4BwhGn"
+      }
+    },
+    {
+      "name": "createbetterfps",
+      "filename": "createbetterfps-1.21.1-1.1.4.jar",
+      "side": "both",
+      "url": "https://cdn.modrinth.com/data/lMYIHZNH/versions/QWqEdWHy/createbetterfps-1.21.1-1.1.4.jar",
+      "hash": "sha512:777cf4c533eba723baea1ef1fffcd2d47c8f4f8238ddc360973b41ae4946f7e733a24542a3691c4a1be2f41e55b07675f9ccfa633be186e72d11911ca67fa412",
+      "fileSize": 26547,
+      "modrinth": {
+        "projectId": "lMYIHZNH",
+        "versionId": "QWqEdWHy"
+      }
+    },
+    {
+      "name": "CreateDragonsPlus",
+      "filename": "CreateDragonsPlus-1.10.0b.jar",
+      "side": "both",
+      "url": "https://cdn.modrinth.com/data/dzb1a5WV/versions/ew6gKsnx/CreateDragonsPlus-1.10.0b.jar",
+      "hash": "sha512:e54e40f1d0f005693a2a165f15a694482c44406ee34f1658d687ad0397f173227be42cc208bafd6706ad0be547b8ee85cbad5b52f17c7fa7216fb729d4e81684",
+      "fileSize": 756460,
+      "modrinth": {
+        "projectId": "dzb1a5WV",
+        "versionId": "ew6gKsnx"
+      }
+    },
+    {
+      "name": "CreateNumismatics",
+      "filename": "CreateNumismatics-1.0.20+neoforge-mc1.21.1.jar",
+      "side": "both",
+      "url": "https://cdn.modrinth.com/data/Jdbbtt0i/versions/guON3qvQ/CreateNumismatics-1.0.20%2Bneoforge-mc1.21.1.jar",
+      "hash": "sha512:2b4ccd516865997735e1a3ec323615bd32d9388e15cc04097ac455f2b453423fccd21969782ecfd031b3de6ed85506ba5349da24c32f5e3eaaf558c5163cf203",
+      "fileSize": 693446,
+      "modrinth": {
+        "projectId": "Jdbbtt0i",
+        "versionId": "guON3qvQ"
+      }
+    },
+    {
+      "name": "createthreadedtrains",
+      "filename": "createthreadedtrains-neoforge-1.21.1-1.0.0.jar",
+      "side": "both",
+      "url": "https://cdn.modrinth.com/data/RYJzdkDr/versions/ry1hvo4l/createthreadedtrains-neoforge-1.21.1-1.0.0.jar",
+      "hash": "sha512:93511d32e8c7484fdcfd90646d48f297ba3188788e0ea6412900be38ae6b82e69bc131bbb011519b52ac0728a7dfd531c0ac356a7935335c06f691ad20e38c69",
+      "fileSize": 77249,
+      "modrinth": {
+        "projectId": "RYJzdkDr",
+        "versionId": "ry1hvo4l"
+      }
+    },
+    {
+      "name": "cristellib",
+      "filename": "cristellib-neoforge-1.21.1-3.0.3.jar",
+      "side": "both",
+      "url": "https://cdn.modrinth.com/data/cl223EMc/versions/JiCAbUWP/cristellib-neoforge-1.21.1-3.0.3.jar",
+      "hash": "sha512:b1408d22adeb6d113ddaba0c5d1f24aa5193d565f4f94dae6b81867f17859f2204c438d26977625aaed614c58fbf08860195154a179c9fb62798d2d629a07877",
+      "fileSize": 539899,
+      "modrinth": {
+        "projectId": "cl223EMc",
+        "versionId": "JiCAbUWP"
+      }
+    },
+    {
+      "name": "crittersandcompanions",
+      "filename": "crittersandcompanions-neoforge-1.21.1-2.3.4.jar",
+      "side": "both",
+      "url": "https://cdn.modrinth.com/data/Yd4wb5wZ/versions/a8zCwdaO/crittersandcompanions-neoforge-1.21.1-2.3.4.jar",
+      "hash": "sha512:9136748c2addf55751d34faa89bca2d3ee40e26d9a2ef9743268920b91be5cb72e2aa58be9010b534d4b2f51ed8001e162f7df62039ad0c86d5c277079eb846f",
+      "fileSize": 1398478,
+      "modrinth": {
+        "projectId": "Yd4wb5wZ",
+        "versionId": "a8zCwdaO"
+      }
+    },
+    {
+      "name": "curios",
+      "filename": "curios-neoforge-9.5.1+1.21.1.jar",
+      "side": "both",
+      "url": "https://cdn.modrinth.com/data/vvuO3ImH/versions/yohfFbgD/curios-neoforge-9.5.1%2B1.21.1.jar",
+      "hash": "sha512:5981a267686b744e7e3c227f78cbcd5267c14ac6979a28e814695f4589273998563147207fef4a5cdb7cdbdc39797cd95d9e4abadb55869f18e02a38d0654ae5",
+      "fileSize": 410690,
+      "modrinth": {
+        "projectId": "vvuO3ImH",
+        "versionId": "yohfFbgD"
+      }
+    },
+    {
+      "name": "cwb",
+      "filename": "cwb-neoforge-3.0.0+mc1.21.jar",
+      "side": "both",
+      "url": "https://cdn.modrinth.com/data/ETlrkaYF/versions/epixUL1j/cwb-neoforge-3.0.0%2Bmc1.21.jar",
+      "hash": "sha512:cbe2770179a948bc5cc7ab9fffdb65262745bb42902d03860cb6218708c1d5ffbabfafe40046dd350c3290ab9d07797bf0225ee4a41f917fff120b23b9d9cc04",
+      "fileSize": 81843,
+      "modrinth": {
+        "projectId": "ETlrkaYF",
+        "versionId": "epixUL1j"
+      }
+    },
+    {
+      "name": "darkpaintings",
+      "filename": "darkpaintings-neoforge-1.21.1-21.1.7.jar",
+      "side": "both",
+      "url": "https://cdn.modrinth.com/data/lFGQ4Hnk/versions/G4l3EuRR/darkpaintings-neoforge-1.21.1-21.1.7.jar",
+      "hash": "sha512:ae8382b38bee167e1e710a96eae8e7347fb9a4b70d5e5250662478eb6d26567c7d4070c7adc85ea1fc2bd4bf3e0761e1fe15b12ba87301c281d7d52f7c0c2ba5",
+      "fileSize": 70307,
+      "modrinth": {
+        "projectId": "lFGQ4Hnk",
+        "versionId": "G4l3EuRR"
+      }
+    },
+    {
+      "name": "deeperdarker",
+      "filename": "deeperdarker-neoforge-1.21.1-1.4.jar",
+      "side": "both",
+      "url": "https://cdn.modrinth.com/data/fnAffV0n/versions/G6YDRA79/deeperdarker-neoforge-1.21.1-1.4.jar",
+      "hash": "sha512:0e4824095b49fcbf26624093f8e332d8c019179432756512f929a8a45c1289d76f7e63776b40ea4053d73274e98f5326c4dc5be85cff638d03279e6ba8b66811",
+      "fileSize": 3906391,
+      "modrinth": {
+        "projectId": "fnAffV0n",
+        "versionId": "G6YDRA79"
+      }
+    },
+    {
+      "name": "DistantHorizons",
+      "filename": "DistantHorizons-3.0.1-b-1.21.1-fabric-neoforge.jar",
+      "side": "both",
+      "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/VH8Pl4yr/DistantHorizons-3.0.1-b-1.21.1-fabric-neoforge.jar",
+      "hash": "sha512:fc25b9d49cb3116416666e35cfb3c0e31d0e395f88c62b97f6e8dd992b6e11b76456787abbc2c5c675275cb4dcf35c565875cc3f07971218287b50ccad914b3e",
+      "fileSize": 30016230,
+      "modrinth": {
+        "projectId": "uCdwusMi",
+        "versionId": "VH8Pl4yr"
+      }
+    },
+    {
+      "name": "endersdelight",
+      "filename": "endersdelight-1.2.0-1.21.1.jar",
+      "side": "both",
+      "url": "https://cdn.modrinth.com/data/2uEhdGKt/versions/62u9jbn9/endersdelight-1.2.0-1.21.1.jar",
+      "hash": "sha512:932ee53c4d2257d6bcb707912e6660df8f511811d2787181a132cf8e23b17582b1d71ad21953ebec61096cb7a71f87d78e02241d9bd72c571d7ab6d7a06e76bd",
+      "fileSize": 159382,
+      "modrinth": {
+        "projectId": "2uEhdGKt",
+        "versionId": "62u9jbn9"
+      }
+    },
+    {
+      "name": "ends",
+      "filename": "ends_delight-2.5.1+neoforge.1.21.1.jar",
+      "side": "both",
+      "url": "https://cdn.modrinth.com/data/yHN0njMr/versions/YxSK1qNm/ends_delight-2.5.1%2Bneoforge.1.21.1.jar",
+      "hash": "sha512:c36b4a7ac0d55bf18506846ae01dbfb3d89b9333d334d309319346b632aac55441240f8b766ab52b1e497d96d47a5ad8d357af7f5a763473f05ce0fe1b861814",
+      "fileSize": 263222,
+      "modrinth": {
+        "projectId": "yHN0njMr",
+        "versionId": "YxSK1qNm"
+      }
+    },
+    {
+      "name": "entity",
+      "filename": "entity_model_features_1.21-neoforge-3.1.1.jar",
+      "side": "both",
+      "url": "https://cdn.modrinth.com/data/4I1XuqiY/versions/X2O4Wo1f/entity_model_features_1.21-neoforge-3.1.1.jar",
+      "hash": "sha512:8b3d706891135b9beef50061ae3d2d93843a4ec13c15b14031e33dd97bd2a6269b354d14b51f9f6834a7c59abfb9ac31a8d0945f8c94318b4c24af8f20d03e36",
+      "fileSize": 514814,
+      "modrinth": {
+        "projectId": "4I1XuqiY",
+        "versionId": "X2O4Wo1f"
+      }
+    },
+    {
+      "name": "entity",
+      "filename": "entity_texture_features_1.21-neoforge-7.1.jar",
+      "side": "both",
+      "url": "https://cdn.modrinth.com/data/BVzZfTc1/versions/YEMROAHv/entity_texture_features_1.21-neoforge-7.1.jar",
+      "hash": "sha512:fc4b6a75ad57defb944d188fac78e45a33342a2c2a2b0e673c81ac370df09335d4371c8e10bea8f593da4b1f1c2fcc361c124b274ee4b3c2ae75571f00742059",
+      "fileSize": 752334,
+      "modrinth": {
+        "projectId": "BVzZfTc1",
+        "versionId": "YEMROAHv"
+      }
+    },
+    {
+      "name": "entityculling",
+      "filename": "entityculling-neoforge-1.10.1-mc1.21.1.jar",
+      "side": "both",
+      "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/LrKSuU8e/entityculling-neoforge-1.10.1-mc1.21.1.jar",
+      "hash": "sha512:dc3c746929c454ca0bebf0b06788f20896a0f3a477150b4ce23399054eecd831ee6b0bd14edadf6a3f921eb695ae13c1a20b70d72d7f78bd6dda07ffa6e0e304",
+      "fileSize": 1578350,
+      "modrinth": {
+        "projectId": "NNAgCjsB",
+        "versionId": "LrKSuU8e"
+      }
+    },
+    {
+      "name": "expandeddelight",
+      "filename": "expandeddelight-0.1.4.jar",
+      "side": "both",
+      "url": "https://cdn.modrinth.com/data/e9V6wFcR/versions/RTRYPIJp/expandeddelight-0.1.4.jar",
+      "hash": "sha512:13a2bd17c5c184902da9eb78ce9b993073864301e8cb4a038f7fd7e596188826ef13381cf615533286f53eaeaabfc4c8b27ab91113a15ea68e4bd9f84ca16b8b",
+      "fileSize": 547554,
+      "modrinth": {
+        "projectId": "e9V6wFcR",
+        "versionId": "RTRYPIJp"
+      }
+    },
+    {
+      "name": "ExplorersCompass",
+      "filename": "ExplorersCompass-1.21.1-3.4.0-neoforge.jar",
+      "side": "both",
+      "url": "https://cdn.modrinth.com/data/RV1qfVQ8/versions/hIJ2Ev1Q/ExplorersCompass-1.21.1-3.4.0-neoforge.jar",
+      "hash": "sha512:a1b2e385aaacb547763441fc23e9a33a0b1d67bd32094cd605ded3fbdd1c7a0e5fc4520fdfa090c29d2d3384b685e3ead91b32d20030e45632c94145ee3ec668",
+      "fileSize": 174668,
+      "modrinth": {
+        "projectId": "RV1qfVQ8",
+        "versionId": "hIJ2Ev1Q"
+      }
+    },
+    {
+      "name": "fallingleaves",
+      "filename": "fallingleaves-1.21.1-2.5.1.jar",
+      "side": "both",
+      "url": "https://cdn.modrinth.com/data/2JAUNCL4/versions/PVzaPLSv/fallingleaves-1.21.1-2.5.1.jar",
+      "hash": "sha512:9cc6ec387bce1a68f07b08bf1a2a65dc49ad409070f8cf58147d3cdbb9b82300d4a7184e01cf58a82886fb57156e6875b2cf7c4abb15335f8fd15be1de58400f",
+      "fileSize": 153343,
+      "modrinth": {
+        "projectId": "2JAUNCL4",
+        "versionId": "PVzaPLSv"
+      }
+    },
+    {
+      "name": "FarmersDelight",
+      "filename": "FarmersDelight-1.21.1-1.2.11a.jar",
+      "side": "both",
+      "url": "https://cdn.modrinth.com/data/R2OftAxM/versions/rOESN0jP/FarmersDelight-1.21.1-1.2.11a.jar",
+      "hash": "sha512:30f2ececa454f34e700a6966dc65d396d8e104212097d631af32d15f737d792a8dbbec58e49426319395a32d0a7797d23e10840cd1fc349ade6d3e6757be9408",
+      "fileSize": 2944552,
+      "modrinth": {
+        "projectId": "R2OftAxM",
+        "versionId": "rOESN0jP"
+      }
+    },
+    {
+      "name": "fast",
+      "filename": "fast-ip-ping-v1.0.11-mc1.21.1-neoforge.jar",
+      "side": "both",
+      "url": "https://cdn.modrinth.com/data/9mtu0sUO/versions/gRe07TZL/fast-ip-ping-v1.0.11-mc1.21.1-neoforge.jar",
+      "hash": "sha512:aaaf3c1494e240aa61d5191521cf324aab82a3d08c0a5dfa1db516bb26a6b165639b98fc8e9946bd65ad5048ecb6b96601d9febbd1d536f8e1ed5b72c741461f",
+      "fileSize": 10413,
+      "modrinth": {
+        "projectId": "9mtu0sUO",
+        "versionId": "gRe07TZL"
+      }
+    },
+    {
+      "name": "ferritecore",
+      "filename": "ferritecore-7.0.3-neoforge.jar",
+      "side": "both",
+      "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/x7kQWVju/ferritecore-7.0.3-neoforge.jar",
+      "hash": "sha512:19af89a2075bb10a63884fa853ebf84b02c79dc3242430ecdad056fd764fdcde367a7303276b329df01b0736e2ef264c5d80c7dc92c6aebd244f556a230bb417",
+      "fileSize": 121559,
+      "modrinth": {
+        "projectId": "uXXizFIs",
+        "versionId": "x7kQWVju"
+      }
+    },
+    {
+      "name": "flowerymooblooms",
+      "filename": "flowerymooblooms-neoforge-3.0.2+mc1.21.1.jar",
+      "side": "both",
+      "url": "https://cdn.modrinth.com/data/wYtDgIUZ/versions/3rBPej8a/flowerymooblooms-neoforge-3.0.2%2Bmc1.21.1.jar",
+      "hash": "sha512:9da01da88af185223d9cda16117a8d56d566a9411d1eb115a98c3c780686428eee4b4b75372b657971547add480837081dedf2ea91ffc95ace75ab402d0fc1b0",
+      "fileSize": 100338,
+      "modrinth": {
+        "projectId": "wYtDgIUZ",
+        "versionId": "3rBPej8a"
+      }
+    },
+    {
+      "name": "forgified",
+      "filename": "forgified-fabric-api-0.116.7+2.2.4+1.21.1.jar",
+      "side": "both",
+      "url": "https://cdn.modrinth.com/data/Aqlf1Shp/versions/7nHK7hMg/forgified-fabric-api-0.116.7%2B2.2.4%2B1.21.1.jar",
+      "hash": "sha512:858acb32a79e7ed1f37472bd7c50e3d2f47c7d7f6e734a8cece3800eb30d565a09580c261778ea73a0ae25e10e9eb9b16866012fe61d24f671b0ffe3ae2377dd",
+      "fileSize": 5569793,
+      "modrinth": {
+        "projectId": "Aqlf1Shp",
+        "versionId": "7nHK7hMg"
+      }
+    },
+    {
+      "name": "freecam",
+      "filename": "freecam-neoforge-1.3.0+mc1.21.jar",
+      "side": "both",
+      "url": "https://cdn.modrinth.com/data/XeEZ3fK2/versions/ROfcbxxe/freecam-neoforge-1.3.0%2Bmc1.21.jar",
+      "hash": "sha512:06cfa2acdde8320ca19edf3f49e7a3860cc079bbad02fda493459109d745da237e19ff6a28d879d4c863ea4cd24d83b193ec82dd351540ad27991e239f1e7a72",
+      "fileSize": 1137632,
+      "modrinth": {
+        "projectId": "XeEZ3fK2",
+        "versionId": "ROfcbxxe"
+      }
+    },
+    {
+      "name": "friendsandfoes",
+      "filename": "friendsandfoes-neoforge-4.0.23+mc1.21.1.jar",
+      "side": "both",
+      "url": "https://cdn.modrinth.com/data/BOCJKD49/versions/Z40Zq30r/friendsandfoes-neoforge-4.0.23%2Bmc1.21.1.jar",
+      "hash": "sha512:bdc98dac6cf1f2828c18a1f16336a1b6a04bc6ceea9a5e27de8a138fe1c57e7b9351d63debf978434ef0407f9fd277b27d3a3d025699efeaa9484da1592cf440",
+      "fileSize": 4988437,
+      "modrinth": {
+        "projectId": "BOCJKD49",
+        "versionId": "Z40Zq30r"
+      }
+    },
+    {
+      "name": "fzzy",
+      "filename": "fzzy_config-0.7.6+1.21+neoforge.jar",
+      "side": "both",
+      "url": "https://cdn.modrinth.com/data/hYykXjDp/versions/MAPG6cXE/fzzy_config-0.7.6%2B1.21%2Bneoforge.jar",
+      "hash": "sha512:6071890aba7f2273c9fd508914acc7850de9d986423760f9ce416875ffa04eea2ad71a7a6f4d5f90f0625a672f6f54606778d11151b155f3fd98c223c61a4a6d",
+      "fileSize": 2369895,
+      "modrinth": {
+        "projectId": "hYykXjDp",
+        "versionId": "MAPG6cXE"
+      }
+    },
+    {
+      "name": "geckolib",
+      "filename": "geckolib-neoforge-1.21.1-4.8.4.jar",
+      "side": "both",
+      "url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/gFmrC8Ru/geckolib-neoforge-1.21.1-4.8.4.jar",
+      "hash": "sha512:340d96149a04c57c09485f5b1c69e7f8ec3b68223c618e38b7d84c58f4280dcba3d0e9480b8fc79735d9ef5fd7da5fc8f3081d575bf4bbcd2c44b6dcf21d98c0",
+      "fileSize": 622582,
+      "modrinth": {
+        "projectId": "8BmcQJ2H",
+        "versionId": "gFmrC8Ru"
+      }
+    },
+    {
+      "name": "Geophilic v3.4.6.mod.jar",
+      "filename": "Geophilic v3.4.6.mod.jar",
+      "side": "both",
+      "url": "https://cdn.modrinth.com/data/hl5OLM95/versions/Vk4cYx6F/Geophilic%20v3.4.6.mod.jar",
+      "hash": "sha512:5d0ac03046a6524f015c6c380e5fce59d8b763eec5fd5b6b301d67418d25a726088e94d96381ec577425d03f7d70c3b711cfd13eea29e7a48a02e95a5fb11065",
+      "fileSize": 751598,
+      "modrinth": {
+        "projectId": "hl5OLM95",
+        "versionId": "Vk4cYx6F"
+      }
+    },
+    {
+      "name": "GPUTape",
+      "filename": "GPUTape-1.20.6-1.21x-1.0.3.jar",
+      "side": "both",
+      "url": "https://cdn.modrinth.com/data/5CTSrY8X/versions/nlerwS8N/GPUTape-1.20.6-1.21x-1.0.3.jar",
+      "hash": "sha512:63056c4ebc324244720d0ac35900ca121bcaee210b8684a48b4dd53c72c471f9075a6ca2da68270c72f2c2f8dedd970df02da250d44d18b95208c7f1deff3031",
+      "fileSize": 16669,
+      "modrinth": {
+        "projectId": "5CTSrY8X",
+        "versionId": "nlerwS8N"
+      }
+    },
+    {
+      "name": "handcrafted",
+      "filename": "handcrafted-neoforge-1.21.1-4.0.3.jar",
+      "side": "both",
+      "url": "https://cdn.modrinth.com/data/pJmCFF0p/versions/JfqnpP2Z/handcrafted-neoforge-1.21.1-4.0.3.jar",
+      "hash": "sha512:4ff5fb2aa9582b886d03f647fe9b8c12a828d29a1787e9c9b463be18192ea798e6a4ac83479623042791bce0bacbf6e3e2c2e9ef086640aeeb6970d3404e7ee4",
+      "fileSize": 7132842,
+      "modrinth": {
+        "projectId": "pJmCFF0p",
+        "versionId": "JfqnpP2Z"
+      }
+    },
+    {
+      "name": "HorseExpert",
+      "filename": "HorseExpert-v21.1.0-1.21.1-NeoForge.jar",
+      "side": "both",
+      "url": "https://cdn.modrinth.com/data/24CSPS1E/versions/Li2vsMel/HorseExpert-v21.1.0-1.21.1-NeoForge.jar",
+      "hash": "sha512:a032f50dd016210cd260e96a4216fc15c09e5aff781c5f2a130c90a38cb048a4dfa017086199074e790ea2ed5436e32a1b83b57c99a8104a4fe544f66c6193b3",
+      "fileSize": 91896,
+      "modrinth": {
+        "projectId": "24CSPS1E",
+        "versionId": "Li2vsMel"
+      }
+    },
+    {
+      "name": "horsescanswim",
+      "filename": "horsescanswim-1.1.0.jar",
+      "side": "both",
+      "url": "https://cdn.modrinth.com/data/ZrqMJA7K/versions/DXn0HRAX/horsescanswim-1.1.0.jar",
+      "hash": "sha512:4ac0e9586d38fb8ea2baa338bead0039d0cb5572b2db79816a4bedd3b8928f84d47271c59f01635dd89a3f797fe656431d4b336c7e09e0185b54a6b1e43e7f5e",
+      "fileSize": 5049,
+      "modrinth": {
+        "projectId": "ZrqMJA7K",
+        "versionId": "DXn0HRAX"
+      }
+    },
+    {
+      "name": "Iceberg",
+      "filename": "Iceberg-1.21.1-neoforge-1.3.2.jar",
+      "side": "both",
+      "url": "https://cdn.modrinth.com/data/5faXoLqX/versions/IMssx9du/Iceberg-1.21.1-neoforge-1.3.2.jar",
+      "hash": "sha512:19d33195cfee0a640f40fb64d82346df7ac970ddb43ed68ba2dacb4793b18d577fd57dd43a4c2e94f731487c024b8d7ebcc52721764ec9d8a87bd68fc7df5c96",
+      "fileSize": 213853,
+      "modrinth": {
+        "projectId": "5faXoLqX",
+        "versionId": "IMssx9du"
+      }
+    },
+    {
+      "name": "ImmediatelyFast",
+      "filename": "ImmediatelyFast-NeoForge-1.6.10+1.21.1.jar",
+      "side": "both",
+      "url": "https://cdn.modrinth.com/data/5ZwdcRci/versions/PhxY0iHw/ImmediatelyFast-NeoForge-1.6.10%2B1.21.1.jar",
+      "hash": "sha512:93fb2685547f1c7d95b558b3b24efd53551b8ab6978b52483d2924a03de044e992669f83e2ee73f9ad1308035b932de431f4f662a971f496c7fdc55195aebd7b",
+      "fileSize": 368598,
+      "modrinth": {
+        "projectId": "5ZwdcRci",
+        "versionId": "PhxY0iHw"
+      }
+    },
+    {
+      "name": "immersive",
+      "filename": "immersive_aircraft-1.4.3+1.21.1-neoforge.jar",
+      "side": "both",
+      "url": "https://cdn.modrinth.com/data/x3HZvrj6/versions/lEyfKM50/immersive_aircraft-1.4.3%2B1.21.1-neoforge.jar",
+      "hash": "sha512:b97ab8da190209187f2fa22ad85d874b106cea60fc21a211245699e84d2f4178da264d0d84842ebccf63f4bda37211ec694bf9369103fd89bf89f70b19b140f4",
+      "fileSize": 2444626,
+      "modrinth": {
+        "projectId": "x3HZvrj6",
+        "versionId": "lEyfKM50"
+      }
+    },
+    {
+      "name": "immersive",
+      "filename": "immersive_horse_riding-1.21.1-NeoForge-1.0.0.jar",
+      "side": "both",
+      "url": "https://cdn.modrinth.com/data/MmgRSJ2v/versions/E1Izz134/immersive_horse_riding-1.21.1-NeoForge-1.0.0.jar",
+      "hash": "sha512:724ee0da9e2211a32a86e6058690952c1a0ac8970505eebf72ed15e40ff4054354bea9af4cc2fd9bbafa1bf4b1c5f9f0a0b0d7b5924f075c49acfed4e90084d0",
+      "fileSize": 124176,
+      "modrinth": {
+        "projectId": "MmgRSJ2v",
+        "versionId": "E1Izz134"
+      }
+    },
+    {
+      "name": "Incendium",
+      "filename": "Incendium_1.21.x_v5.4.4.jar",
+      "side": "both",
+      "url": "https://cdn.modrinth.com/data/ZVzW5oNS/versions/7mVvV9Th/Incendium_1.21.x_v5.4.4.jar",
+      "hash": "sha512:ca897be9059ea691860715dac6c0ccd934720d7d42c8af45b95257e8f91a6c9470f506bfb9ef3c770e6a6c57e58885add2126150a35927848817433fd227ce0e",
+      "fileSize": 4267528,
+      "modrinth": {
+        "projectId": "ZVzW5oNS",
+        "versionId": "7mVvV9Th"
+      }
+    },
+    {
+      "name": "incubation",
+      "filename": "incubation-1.21.1-5.0.2.jar",
+      "side": "both",
+      "url": "https://cdn.modrinth.com/data/A4Xrv60A/versions/4iwA7bGH/incubation-1.21.1-5.0.2.jar",
+      "hash": "sha512:0074a8895768239a9552806df6f97c471d2de66d2a8d1d1ea90aba3c9cabd003d5e277384b1a69c8e586b1b6d0b3fefa9aff54f300e4d2031f569c6121e49524",
+      "fileSize": 485596,
+      "modrinth": {
+        "projectId": "A4Xrv60A",
+        "versionId": "4iwA7bGH"
+      }
+    },
+    {
+      "name": "iris",
+      "filename": "iris-neoforge-1.8.12+mc1.21.1.jar",
+      "side": "both",
+      "url": "https://cdn.modrinth.com/data/YL57xq9U/versions/t3ruzodq/iris-neoforge-1.8.12%2Bmc1.21.1.jar",
+      "hash": "sha512:57b8026a3c3c433cf6123d63dc6ce7e11f6d480a72926370db1fc7f2b06059bc16a753ecd7e7af659c19e90b592103196b0e89585ce4f0744a4ca433f59bcf1a",
+      "fileSize": 2438548,
+      "modrinth": {
+        "projectId": "YL57xq9U",
+        "versionId": "t3ruzodq"
+      }
+    },
+    {
+      "name": "Jade",
+      "filename": "Jade-1.21.1-NeoForge-15.10.5.jar",
+      "side": "both",
+      "url": "https://cdn.modrinth.com/data/nvQzSEkH/versions/yd8FKCmx/Jade-1.21.1-NeoForge-15.10.5.jar",
+      "hash": "sha512:678b998677a3d73f98f82dac4093893bfc8a3c2335ec627b4147811c381a040475decdb8db31cc3cbe600abb5a7a6dedcd356eed0ba471af0becdcf49bf5b137",
+      "fileSize": 725742,
+      "modrinth": {
+        "projectId": "nvQzSEkH",
+        "versionId": "yd8FKCmx"
+      }
+    },
+    {
+      "name": "jamlib",
+      "filename": "jamlib-neoforge-1.3.6+1.21.1.jar",
+      "side": "both",
+      "url": "https://cdn.modrinth.com/data/IYY9Siz8/versions/n6UM6TcS/jamlib-neoforge-1.3.6%2B1.21.1.jar",
+      "hash": "sha512:c544322a31b5f3fe045cf80eb39e6bd59f91f209a0e510731daa0a6403a273f582769bb26277ef767b4c1ca6438316959d31a6a08e5aa4b1b5a9184a370e5135",
+      "fileSize": 188553,
+      "modrinth": {
+        "projectId": "IYY9Siz8",
+        "versionId": "n6UM6TcS"
+      }
+    },
+    {
+      "name": "jei",
+      "filename": "jei-1.21.1-neoforge-19.27.0.340.jar",
+      "side": "both",
+      "url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/YAcQ6elZ/jei-1.21.1-neoforge-19.27.0.340.jar",
+      "hash": "sha512:8bad8eb3c8e974f867e23e4d74598f603c5fbf03eb5356a386dd37cb9fa23e08ad1f58be6b7be50d2fbf9d3fbfaeac8584c70ced736df4b8f82c7c75be242998",
+      "fileSize": 1529391,
+      "modrinth": {
+        "projectId": "u6dRKJwZ",
+        "versionId": "YAcQ6elZ"
+      }
+    },
+    {
+      "name": "kaleidoscopecookery",
+      "filename": "kaleidoscopecookery-1.3.0-neoforge+mc1.21.1.jar",
+      "side": "both",
+      "url": "https://cdn.modrinth.com/data/v17FatAc/versions/x2qaC31Q/kaleidoscopecookery-1.3.0-neoforge%2Bmc1.21.1.jar",
+      "hash": "sha512:a710f73786d1144ecec011da6c1155ea2b8853a2e3d7f82004dee40a82fadfa625730e9b3333dba8e9e1c7e52110b2204db0b036e96e53b73a6800537d39bc9e",
+      "fileSize": 2987644,
+      "modrinth": {
+        "projectId": "v17FatAc",
+        "versionId": "x2qaC31Q"
+      }
+    },
+    {
+      "name": "Kiwi",
+      "filename": "Kiwi-1.21.1-NeoForge-15.8.3.jar",
+      "side": "both",
+      "url": "https://cdn.modrinth.com/data/ufdDoWPd/versions/2flHQIzv/Kiwi-1.21.1-NeoForge-15.8.3.jar",
+      "hash": "sha512:3d0168a9189adf81002533421d183d83f75c30523be5499416ee430288e10175df0d43027435600f4c49d5fffffd0f78b86b2bef5bd67f82b1c494ba2f8b5536",
+      "fileSize": 1538356,
+      "modrinth": {
+        "projectId": "ufdDoWPd",
+        "versionId": "2flHQIzv"
+      }
+    },
+    {
+      "name": "kotlinforforge",
+      "filename": "kotlinforforge-5.11.0-all.jar",
+      "side": "both",
+      "url": "https://cdn.modrinth.com/data/ordsPcFz/versions/NrSebcsG/kotlinforforge-5.11.0-all.jar",
+      "hash": "sha512:b32faa6d616511aff4f8b32197877c53b9f8bee103884ec37c632b5d017bb59a498ec971b68d8d94787043b0c5be666a330b61d285033c341bff83ac28a90992",
+      "fileSize": 6869790,
+      "modrinth": {
+        "projectId": "ordsPcFz",
+        "versionId": "NrSebcsG"
+      }
+    },
+    {
+      "name": "Ksyxis",
+      "filename": "Ksyxis-1.4.2.jar",
+      "side": "both",
+      "url": "https://cdn.modrinth.com/data/2ecVyZ49/versions/QvvPS7ny/Ksyxis-1.4.2.jar",
+      "hash": "sha512:6149d0766bda5e814edda6771d9471d7c4bd747026c6a68290ab38e9ffed54fc29b001c71161c436c351487b5567ddd240902d26f0d5d1185cc266a027773523",
+      "fileSize": 27988,
+      "modrinth": {
+        "projectId": "2ecVyZ49",
+        "versionId": "QvvPS7ny"
+      }
+    },
+    {
+      "name": "lambdynamiclights",
+      "filename": "lambdynamiclights-4.8.8+1.21.1.jar",
+      "side": "both",
+      "url": "https://cdn.modrinth.com/data/yBW8D80W/versions/IQcvNDtF/lambdynamiclights-4.8.8%2B1.21.1.jar",
+      "hash": "sha512:34c279e7f4edf3ff68ad8d33a8cac49a75402630b95a9bfda20880880c2a425fc64c61f63d5406a0243be5b6d5df24eb745c2c5799871fc4a6e5cac4ae2f9426",
+      "fileSize": 2017417,
+      "modrinth": {
+        "projectId": "yBW8D80W",
+        "versionId": "IQcvNDtF"
+      }
+    },
+    {
+      "name": "lanserverproperties",
+      "filename": "lanserverproperties-1.13.2-neoforge.jar",
+      "side": "both",
+      "url": "https://cdn.modrinth.com/data/SqnBX2qd/versions/C1Wg17Qf/lanserverproperties-1.13.2-neoforge.jar",
+      "hash": "sha512:da78b99c43be3e1d5c6864dda74424d5cb575fc9d0b3378165979e76ad360ae8086f01fc7b7ba60c2a8bb11e3c3b90c3f2a89e19b70d1146a8a6c8f7dd97b573",
+      "fileSize": 44799,
+      "modrinth": {
+        "projectId": "SqnBX2qd",
+        "versionId": "C1Wg17Qf"
+      }
+    },
+    {
+      "name": "larger",
+      "filename": "larger-ore-veins-deluxe-1.3.0.jar",
+      "side": "both",
+      "url": "https://cdn.modrinth.com/data/1bRLEs28/versions/CJGfLEoI/larger-ore-veins-deluxe-1.3.0.jar",
+      "hash": "sha512:1d12950af3ecfa487666d733953b428f6f0d48f2c71e80a3eb07904ae3b42caa7a6621112680b2f74f92f5b344c2fc457fe01021d88fd6d84bfa29494f3a1b8b",
+      "fileSize": 43487,
+      "modrinth": {
+        "projectId": "1bRLEs28",
+        "versionId": "CJGfLEoI"
+      }
+    },
+    {
+      "name": "LeavesBeGone",
+      "filename": "LeavesBeGone-v21.1.0-1.21.1-NeoForge.jar",
+      "side": "both",
+      "url": "https://cdn.modrinth.com/data/AVq17PqV/versions/TOHEOE2X/LeavesBeGone-v21.1.0-1.21.1-NeoForge.jar",
+      "hash": "sha512:0f6e5131b2be64f3ebc9cc628bace6023c8d4748051092d1490e6523bd708892acfdf353dcec8032076be6fbc2fc6e5f4c7656e0b2a127b277c3676798d1e92a",
+      "fileSize": 56168,
+      "modrinth": {
+        "projectId": "AVq17PqV",
+        "versionId": "TOHEOE2X"
+      }
+    },
+    {
+      "name": "LegendaryTooltips",
+      "filename": "LegendaryTooltips-1.21.1-neoforge-1.5.5.jar",
+      "side": "both",
+      "url": "https://cdn.modrinth.com/data/atHH8NyV/versions/BabRJO04/LegendaryTooltips-1.21.1-neoforge-1.5.5.jar",
+      "hash": "sha512:3c0de6b6597a57b0fc3a134dde03ea3aeed0a7d64db63def8eda182c8bb7717293d2e4753887dcecaa27e17051c308269039eec6e74186d5eede68f98e74feeb",
+      "fileSize": 81808,
+      "modrinth": {
+        "projectId": "atHH8NyV",
+        "versionId": "BabRJO04"
+      }
+    },
+    {
+      "name": "letsdo",
+      "filename": "letsdo-alpinewhispers-neoforge-1.0.2.jar",
+      "side": "both",
+      "url": "https://cdn.modrinth.com/data/SSPTBIrB/versions/Zr6CteAt/letsdo-alpinewhispers-neoforge-1.0.2.jar",
+      "hash": "sha512:bf0813ca5095c99da0965b57e2f72f3ff9d24671fa3d41728dc3f0814d87fac2b23cb071f0195cb42a0db53a5848d848dc337f0c58cd6fd42a43fc3d00ea1ad4",
+      "fileSize": 2729920,
+      "modrinth": {
+        "projectId": "SSPTBIrB",
+        "versionId": "Zr6CteAt"
+      }
+    },
+    {
+      "name": "letsdo",
+      "filename": "letsdo-bakery-neoforge-2.1.6.jar",
+      "side": "both",
+      "url": "https://cdn.modrinth.com/data/oNB5jhlA/versions/toe1Cb0E/letsdo-bakery-neoforge-2.1.6.jar",
+      "hash": "sha512:e6a9c4d4d8ac982a4848af4adaf8d58f018d60e5a758837a29c1e197bdc5668740860457fc81b59b2e0e9622fb8f42245f2b12b8b1de78694107db171507e11e",
+      "fileSize": 1039749,
+      "modrinth": {
+        "projectId": "oNB5jhlA",
+        "versionId": "toe1Cb0E"
+      }
+    },
+    {
+      "name": "letsdo",
+      "filename": "letsdo-beachparty-neoforge-2.1.4.jar",
+      "side": "both",
+      "url": "https://cdn.modrinth.com/data/GyKzAh3l/versions/oKpAot1a/letsdo-beachparty-neoforge-2.1.4.jar",
+      "hash": "sha512:f5c8f90dca40cf74beb4c49c60459f68b06d03ab9e1e590f493068e01b69d1d9be4f944908baf91714c1d1e5dea858ca054becf5c00f8228ce691296ad275e20",
+      "fileSize": 7759926,
+      "modrinth": {
+        "projectId": "GyKzAh3l",
+        "versionId": "oKpAot1a"
+      }
+    },
+    {
+      "name": "letsdo",
+      "filename": "letsdo-bloomingnature-neoforge-1.1.10.jar",
+      "side": "both",
+      "url": "https://cdn.modrinth.com/data/4Vno77MY/versions/FBg3nfEY/letsdo-bloomingnature-neoforge-1.1.10.jar",
+      "hash": "sha512:a5b50d5e76ed698262a746337771c99507f9a6292c2df77d4856c3d101ac852db851101c3f742d7cd9f12ebe2d3d135549029f69ff38601cbe15b58251282c30",
+      "fileSize": 3147224,
+      "modrinth": {
+        "projectId": "4Vno77MY",
+        "versionId": "FBg3nfEY"
+      }
+    },
+    {
+      "name": "letsdo",
+      "filename": "letsdo-brewery-neoforge-2.1.9.jar",
+      "side": "both",
+      "url": "https://cdn.modrinth.com/data/b7NV2plI/versions/vzXZ4Pak/letsdo-brewery-neoforge-2.1.9.jar",
+      "hash": "sha512:10011c6b8064c14d142049f9532f966dd8c44e2ac40f6afb543061c4703e4db5348d29448db520c18e49dc3282f2299a006a7d05328d9a47c615376e3e487fd9",
+      "fileSize": 1656054,
+      "modrinth": {
+        "projectId": "b7NV2plI",
+        "versionId": "vzXZ4Pak"
+      }
+    },
+    {
+      "name": "letsdo",
+      "filename": "letsdo-candlelight-neoforge-2.1.12.jar",
+      "side": "both",
+      "url": "https://cdn.modrinth.com/data/qwbArkQk/versions/cLNC7p0T/letsdo-candlelight-neoforge-2.1.12.jar",
+      "hash": "sha512:f6a74eb070fcffd015af400688e876878f8bf421578e54560fedc85c8a0015b333f809432c4820911adefcd044c97378e685ee42f4953812e9639b4800694b5a",
+      "fileSize": 2617931,
+      "modrinth": {
+        "projectId": "qwbArkQk",
+        "versionId": "cLNC7p0T"
+      }
+    },
+    {
+      "name": "letsdo",
+      "filename": "letsdo-farm_and_charm-neoforge-1.1.22.jar",
+      "side": "both",
+      "url": "https://cdn.modrinth.com/data/HJetCzWo/versions/ptvlHtBI/letsdo-farm_and_charm-neoforge-1.1.22.jar",
+      "hash": "sha512:e31f5c2f5fbf187c65ee3e0e6593bc0520fe53421ab2872600addf6be5e6fb0504ce65bea8c4f047476591eea012d20008d5afb21327635a81d721ed857ff13b",
+      "fileSize": 2580595,
+      "modrinth": {
+        "projectId": "HJetCzWo",
+        "versionId": "ptvlHtBI"
+      }
+    },
+    {
+      "name": "letsdo",
+      "filename": "letsdo-furniture-neoforge-1.1.4.jar",
+      "side": "both",
+      "url": "https://cdn.modrinth.com/data/3JQDJrYW/versions/aYYcQFNB/letsdo-furniture-neoforge-1.1.4.jar",
+      "hash": "sha512:d326b73472c8ef6428167cd56bd39f9c071dcda30ca061bb2123581d178590f35dd08c1703a09855ac5d4e285ddcbbb100c6aa35a40b778a8ebbf02579a85cd3",
+      "fileSize": 3901925,
+      "modrinth": {
+        "projectId": "3JQDJrYW",
+        "versionId": "aYYcQFNB"
+      }
+    },
+    {
+      "name": "letsdo",
+      "filename": "letsdo-hearth_and_timber-neoforge-1.0.3.jar",
+      "side": "both",
+      "url": "https://cdn.modrinth.com/data/paO4gjmE/versions/TW85kEGf/letsdo-hearth_and_timber-neoforge-1.0.3.jar",
+      "hash": "sha512:373cb8ce45cc2cf12b29e3a355f86c618080b540df63a6e93f76d802ae872b4c99789b342bc7b29e0900513b8fc3ff902440b7eb825666b030b6e363e7a54ab4",
+      "fileSize": 1750092,
+      "modrinth": {
+        "projectId": "paO4gjmE",
+        "versionId": "TW85kEGf"
+      }
+    },
+    {
+      "name": "letsdo",
+      "filename": "letsdo-herbalbrews-neoforge-1.1.3.jar",
+      "side": "both",
+      "url": "https://cdn.modrinth.com/data/Eh11TaTm/versions/gtG21Zrn/letsdo-herbalbrews-neoforge-1.1.3.jar",
+      "hash": "sha512:cfcfc47c24daff1b82849d36cbe5aa1d731a8bfcd814bc6afda2909ae18c4ff29e928122a3c37bb622c14738825f0a0db00547b30b54cd06cdaafb4af155e201",
+      "fileSize": 757160,
+      "modrinth": {
+        "projectId": "Eh11TaTm",
+        "versionId": "gtG21Zrn"
+      }
+    },
+    {
+      "name": "letsdo",
+      "filename": "letsdo-lilis_lucky_lures-neoforge-1.1.3.jar",
+      "side": "both",
+      "url": "https://cdn.modrinth.com/data/DMDVFZSF/versions/5QkbWc5J/letsdo-lilis_lucky_lures-neoforge-1.1.3.jar",
+      "hash": "sha512:fef194814eb567a47ac2659db5ce8290d5d51f15bbf50a4441388078e165eef479a43cc074ac4eeff4ff0f89bf9a4fd723854bac82160a3440ae1f2b039a5ff8",
+      "fileSize": 424474,
+      "modrinth": {
+        "projectId": "DMDVFZSF",
+        "versionId": "5QkbWc5J"
+      }
+    },
+    {
+      "name": "letsdo",
+      "filename": "letsdo-lilis_pottery-neoforge-1.0.2.jar",
+      "side": "both",
+      "url": "https://cdn.modrinth.com/data/sHiqiJIU/versions/fpKTMvrT/letsdo-lilis_pottery-neoforge-1.0.2.jar",
+      "hash": "sha512:cf1bf14ed0b3fa61ceba0966f80c1f1b7141db133297811174c51f4d299026028cef0d917cf8355937fbcf13ef8ac8da3176a2efb1afe3b4420572c4d060f177",
+      "fileSize": 827838,
+      "modrinth": {
+        "projectId": "sHiqiJIU",
+        "versionId": "fpKTMvrT"
+      }
+    },
+    {
+      "name": "letsdo",
+      "filename": "letsdo-meadow-neoforge-1.4.8.jar",
+      "side": "both",
+      "url": "https://cdn.modrinth.com/data/ra7o6Sl7/versions/GwAjZwzx/letsdo-meadow-neoforge-1.4.8.jar",
+      "hash": "sha512:a45a42b1789c3c979e91bc65c422bf5832d514005a82def3860d812a9bf02a2a6d5079d53f625d976b09585cecda8f1d26802b310ce2e44751c5f5c930efe50d",
+      "fileSize": 2165946,
+      "modrinth": {
+        "projectId": "ra7o6Sl7",
+        "versionId": "GwAjZwzx"
+      }
+    },
+    {
+      "name": "letsdo",
+      "filename": "letsdo-vinery-neoforge-1.5.3.jar",
+      "side": "both",
+      "url": "https://cdn.modrinth.com/data/1DWmBJVA/versions/ZywXpLC6/letsdo-vinery-neoforge-1.5.3.jar",
+      "hash": "sha512:1a99d218420f57733ec133f059e9491fa1a1ec915e2e350c54a38d6fddb5332a61608ffd3703594faf2924dcc8e9d387ca2573f3816c6b82251046df0cdea122",
+      "fileSize": 2001616,
+      "modrinth": {
+        "projectId": "1DWmBJVA",
+        "versionId": "ZywXpLC6"
+      }
+    },
+    {
+      "name": "letsdo",
+      "filename": "letsdo-wildernature-neoforge-1.1.4.jar",
+      "side": "both",
+      "url": "https://cdn.modrinth.com/data/AAiRU4aQ/versions/CyiRcevd/letsdo-wildernature-neoforge-1.1.4.jar",
+      "hash": "sha512:cbb62c9ad4d4155c9397a845b45e11974955315de5c25e6335ebd062c2d471b9a8126887105a4a3f41412053fa274a7655e334ced1934e270d8a82c1d93c212c",
+      "fileSize": 2110757,
+      "modrinth": {
+        "projectId": "AAiRU4aQ",
+        "versionId": "CyiRcevd"
+      }
+    },
+    {
+      "name": "letsdocompat",
+      "filename": "letsdocompat-neoforge-2.3.1.jar",
+      "side": "both",
+      "url": "https://cdn.modrinth.com/data/FNi5IMiX/versions/vJUgfTU0/letsdocompat-neoforge-2.3.1.jar",
+      "hash": "sha512:22678b7094de594e1d8241ad709752a3fa2dce1b22706c768b18e95546c2133ad35d9b32ae70cc6925565d02bbeded9400e85d170fcb2f5c65d05792f3e761de",
+      "fileSize": 28635,
+      "modrinth": {
+        "projectId": "FNi5IMiX",
+        "versionId": "vJUgfTU0"
+      }
+    },
+    {
+      "name": "lithium",
+      "filename": "lithium-neoforge-0.15.3+mc1.21.1.jar",
+      "side": "both",
+      "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/RXHf27Wv/lithium-neoforge-0.15.3%2Bmc1.21.1.jar",
+      "hash": "sha512:65568e6c7e41684ad20e58db8766813840c0c8406eed9edc3f7a2514da7250ac46bde2bfb0936984cc5516c2782f86387ad0ed3d1b804b8bdddc7f7048759df4",
+      "fileSize": 774148,
+      "modrinth": {
+        "projectId": "gvQqBUqZ",
+        "versionId": "RXHf27Wv"
+      }
+    },
+    {
+      "name": "lithostitched",
+      "filename": "lithostitched-1.7.0-neoforge-21.1.jar",
+      "side": "both",
+      "url": "https://cdn.modrinth.com/data/XaDC71GB/versions/29zrKXCQ/lithostitched-1.7.0-neoforge-21.1.jar",
+      "hash": "sha512:2e23f7bc0265231820fdd633ff10a3e62fee32ad4d281e11df3125a29a498a754bf9f47c935e925c4d404a6232d31fcd31ab0f059669196e1035d6ac6a5c9656",
+      "fileSize": 810138,
+      "modrinth": {
+        "projectId": "XaDC71GB",
+        "versionId": "29zrKXCQ"
+      }
+    },
+    {
+      "name": "man",
+      "filename": "man_of_many_planes-0.2.1+1.21.1-neoforge.jar",
+      "side": "both",
+      "url": "https://cdn.modrinth.com/data/9qdTHi0q/versions/onE42Qs7/man_of_many_planes-0.2.1%2B1.21.1-neoforge.jar",
+      "hash": "sha512:b306f5fae308ccd03ab72b552f634b3f5f57e9254a930ffafedae858cbce74c2557cf598e7efb959823c3f575544859cf0f19f26c3b477c75feec3c6a1481744",
+      "fileSize": 725743,
+      "modrinth": {
+        "projectId": "9qdTHi0q",
+        "versionId": "onE42Qs7"
+      }
+    },
+    {
+      "name": "modernfix",
+      "filename": "modernfix-neoforge-5.27.3+mc1.21.1.jar",
+      "side": "both",
+      "url": "https://cdn.modrinth.com/data/nmDcB62a/versions/QbebWhuK/modernfix-neoforge-5.27.3%2Bmc1.21.1.jar",
+      "hash": "sha512:e8f0fef727757a5cb658c5e3a8352f3438cee9c60c9e6c5c1190f5787365a113348f24e075219fcd91264397afe8cf8ae318b5b5d402bedd03a74d0fba062999",
+      "fileSize": 562031,
+      "modrinth": {
+        "projectId": "nmDcB62a",
+        "versionId": "QbebWhuK"
+      }
+    },
+    {
+      "name": "moogs",
+      "filename": "moogs_structures-neoforge-1.21.1-2.0.2.jar",
+      "side": "both",
+      "url": "https://cdn.modrinth.com/data/1oUDhxuy/versions/9eOgZ04o/moogs_structures-neoforge-1.21.1-2.0.2.jar",
+      "hash": "sha512:dbf20127270e7a96d731f8294cab37665c7f707ba5faf9f5205099d1ba267386dcd1755e04c9c67214f5557ffc34eb4884359886db2ae2369ca794ad8b2ecb12",
+      "fileSize": 251391,
+      "modrinth": {
+        "projectId": "1oUDhxuy",
+        "versionId": "9eOgZ04o"
+      }
+    },
+    {
+      "name": "MoogsEndStructures",
+      "filename": "MoogsEndStructures-1.21-2.0.1.jar",
+      "side": "both",
+      "url": "https://cdn.modrinth.com/data/r4PuRGfV/versions/66xhbndk/MoogsEndStructures-1.21-2.0.1.jar",
+      "hash": "sha512:bc6ebffe094c53dc4cdb1a0f7938ec679bdd3da4f2c47867ccc9195270fe8499afee052616e22d28493da13a53a71b6f1c34c3f12a6a7a02806a026c3b3b6e2f",
+      "fileSize": 2458587,
+      "modrinth": {
+        "projectId": "r4PuRGfV",
+        "versionId": "66xhbndk"
+      }
+    },
+    {
+      "name": "MoogsNetherStructures",
+      "filename": "MoogsNetherStructures-1.21-2.0.31.jar",
+      "side": "both",
+      "url": "https://cdn.modrinth.com/data/nGUXvjTa/versions/zruwScWL/MoogsNetherStructures-1.21-2.0.31.jar",
+      "hash": "sha512:052e0df6a0ec18cb35636bbfff88502537ed05e9ff17315589300244e49fc26dfc689b328231a2153279ed35b76e55d9e02443d8ce6af129e09df2e0c8edb9f5",
+      "fileSize": 1469454,
+      "modrinth": {
+        "projectId": "nGUXvjTa",
+        "versionId": "zruwScWL"
+      }
+    },
+    {
+      "name": "moonlight",
+      "filename": "moonlight-1.21-2.29.33-neoforge.jar",
+      "side": "both",
+      "url": "https://cdn.modrinth.com/data/twkfQtEc/versions/RftyTwKR/moonlight-1.21-2.29.33-neoforge.jar",
+      "hash": "sha512:b1d30891fd44cf8a060d148005ccf13dc8f7d84074ec1b3efa1002408b125f33dcc3f6a1eae2b95171fb48edcabfc2eb41aaf6264614193cc1bbdde3dfd793ba",
+      "fileSize": 1596760,
+      "modrinth": {
+        "projectId": "twkfQtEc",
+        "versionId": "RftyTwKR"
+      }
+    },
+    {
+      "name": "MoreVillagers",
+      "filename": "MoreVillagers-Re-1.21.1-neoforge-1.25.12.4.jar",
+      "side": "both",
+      "url": "https://cdn.modrinth.com/data/1fOqTPRO/versions/nDquoRbd/MoreVillagers-Re-1.21.1-neoforge-1.25.12.4.jar",
+      "hash": "sha512:a4798c19bc96d9fda36444375d50c2443eb375d4ab9d68d16b35d13f017dbe7297d8b69c49d4551e7b9397278619f9d357a68c3abe86466b784d53d5e73a576d",
+      "fileSize": 376197,
+      "modrinth": {
+        "projectId": "1fOqTPRO",
+        "versionId": "nDquoRbd"
+      }
+    },
+    {
+      "name": "MouseTweaks",
+      "filename": "MouseTweaks-neoforge-mc1.21-2.26.1.jar",
+      "side": "both",
+      "url": "https://cdn.modrinth.com/data/aC3cM3Vq/versions/9I21YYxf/MouseTweaks-neoforge-mc1.21-2.26.1.jar",
+      "hash": "sha512:f95c0cc881211ee0442434976775e07aae40b4a2ba4e3a85455bc57ca9d3c991e239cd98374a8abd442dc9c378dcd9001e2caa1bf69991d424b5652dd7f3483b",
+      "fileSize": 73938,
+      "modrinth": {
+        "projectId": "aC3cM3Vq",
+        "versionId": "9I21YYxf"
+      }
+    },
+    {
+      "name": "MushroomQuest",
+      "filename": "MushroomQuest-NeoForge-1.21.1-v4.3.1.jar",
+      "side": "both",
+      "url": "https://cdn.modrinth.com/data/OjcK2Epc/versions/AZmVI7pr/MushroomQuest-NeoForge-1.21.1-v4.3.1.jar",
+      "hash": "sha512:108f97ce8df0e3e06a8bd8fd910a825ab4bd3f18867921eef73dfe33b218d14769474a5083abe9a940afb254dc5e5eec7910274ade9171ffa6289c9f5f2e2674",
+      "fileSize": 1443183,
+      "modrinth": {
+        "projectId": "OjcK2Epc",
+        "versionId": "AZmVI7pr"
+      }
+    },
+    {
+      "name": "MyNethersDelight",
+      "filename": "MyNethersDelight-1.21.1-1.9.jar",
+      "side": "both",
+      "url": "https://cdn.modrinth.com/data/O53VhQoZ/versions/n2vJCdff/MyNethersDelight-1.21.1-1.9.jar",
+      "hash": "sha512:0c32e35b573d9a15a1f1fdfdc3d0af8c59a38a41918ee6e6b00f6b9fd8f0997609aea8f372110caaa4d284e31583eeb9ccdbb8c29b6cd72b9fca81889ac8598f",
+      "fileSize": 798485,
+      "modrinth": {
+        "projectId": "O53VhQoZ",
+        "versionId": "n2vJCdff"
+      }
+    },
+    {
+      "name": "natures",
+      "filename": "natures_delight-1.12-1.21.1.jar",
+      "side": "both",
+      "url": "https://cdn.modrinth.com/data/18s8zHvJ/versions/Jv44bPVt/natures_delight-1.12-1.21.1.jar",
+      "hash": "sha512:564b2c3ef386a6114767f1d4e0080b880b8aa950337418d55653908f3bdf657f26e64955c287d9e8eedd4fd383996a5d5573433b7c92d4a8ae20733f92d14e18",
+      "fileSize": 238775,
+      "modrinth": {
+        "projectId": "18s8zHvJ",
+        "versionId": "Jv44bPVt"
+      }
+    },
+    {
+      "name": "natures",
+      "filename": "natures_spirit-2.2.5-1.21.1.jar",
+      "side": "both",
+      "url": "https://cdn.modrinth.com/data/WBvnqHfV/versions/MGjl80vc/natures_spirit-2.2.5-1.21.1.jar",
+      "hash": "sha512:c99aa5b451c2a8cc3cdb7c36fb9bdf81a8b69bf54956c2897bd7af7478bb1b870cbffc7f3d9e78679e3ed457f2a543daef8e232bef7f130cf7facd2931810a1b",
+      "fileSize": 18614161,
+      "modrinth": {
+        "projectId": "WBvnqHfV",
+        "versionId": "MGjl80vc"
+      }
+    },
+    {
+      "name": "NaturesCompass",
+      "filename": "NaturesCompass-1.21.1-3.4.0-neoforge.jar",
+      "side": "both",
+      "url": "https://cdn.modrinth.com/data/fPetb5Kh/versions/nFniEtJV/NaturesCompass-1.21.1-3.4.0-neoforge.jar",
+      "hash": "sha512:5314b536bcb9a594a9cf2bbd46c82468d17e1559bd6c00da9d91e96c0814f50416799a011705f0d184bd731dac3f03dec009c76fea3d02b3556a6013f9649014",
+      "fileSize": 224657,
+      "modrinth": {
+        "projectId": "fPetb5Kh",
+        "versionId": "nFniEtJV"
+      }
+    },
+    {
+      "name": "netherite",
+      "filename": "netherite_horse_armor-neoforge-1.21.1-2.0a.jar",
+      "side": "both",
+      "url": "https://cdn.modrinth.com/data/nDFVOeq7/versions/PJ7q3Y9v/netherite_horse_armor-neoforge-1.21.1-2.0a.jar",
+      "hash": "sha512:8d2a170dc94c526ad53f70dea968f1eae16c22bb95d233da39b3acebd89aa5c1d6fac04abdae64992739cf4904f6fef281bed28958ea44ac805e696b88e8805a",
+      "fileSize": 19602,
+      "modrinth": {
+        "projectId": "nDFVOeq7",
+        "versionId": "PJ7q3Y9v"
+      }
+    },
+    {
+      "name": "nexuslib",
+      "filename": "nexuslib-neoforge-1.21.1-1.1.4.jar",
+      "side": "both",
+      "url": "https://cdn.modrinth.com/data/bgDhVmqz/versions/dwgUdGcO/nexuslib-neoforge-1.21.1-1.1.4.jar",
+      "hash": "sha512:5276a7d894ee5be40e941ebcf8f65cf842c2858d04fc55141749962da6654fe25c0deb578dc0e1844110391b8987029faad1b9b9eecbe5b819c4504a405f2350",
+      "fileSize": 89838,
+      "modrinth": {
+        "projectId": "bgDhVmqz",
+        "versionId": "dwgUdGcO"
+      }
+    },
+    {
+      "name": "NoChatReports",
+      "filename": "NoChatReports-NEOFORGE-1.21.1-v2.9.1.jar",
+      "side": "both",
+      "url": "https://cdn.modrinth.com/data/qQyHxfxd/versions/ZV8eL55E/NoChatReports-NEOFORGE-1.21.1-v2.9.1.jar",
+      "hash": "sha512:292a3623b5addb17e9f15681a4f2534562e9882ef809e504f49da4778fafc12e21a71995b5d05554d435201f401ace1e86af50e6e26f6ce9d203a5896a1ece21",
+      "fileSize": 306668,
+      "modrinth": {
+        "projectId": "qQyHxfxd",
+        "versionId": "ZV8eL55E"
+      }
+    },
+    {
+      "name": "noisium",
+      "filename": "noisium-neoforge-2.7.0+mc1.21-1.21.1.jar",
+      "side": "both",
+      "url": "https://cdn.modrinth.com/data/hasdd01q/versions/VviuomrA/noisium-neoforge-2.7.0%2Bmc1.21-1.21.1.jar",
+      "hash": "sha512:ed05cdcf19f6fe6849204cddf0009b514b3686a0bac0da1d834e80d106b8e28ee2bf7d1e66a6c140d23b6c4cf5bb06558a795b70e31c179bcd1f74d955bd0068",
+      "fileSize": 60512,
+      "modrinth": {
+        "projectId": "hasdd01q",
+        "versionId": "VviuomrA"
+      }
+    },
+    {
+      "name": "NoRollback 2.1 (1.13",
+      "filename": "NoRollback 2.1 (1.13-1.21.10).jar",
+      "side": "both",
+      "url": "https://cdn.modrinth.com/data/K4Ytaql5/versions/5UzpT539/NoRollback%202.1%20%281.13-1.21.10%29.jar",
+      "hash": "sha512:f0d574791274276f0ac039883c775d283fdb94d868516dfce0c97c201c6c87f4a3dd4bdf74529748a7b47dddca9fdc2eca6f666a8a789daba97a799addb2a456",
+      "fileSize": 66848,
+      "modrinth": {
+        "projectId": "K4Ytaql5",
+        "versionId": "5UzpT539"
+      }
+    },
+    {
+      "name": "Not Enough Recipe Book",
+      "filename": "Not Enough Recipe Book-NEOFORGE-0.4.3+1.21.jar",
+      "side": "both",
+      "url": "https://cdn.modrinth.com/data/bQh7xzFq/versions/8SBaRv1t/Not%20Enough%20Recipe%20Book-NEOFORGE-0.4.3%2B1.21.jar",
+      "hash": "sha512:544f83caec2e894e7422571f154bb5a470e9156d5b5b70e6352c754f1bac47ac2c055893064faae2d05ca3a8bef699343c851c925c2c1f8c3ace7de38cfd67ed",
+      "fileSize": 23830,
+      "modrinth": {
+        "projectId": "bQh7xzFq",
+        "versionId": "8SBaRv1t"
+      }
+    },
+    {
+      "name": "Nullscape",
+      "filename": "Nullscape_1.21.x_v1.2.14.jar",
+      "side": "both",
+      "url": "https://cdn.modrinth.com/data/LPjGiSO4/versions/3fv8O3xX/Nullscape_1.21.x_v1.2.14.jar",
+      "hash": "sha512:b35a9dfdc7180ca851aea378ee4687e18b3aae717c16870a7762afc67dc0c77598fb2c4a62cb12d6ed0eacf7c9166520e0a3e7dce20da09817065d27e62c8b44",
+      "fileSize": 355748,
+      "modrinth": {
+        "projectId": "LPjGiSO4",
+        "versionId": "3fv8O3xX"
+      }
+    },
+    {
+      "name": "oceansdelight",
+      "filename": "oceansdelight-neoforge-1.0.4-1.21.1.jar",
+      "side": "both",
+      "url": "https://cdn.modrinth.com/data/DGiq4ZSW/versions/ja5Qg1xw/oceansdelight-neoforge-1.0.4-1.21.1.jar",
+      "hash": "sha512:8079160938175f9d0c1b8f10587c40e3c6b54210511109331f0bb37a845aa90522f60c4e668688e8a0b4023e0464b80d44f50a6af39572fe519d48c9581a9f15",
+      "fileSize": 117108,
+      "modrinth": {
+        "projectId": "DGiq4ZSW",
+        "versionId": "ja5Qg1xw"
+      }
+    },
+    {
+      "name": "OctoLib",
+      "filename": "OctoLib-NEOFORGE-0.6.1+1.21.jar",
+      "side": "both",
+      "url": "https://cdn.modrinth.com/data/RH2KUdKJ/versions/AbiyvpxR/OctoLib-NEOFORGE-0.6.1%2B1.21.jar",
+      "hash": "sha512:6e0194da00ae7cc1e67f0033b97965acc460edaa86e204e5f8498ea83be94a2019cb5a3254e07b59562e66297f12f3ea2262f9f0005a52c12b9a680b6f218c4d",
+      "fileSize": 540285,
+      "modrinth": {
+        "projectId": "RH2KUdKJ",
+        "versionId": "AbiyvpxR"
+      }
+    },
+    {
+      "name": "onekeyminer",
+      "filename": "onekeyminer-1.6.5-1.21.1.jar",
+      "side": "both",
+      "url": "https://cdn.modrinth.com/data/LZu4H9cp/versions/fSRBQ5OS/onekeyminer-1.6.5-1.21.1.jar",
+      "hash": "sha512:c0a44cf26f094f6bc240ec8443fb7d707008e2fe8ce6d094cbec1dd5dcd076d692729de89ff84bf4aa8fb426f691f7b4bf357f7e2fec08ada4798fc63d4ee247",
+      "fileSize": 369078,
+      "modrinth": {
+        "projectId": "LZu4H9cp",
+        "versionId": "fSRBQ5OS"
+      }
+    },
+    {
+      "name": "particlerain",
+      "filename": "particlerain-4.0.0-beta.9+1.21.1-neoforge.jar",
+      "side": "both",
+      "url": "https://cdn.modrinth.com/data/nrikgvxm/versions/AqUoRBvS/particlerain-4.0.0-beta.9%2B1.21.1-neoforge.jar",
+      "hash": "sha512:a9e904455b34125405d8f9663ffb09eb35003a2512ae515a73fc7b9a84789be7aadf61402a30932d3722d37abc5f88955ed6aaabb19037c389954ed73d8f2dce",
+      "fileSize": 602187,
+      "modrinth": {
+        "projectId": "nrikgvxm",
+        "versionId": "AqUoRBvS"
+      }
+    },
+    {
+      "name": "pet",
+      "filename": "pet_cemetery-1.21.1-3.0.1.jar",
+      "side": "both",
+      "url": "https://cdn.modrinth.com/data/M6tSWZ4N/versions/t9fzt3Pl/pet_cemetery-1.21.1-3.0.1.jar",
+      "hash": "sha512:9494f693e70756258f0a6652ac2442adcf984d5835b645f7a0fc2abf83db5063843759c301a82443e6a80d579eb8fda917368989a0e1ec573ad85077485de398",
+      "fileSize": 291086,
+      "modrinth": {
+        "projectId": "M6tSWZ4N",
+        "versionId": "t9fzt3Pl"
+      }
+    },
+    {
+      "name": "Ping",
+      "filename": "Ping-Wheel-1.12.1-neoforge-1.21.1.jar",
+      "side": "both",
+      "url": "https://cdn.modrinth.com/data/QQXAdCzh/versions/Ayj3A9qT/Ping-Wheel-1.12.1-neoforge-1.21.1.jar",
+      "hash": "sha512:7f92c5c99a591277bb7a798c63d81d41e5a3d79b6af535c8ed9997030602cc34c3955706eba0190e58eaa4f6f1b9218e2be5b6b0ce89a1fac789150c136cccb1",
+      "fileSize": 153208,
+      "modrinth": {
+        "projectId": "QQXAdCzh",
+        "versionId": "Ayj3A9qT"
+      }
+    },
+    {
+      "name": "Platform",
+      "filename": "Platform-neoforge-1.21.1-1.3.jar",
+      "side": "both",
+      "url": "https://cdn.modrinth.com/data/i6fiqm5y/versions/XGtKmpbq/Platform-neoforge-1.21.1-1.3.jar",
+      "hash": "sha512:cb1b54f4f5273eec00d7a08d8c4b8a27523812442cae340191c0ea576868962f63af077ac3da955c24722862d6e3e51610dafa6490ba512ead8c79450fcb76b5",
+      "fileSize": 473152,
+      "modrinth": {
+        "projectId": "i6fiqm5y",
+        "versionId": "XGtKmpbq"
+      }
+    },
+    {
+      "name": "polymorph",
+      "filename": "polymorph-neoforge-1.1.0+1.21.1.jar",
+      "side": "both",
+      "url": "https://cdn.modrinth.com/data/tagwiZkJ/versions/VEburL70/polymorph-neoforge-1.1.0%2B1.21.1.jar",
+      "hash": "sha512:37358e19d8f251b7d435ea5198eded7b1361e90d5728e11fcb15aeb55786f4ee10fd8fecd14b11f34a99bd92aea01a9977c0dbc46ab6bb07af61a6c89455b6ff",
+      "fileSize": 174972,
+      "modrinth": {
+        "projectId": "tagwiZkJ",
+        "versionId": "VEburL70"
+      }
+    },
+    {
+      "name": "prickle",
+      "filename": "prickle-neoforge-1.21.1-21.1.11.jar",
+      "side": "both",
+      "url": "https://cdn.modrinth.com/data/aaRl8GiW/versions/EE1FHDyD/prickle-neoforge-1.21.1-21.1.11.jar",
+      "hash": "sha512:154d42795ccf1f3e07714775cdb82fd5db17574319286ced13d86b0456b64e4cf5bb89ffbcbfcefce67b73ed0b83e4e2944e493d79d9a385ff9de23006ee7bf5",
+      "fileSize": 84812,
+      "modrinth": {
+        "projectId": "aaRl8GiW",
+        "versionId": "EE1FHDyD"
+      }
+    },
+    {
+      "name": "Prism",
+      "filename": "Prism-1.21.1-neoforge-1.0.11.jar",
+      "side": "both",
+      "url": "https://cdn.modrinth.com/data/1OE8wbN0/versions/kMcz2lDj/Prism-1.21.1-neoforge-1.0.11.jar",
+      "hash": "sha512:b3539b5dba6414b5f6db126dd703a0923984c1fa11a53e50090eb1b03ec3ef3a09fc048ae2d03b8241e4d182ec4e942cc905d0f3e7366608fd8a0bb2509f55f4",
+      "fileSize": 62031,
+      "modrinth": {
+        "projectId": "1OE8wbN0",
+        "versionId": "kMcz2lDj"
+      }
+    },
+    {
+      "name": "PuzzlesLib",
+      "filename": "PuzzlesLib-v21.1.39-1.21.1-NeoForge.jar",
+      "side": "both",
+      "url": "https://cdn.modrinth.com/data/QAGBst4M/versions/EgWWSAhJ/PuzzlesLib-v21.1.39-1.21.1-NeoForge.jar",
+      "hash": "sha512:84bac5cddae511234eea4387d34a96cc961a0e7d23b8c1ab17523b9762bee96a6aa132f57a417e5bc679565439784c268b92ee8d353e4b26f86d3ef5e1c5453b",
+      "fileSize": 1080389,
+      "modrinth": {
+        "projectId": "QAGBst4M",
+        "versionId": "EgWWSAhJ"
+      }
+    },
+    {
+      "name": "realisticbees",
+      "filename": "realisticbees-1.21.1-4.2.jar",
+      "side": "both",
+      "url": "https://cdn.modrinth.com/data/tG6HkcWx/versions/KTWiwQK4/realisticbees-1.21.1-4.2.jar",
+      "hash": "sha512:eb3d5462439966fd7b045655992d54cdc1149b4f5089ec2798835f95aefb95bd18de9c5d15ac41d6a2ab20524e2bd93440727e03f0dfe43cc0827504374cb461",
+      "fileSize": 62383,
+      "modrinth": {
+        "projectId": "tG6HkcWx",
+        "versionId": "KTWiwQK4"
+      }
+    },
+    {
+      "name": "regions",
+      "filename": "regions-unexplored-0.6+beta4-neoforge-21.1.jar",
+      "side": "both",
+      "url": "https://cdn.modrinth.com/data/Tkikq67H/versions/anPXgVIF/regions-unexplored-0.6%2Bbeta4-neoforge-21.1.jar",
+      "hash": "sha512:7ddbf780aa953c309343bf70963fde39bcdb53c2b4a9d35907b3815fe87e3a236542590e981a2204a1eb88eadb6e3c75cbb4b9d9156848adcbb8bc24b9d43d9d",
+      "fileSize": 6154310,
+      "modrinth": {
+        "projectId": "Tkikq67H",
+        "versionId": "anPXgVIF"
+      }
+    },
+    {
+      "name": "resourcefullib",
+      "filename": "resourcefullib-neoforge-1.21-3.0.12.jar",
+      "side": "both",
+      "url": "https://cdn.modrinth.com/data/G1hIVOrD/versions/x99nCLTm/resourcefullib-neoforge-1.21-3.0.12.jar",
+      "hash": "sha512:a9d20e345faa9bcb297bd95ac9524205834804d1bb13518397dd4f7f62b352b08c3339ee7f7870d3669078ceeb33d5c31ea527aecce4b31d62ec1ff7d8b562c8",
+      "fileSize": 484332,
+      "modrinth": {
+        "projectId": "G1hIVOrD",
+        "versionId": "x99nCLTm"
+      }
+    },
+    {
+      "name": "ResourcePackOverrides",
+      "filename": "ResourcePackOverrides-v21.1.0-1.21.1-NeoForge.jar",
+      "side": "both",
+      "url": "https://cdn.modrinth.com/data/YsFycamt/versions/xf3H2eJV/ResourcePackOverrides-v21.1.0-1.21.1-NeoForge.jar",
+      "hash": "sha512:9a15db96ffc86bc93624392c22c2aaea4ad4a7267c20ff528ff2dd61d8d84b9db611fc24673fba5b5d0bac318b4ce1e9d1725085ce2fad68f4231afa6bbb43c4",
+      "fileSize": 83035,
+      "modrinth": {
+        "projectId": "YsFycamt",
+        "versionId": "xf3H2eJV"
+      }
+    },
+    {
+      "name": "Resourcify (1.21.1",
+      "filename": "Resourcify (1.21.1-neoforge)-1.8.1.jar",
+      "side": "both",
+      "url": "https://cdn.modrinth.com/data/RLzHAoZe/versions/yIfzKO1A/Resourcify%20%281.21.1-neoforge%29-1.8.1.jar",
+      "hash": "sha512:c80e76da9f4b4e0614b4d3998f3664791bca25615a55130f6df6f3253625b39bf7a1e6b699e43a09f90bf403407671c9e0391d126c4985b21d6abc3b9776b0f5",
+      "fileSize": 2586268,
+      "modrinth": {
+        "projectId": "RLzHAoZe",
+        "versionId": "yIfzKO1A"
+      }
+    },
+    {
+      "name": "rightclickharvest",
+      "filename": "rightclickharvest-neoforge-4.6.1+1.21.1.jar",
+      "side": "both",
+      "url": "https://cdn.modrinth.com/data/Cnejf5xM/versions/djt0zS53/rightclickharvest-neoforge-4.6.1%2B1.21.1.jar",
+      "hash": "sha512:909cc4aba3ed535bb65c4cf285725907f100c0ebbcb619b1c861338b7993a020f0aef953bebeeb74920304c5a80e9cd07654aa5f885a5995824da7cf6784bf42",
+      "fileSize": 287634,
+      "modrinth": {
+        "projectId": "Cnejf5xM",
+        "versionId": "djt0zS53"
+      }
+    },
+    {
+      "name": "sable",
+      "filename": "sable-neoforge-1.21.1-1.1.3.jar",
+      "side": "both",
+      "url": "https://cdn.modrinth.com/data/T9PomCSv/versions/g8CObHcP/sable-neoforge-1.21.1-1.1.3.jar",
+      "hash": "sha512:8180e214681c171c9e3b7fa307f7a92bd7de0b8125d671291425f04a4ba26b408758d8ea80a6386d8e73bb1e6b02caf3f20afb9b91ecedd48c37ed44363ac961",
+      "fileSize": 24766579,
+      "modrinth": {
+        "projectId": "T9PomCSv",
+        "versionId": "g8CObHcP"
+      }
+    },
+    {
+      "name": "Searchables",
+      "filename": "Searchables-neoforge-1.21.1-1.0.2.jar",
+      "side": "both",
+      "url": "https://cdn.modrinth.com/data/fuuu3xnx/versions/iEE85X0w/Searchables-neoforge-1.21.1-1.0.2.jar",
+      "hash": "sha512:d0824bac1900142ac9a53e68f7ec3b4c0d33d9366bbd3f1d0d93eed860e5eb6b5e6f5a215a69bfffa70bcb48573ff49b5a12bbaa96096ceac6636000d506027a",
+      "fileSize": 77326,
+      "modrinth": {
+        "projectId": "fuuu3xnx",
+        "versionId": "iEE85X0w"
+      }
+    },
+    {
+      "name": "SereneShrubbery",
+      "filename": "SereneShrubbery-NeoForge-1.21.1-v2.3.2.jar",
+      "side": "both",
+      "url": "https://cdn.modrinth.com/data/8nNCA6Vy/versions/a9Ola3FR/SereneShrubbery-NeoForge-1.21.1-v2.3.2.jar",
+      "hash": "sha512:ee0d376c5faecf0d3faef78a57a346c0b9d2da2f0a39ecd3e27ba7eeba17cd0cfb10a6cd372c052f4d8472539bb05019c1ad0def2dda871dda1c402827e5b91f",
+      "fileSize": 628585,
+      "modrinth": {
+        "projectId": "8nNCA6Vy",
+        "versionId": "a9Ola3FR"
+      }
+    },
+    {
+      "name": "sliceanddice",
+      "filename": "sliceanddice-forge-4.2.4.jar",
+      "side": "both",
+      "url": "https://cdn.modrinth.com/data/GmjmRQ0A/versions/tyVnEa75/sliceanddice-forge-4.2.4.jar",
+      "hash": "sha512:3834893ba6614befba87e6be13481bedfa7bce1ba196e75a6e8335b4718be772481f7ef6bea10b22fbcf154b0147ea97536102ddcf70912e5843f547ee3f711d",
+      "fileSize": 406699,
+      "modrinth": {
+        "projectId": "GmjmRQ0A",
+        "versionId": "tyVnEa75"
+      }
+    },
+    {
+      "name": "smarterfarmers",
+      "filename": "smarterfarmers-1.21-2.2.4-neoforge.jar",
+      "side": "both",
+      "url": "https://cdn.modrinth.com/data/Bh6ZOMvp/versions/odppGdXf/smarterfarmers-1.21-2.2.4-neoforge.jar",
+      "hash": "sha512:a79babd2e4fd42823dbbfc6afedd30e57462d693fe255b7e4306023d0567f183196c9b142356b43803ad8e503a386642aa91b9b29835f739c233bce768018d62",
+      "fileSize": 65924,
+      "modrinth": {
+        "projectId": "Bh6ZOMvp",
+        "versionId": "odppGdXf"
+      }
+    },
+    {
+      "name": "sodium",
+      "filename": "sodium-neoforge-0.6.13+mc1.21.1.jar",
+      "side": "both",
+      "url": "https://cdn.modrinth.com/data/AANobbMI/versions/Pb3OXVqC/sodium-neoforge-0.6.13%2Bmc1.21.1.jar",
+      "hash": "sha512:ce58f34d05d96c0a109a5cea23c741f6bdb2e6be31fc087c5989274cefca5f10ba0c08c62083cf554a51f2c7667bf46e4164383f675c844e77633aef2659996b",
+      "fileSize": 1162994,
+      "modrinth": {
+        "projectId": "AANobbMI",
+        "versionId": "Pb3OXVqC"
+      }
+    },
+    {
+      "name": "sodiumleafculling",
+      "filename": "sodiumleafculling-neoforge-1.0.1-1.21.1.jar",
+      "side": "both",
+      "url": "https://cdn.modrinth.com/data/M25bkObt/versions/aatWXjek/sodiumleafculling-neoforge-1.0.1-1.21.1.jar",
+      "hash": "sha512:710d6af15aeca53618c71b167587513c9abb389661ba327ab933bcdce99715762dca96d2e1560e2b2ff9cf5709f28fbd24bfe94371010eb378fd5ea4af1cde98",
+      "fileSize": 224869,
+      "modrinth": {
+        "projectId": "M25bkObt",
+        "versionId": "aatWXjek"
+      }
+    },
+    {
+      "name": "SomeMoreBlocks@neoforge",
+      "filename": "SomeMoreBlocks@neoforge-1.21-1.1.5-HF.jar",
+      "side": "both",
+      "url": "https://cdn.modrinth.com/data/R1LxuhQe/versions/VgczZRP7/SomeMoreBlocks%40neoforge-1.21-1.1.5-HF.jar",
+      "hash": "sha512:6b0b4516a6c5c97bd5bd654758f1e1a728b2b37130478363a88dbec308e13502beb671e55d0fe9bdc29a75f9d9aefd2329db63cd50e6769d72bf4f188198f28f",
+      "fileSize": 2989088,
+      "modrinth": {
+        "projectId": "R1LxuhQe",
+        "versionId": "VgczZRP7"
+      }
+    },
+    {
+      "name": "sophisticatedbackpacks",
+      "filename": "sophisticatedbackpacks-1.21.1-3.25.41.1683.jar",
+      "side": "both",
+      "url": "https://cdn.modrinth.com/data/TyCTlI4b/versions/TiDxy94j/sophisticatedbackpacks-1.21.1-3.25.41.1683.jar",
+      "hash": "sha512:5c9eebb9f8446c4574ac9f97b1983da2f09d85d35edf66183fc4c135f05c86ea657981957ad9c9e1db307091415d6c905bac8c21d59737c53adf6a2250874cac",
+      "fileSize": 1023170,
+      "modrinth": {
+        "projectId": "TyCTlI4b",
+        "versionId": "TiDxy94j"
+      }
+    },
+    {
+      "name": "sophisticatedcore",
+      "filename": "sophisticatedcore-1.21.1-1.4.25.1696.jar",
+      "side": "both",
+      "url": "https://cdn.modrinth.com/data/nmoqTijg/versions/BcVccGu5/sophisticatedcore-1.21.1-1.4.25.1696.jar",
+      "hash": "sha512:7124fcdbcd7ad299244da3b77ce6ed6a5b241bef325e829774a11cacdf8f5474d4a21957d33d58203f1acdf9327883cfc142c9e819c70d609a9d8e5582b9257a",
+      "fileSize": 1480937,
+      "modrinth": {
+        "projectId": "nmoqTijg",
+        "versionId": "BcVccGu5"
+      }
+    },
+    {
+      "name": "spawnanimations",
+      "filename": "spawnanimations-v1.11.4-mc1.17-26.1.1-mod.jar",
+      "side": "both",
+      "url": "https://cdn.modrinth.com/data/zrzYrlm0/versions/xMio8eVd/spawnanimations-v1.11.4-mc1.17-26.1.1-mod.jar",
+      "hash": "sha512:05075bf4558d6630ba2f3b7d01008f84abbf108f00e42bc65f43806b7349f73d0f4dc8987870f8212c1356560cad73c307055d456c3d1ffb8db60cba3ac1957b",
+      "fileSize": 226177,
+      "modrinth": {
+        "projectId": "zrzYrlm0",
+        "versionId": "xMio8eVd"
+      }
+    },
+    {
+      "name": "Stellar View",
+      "filename": "Stellar View-1.21.1-0.5.2-NeoForge.jar",
+      "side": "both",
+      "url": "https://cdn.modrinth.com/data/Iairjv0A/versions/QD13LaRR/Stellar%20View-1.21.1-0.5.2-NeoForge.jar",
+      "hash": "sha512:76040793d7bae9dd2b557f4f8c1bc6eeb00521ba21582bff2c57a91b0d5709e5c0a9c1ba980f48e96aebde2a64d288d58df885ecaf82178fae8eb5fbd0982b55",
+      "fileSize": 564564,
+      "modrinth": {
+        "projectId": "Iairjv0A",
+        "versionId": "QD13LaRR"
+      }
+    },
+    {
+      "name": "Stony Cliffs FML v1.1.2.jar",
+      "filename": "Stony Cliffs FML v1.1.2.jar",
+      "side": "both",
+      "url": "https://cdn.modrinth.com/data/boFjx9eY/versions/GRs8dpYU/Stony%20Cliffs%20FML%20v1.1.2.jar",
+      "hash": "sha512:8df735e42a6b21860ee4217fb9c461660a771b968b928e49909bddcca1266b3e7a814f9f920ba40cc41a988908126da51326758bb82d3111b5b3a02dc4f2fb5a",
+      "fileSize": 43941,
+      "modrinth": {
+        "projectId": "boFjx9eY",
+        "versionId": "GRs8dpYU"
+      }
+    },
+    {
+      "name": "StorageDrawers",
+      "filename": "StorageDrawers-neoforge-1.21.1-13.11.4.jar",
+      "side": "both",
+      "url": "https://cdn.modrinth.com/data/guitPqEi/versions/px0CCB06/StorageDrawers-neoforge-1.21.1-13.11.4.jar",
+      "hash": "sha512:df97b8b5053a902264a236a71e7585b78d9d48a0bce585033aa8b169896d775f6fda462cfc77431af79cc596ab356eb9642e0c69a205a46b02d4d6f7ab3e74e9",
+      "fileSize": 1131420,
+      "modrinth": {
+        "projectId": "guitPqEi",
+        "versionId": "px0CCB06"
+      }
+    },
+    {
+      "name": "SubtleEffects",
+      "filename": "SubtleEffects-neoforge-1.21.1-1.14.2.jar",
+      "side": "both",
+      "url": "https://cdn.modrinth.com/data/4q8UOK1d/versions/bTFc0rVM/SubtleEffects-neoforge-1.21.1-1.14.2.jar",
+      "hash": "sha512:38c93c81151088437c91335f47dacad1edeffca5996f8c152a4ef3941acd22156b8a250b616dd02e307e912bd56ef983b6a8771bbf4c87fbe7e5b0052adaf96a",
+      "fileSize": 3306325,
+      "modrinth": {
+        "projectId": "4q8UOK1d",
+        "versionId": "bTFc0rVM"
+      }
+    },
+    {
+      "name": "supplementaries",
+      "filename": "supplementaries-1.21-3.5.34-neoforge.jar",
+      "side": "both",
+      "url": "https://cdn.modrinth.com/data/fFEIiSDQ/versions/NuQNqCLy/supplementaries-1.21-3.5.34-neoforge.jar",
+      "hash": "sha512:914057d5b4a1a6a1fe5413ee1a3e92867bb34dc877a934a3691b9c3b7e4aee00cb74ccae709d60353ec3db1d586f7e55583e3b71a6b5e949cfaeb950563f018a",
+      "fileSize": 13366044,
+      "modrinth": {
+        "projectId": "fFEIiSDQ",
+        "versionId": "NuQNqCLy"
+      }
+    },
+    {
+      "name": "t",
+      "filename": "t_and_t-neoforge-fabric-1.13.7+1.21.1.jar",
+      "side": "both",
+      "url": "https://cdn.modrinth.com/data/DjLobEOy/versions/E4Wy3O8Y/t_and_t-neoforge-fabric-1.13.7%2B1.21.1.jar",
+      "hash": "sha512:5edc9324618b481b60e1c970138a60842d79a9e486cc89c83f01ca41eb193c55ac622dedbe48799492c59b4e8d25c53757396f8fb3d4806eb5b1de12e5d7dd0c",
+      "fileSize": 3641681,
+      "modrinth": {
+        "projectId": "DjLobEOy",
+        "versionId": "E4Wy3O8Y"
+      }
+    },
+    {
+      "name": "TerraBlender",
+      "filename": "TerraBlender-neoforge-1.21.1-4.1.0.8.jar",
+      "side": "both",
+      "url": "https://cdn.modrinth.com/data/kkmrDlKT/versions/6e8GCrLb/TerraBlender-neoforge-1.21.1-4.1.0.8.jar",
+      "hash": "sha512:9d4b2a1be5139c0fb2fad92ed21805b17d9e83b6ea48e637e018bb14063c1823a206390755dbfe8d025c20fd62ac11cdd84db53ddb956dabaeda01bff57bac50",
+      "fileSize": 120365,
+      "modrinth": {
+        "projectId": "kkmrDlKT",
+        "versionId": "6e8GCrLb"
+      }
+    },
+    {
+      "name": "ThirstWasTaken",
+      "filename": "ThirstWasTaken-1.21.1-2.1.5.jar",
+      "side": "both",
+      "url": "https://cdn.modrinth.com/data/iUheEnjm/versions/YqPoqXIx/ThirstWasTaken-1.21.1-2.1.5.jar",
+      "hash": "sha512:8f6fb11312cb057bcdf018baf9b99ca66523ef4a34576856e3af9d06fbf14749257399aabfe44ff8f8b490799ba89b9b03157e85145465a3f710393964127ef5",
+      "fileSize": 206034,
+      "modrinth": {
+        "projectId": "iUheEnjm",
+        "versionId": "YqPoqXIx"
+      }
+    },
+    {
+      "name": "twoplayersonehorse",
+      "filename": "twoplayersonehorse-neoforge-1.21.1-1.0.2.jar",
+      "side": "both",
+      "url": "https://cdn.modrinth.com/data/c89BhsB1/versions/cTpecyBB/twoplayersonehorse-neoforge-1.21.1-1.0.2.jar",
+      "hash": "sha512:5d8edd34316cf5326eb852abc3e279376a3ab8cc93d756af469e4f03fde0f1e685f54d9df30fc38f0462386cce4f5219dfcf55eaff7916fa0e0c7e1dab31b573",
+      "fileSize": 22418,
+      "modrinth": {
+        "projectId": "c89BhsB1",
+        "versionId": "cTpecyBB"
+      }
+    },
+    {
+      "name": "UniversalBoneMeal",
+      "filename": "UniversalBoneMeal-v21.1.0-1.21.1-NeoForge.jar",
+      "side": "both",
+      "url": "https://cdn.modrinth.com/data/66VIiT1y/versions/5g9aZDW0/UniversalBoneMeal-v21.1.0-1.21.1-NeoForge.jar",
+      "hash": "sha512:6569e6283ac424290e0b941bca5feb61c35c3a770ccd5a94fab64286423e2a36e60aa742c708b40be35c100f7ddb252bdf76ab26aabf8c7346b24614e8946fe2",
+      "fileSize": 88949,
+      "modrinth": {
+        "projectId": "66VIiT1y",
+        "versionId": "5g9aZDW0"
+      }
+    },
+    {
+      "name": "upgrade",
+      "filename": "upgrade_aquatic-1.21.1-7.0.1.jar",
+      "side": "both",
+      "url": "https://cdn.modrinth.com/data/gTuTFFyz/versions/3ZycbXog/upgrade_aquatic-1.21.1-7.0.1.jar",
+      "hash": "sha512:8a2c7e27fecff28c34fd254875024cb2743e94ceb5c007f33cb28563e2007b1afddfc6d90637fd28ad07eeda39e3835b01395e4471ed1bb9392b7665d0020882",
+      "fileSize": 4925541,
+      "modrinth": {
+        "projectId": "gTuTFFyz",
+        "versionId": "3ZycbXog"
+      }
+    },
+    {
+      "name": "VanillaBackport",
+      "filename": "VanillaBackport-neoforge-1.21.1-1.1.6.3.jar",
+      "side": "both",
+      "url": "https://cdn.modrinth.com/data/6xwxDTgf/versions/TJ1RI2mA/VanillaBackport-neoforge-1.21.1-1.1.6.3.jar",
+      "hash": "sha512:dea48d0be304269af459d429a6a048a6a73260cd8f1400d262a96e85d493639992658df174fd6ae4347fd742051244ef4b3c593348f27a727cb7af314b1a4dcd",
+      "fileSize": 27456653,
+      "modrinth": {
+        "projectId": "6xwxDTgf",
+        "versionId": "TJ1RI2mA"
+      }
+    },
+    {
+      "name": "Villager",
+      "filename": "Villager-API-1.21.1-neoforge-1.26.1.3.jar",
+      "side": "both",
+      "url": "https://cdn.modrinth.com/data/9Tp2Becg/versions/QAnEQ1aB/Villager-API-1.21.1-neoforge-1.26.1.3.jar",
+      "hash": "sha512:137c934f32ec9ff2245f12d65bdefecda822391df491904440a09d0923940121c267129a1c39152fcdb549b3a50b4261f1eb466eb04334d92c66f2b5c854eec1",
+      "fileSize": 132892,
+      "modrinth": {
+        "projectId": "9Tp2Becg",
+        "versionId": "QAnEQ1aB"
+      }
+    },
+    {
+      "name": "villagernames",
+      "filename": "villagernames-1.21.1-8.2.jar",
+      "side": "both",
+      "url": "https://cdn.modrinth.com/data/gqRXDo8B/versions/MTjxRIUz/villagernames-1.21.1-8.2.jar",
+      "hash": "sha512:8344c93a58fd5ffcecaf26516af7c91e357c7842bf43e4f66096bbe4b31129ca0fd1795562349a8cc91bf5eb15ca3bd76151cf12c9ad57cdde257807a4cd9921",
+      "fileSize": 76821,
+      "modrinth": {
+        "projectId": "gqRXDo8B",
+        "versionId": "MTjxRIUz"
+      }
+    },
+    {
+      "name": "vr",
+      "filename": "vr_typewriter_daycounter_v1.1.jar",
+      "side": "both",
+      "url": "https://cdn.modrinth.com/data/j6YEKDZd/versions/1fPJvBmS/vr_typewriter_daycounter_v1.1.jar",
+      "hash": "sha512:7a54244d0067d01585ea7af97fa37fb276737e1feec0da44972bb5ab588bf7afa41ba978403e1318a3ff40ee1686d7e5504385701cdfea30b7bf845c4369e102",
+      "fileSize": 57886,
+      "modrinth": {
+        "projectId": "j6YEKDZd",
+        "versionId": "1fPJvBmS"
+      }
+    },
+    {
+      "name": "watut",
+      "filename": "watut-neoforge-1.21.0-1.2.7.jar",
+      "side": "both",
+      "url": "https://cdn.modrinth.com/data/AtB5mHky/versions/uWr2aTW9/watut-neoforge-1.21.0-1.2.7.jar",
+      "hash": "sha512:b96bd6146344a86e4ad45fd4c274a15f0e146bcc13747940f8b9f0ea21c8ea8bca4d005444f2bf8082f29ec7ad1ce03507764ddfbdda64ac9284d8ac400b44c5",
+      "fileSize": 432269,
+      "modrinth": {
+        "projectId": "AtB5mHky",
+        "versionId": "uWr2aTW9"
+      }
+    },
+    {
+      "name": "Waves",
+      "filename": "Waves-1.21.x-1.6.jar",
+      "side": "both",
+      "url": "https://cdn.modrinth.com/data/2ygdYUcf/versions/U5Cx2fXK/Waves-1.21.x-1.6.jar",
+      "hash": "sha512:8efdaba5838a659b825433e4e701f6cd90d45e49f8a6838a2d83bf271fd055d5fb16f1ee075e0d2ebba4f9013569b33661d1ef40027f7c705f570dba5873108f",
+      "fileSize": 1322569,
+      "modrinth": {
+        "projectId": "2ygdYUcf",
+        "versionId": "U5Cx2fXK"
+      }
+    },
+    {
+      "name": "xaerominimap",
+      "filename": "xaerominimap-neoforge-1.21.1-25.3.10.jar",
+      "side": "both",
+      "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/CatMvRfN/xaerominimap-neoforge-1.21.1-25.3.10.jar",
+      "hash": "sha512:97dbc7ddc8b86edead71f60e3257175abe9e05e94387447aad2467cfcf0a5211ed848ee3df9bb3c308183405f997f8acd508ac01f8ee374f08d9af00729fc1d8",
+      "fileSize": 2137784,
+      "modrinth": {
+        "projectId": "1bokaNcj",
+        "versionId": "CatMvRfN"
+      }
+    },
+    {
+      "name": "xaeroworldmap",
+      "filename": "xaeroworldmap-neoforge-1.21.1-1.40.11.jar",
+      "side": "both",
+      "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/arbQPyvf/xaeroworldmap-neoforge-1.21.1-1.40.11.jar",
+      "hash": "sha512:a4bb890dbac27937411f570432ebc5a4cc5df9562c22e7c3d6a6516ff303bfcb7f35fb39d2ce42a51591a4b2a5b5debfc933fda3f5a552560442fe69f8828b0b",
+      "fileSize": 1386001,
+      "modrinth": {
+        "projectId": "NcUtCpym",
+        "versionId": "arbQPyvf"
+      }
+    },
+    {
+      "name": "yet",
+      "filename": "yet_another_config_lib_v3-3.8.2+1.21.1-neoforge.jar",
+      "side": "both",
+      "url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/7TVdVtxF/yet_another_config_lib_v3-3.8.2%2B1.21.1-neoforge.jar",
+      "hash": "sha512:583de19b927ce8050c2b7d5e60b75accc69e325e5aac85c27994c82a9dec2e4e078343fa1d4c3a10d4bd7e0e524e0b3b246a18cf03db01e363a1e6f865adcf48",
+      "fileSize": 1118651,
+      "modrinth": {
+        "projectId": "1eAoo2KR",
+        "versionId": "7TVdVtxF"
+      }
+    },
+    {
+      "name": "YungsApi",
+      "filename": "YungsApi-1.21.1-NeoForge-5.1.6.jar",
+      "side": "both",
+      "url": "https://cdn.modrinth.com/data/Ua7DFN59/versions/ZB22DE9q/YungsApi-1.21.1-NeoForge-5.1.6.jar",
+      "hash": "sha512:5f36d5166a67a156df52699071f20219bc2320b3c4fbcd9dac38631f66136f034e3219ac89ff4bfb6e26e4c68513a94c833797f2e5ed5bf58cfa1531eeed162d",
+      "fileSize": 388678,
+      "modrinth": {
+        "projectId": "Ua7DFN59",
+        "versionId": "ZB22DE9q"
+      }
+    },
+    {
+      "name": "YungsBridges",
+      "filename": "YungsBridges-1.21.1-NeoForge-5.1.1.jar",
+      "side": "both",
+      "url": "https://cdn.modrinth.com/data/Ht4BfYp6/versions/urkCzBf6/YungsBridges-1.21.1-NeoForge-5.1.1.jar",
+      "hash": "sha512:20b07ae4c08974980f976bcae32f18ccb885745d6cd50d4a5d0156eb5c51c29e49f8b2bf7dc2ae160d39b62f2332513bd9850efc5cba13697e36a2ac2848bc3b",
+      "fileSize": 136820,
+      "modrinth": {
+        "projectId": "Ht4BfYp6",
+        "versionId": "urkCzBf6"
+      }
+    }
+  ],
+  "filesArchive": {
+    "url": "https://teyk0o.github.io/zenith-modpack/files.zip",
+    "hash": "sha256:c220750c26148ea5e239b6841770aed146b1597d0f6cab5468de6effa4bcc36c",
+    "size": 19183233
+  },
+  "files": [
+    {
+      "path": "servers.dat",
+      "hash": "sha256:6cea6ca05693e8e4f7dc448a0f56fcc395647f58aba9d3136d0ebaf6273dd6ea",
+      "size": 15916,
+      "normalize": false
+    },
+    {
+      "path": "config/advancementplaques.toml",
+      "hash": "sha256:439003313f744904245998eefc7a539791448a6072b168cf601149be98aff7d7",
+      "size": 3197,
+      "normalize": true
+    },
+    {
+      "path": "config/aeronautics-server.toml",
+      "hash": "sha256:733a50c4a935c18257572c88cf0df06e85978671930984248d4dac1ffdfb6b19",
+      "size": 2958,
+      "normalize": true
+    },
+    {
+      "path": "config/alpinewhispers-client.toml",
+      "hash": "sha256:aa8c4b22a010e38b00b5d2d4cc8c179d716c5fc5354ab17e0404b75d07477c72",
+      "size": 78,
+      "normalize": true
+    },
+    {
+      "path": "config/appleskin-client.toml",
+      "hash": "sha256:6a3624ed584e6d2c4323957c3ca3d17bf2c01c7bbb73b9ee487378ff69d88aba",
+      "size": 1353,
+      "normalize": true
+    },
+    {
+      "path": "config/astrocraft.json",
+      "hash": "sha256:fd4a936028e8393fcbc6f9dc37e66b3362b8101cad36092f1e35b52b5f3772a0",
+      "size": 20569,
+      "normalize": true
+    },
+    {
+      "path": "config/autumnity-common.toml",
+      "hash": "sha256:93abfd9c3c91ba3687e203f655f4103a892426b78778513370b2df9bd7ac79b4",
+      "size": 162,
+      "normalize": true
+    },
+    {
+      "path": "config/bakery-common.toml",
+      "hash": "sha256:a4d4307e0233b125cb0d7b3ffb73ce3c714a0311225a8c705dfb3a3bd43e5544",
+      "size": 4678,
+      "normalize": true
+    },
+    {
+      "path": "config/barebackhorseriding.json5",
+      "hash": "sha256:dde8bd3e2b41ead3e70db5fb4ae84e8ef47b2d76bc2815c1da4d5016b191360f",
+      "size": 877,
+      "normalize": true
+    },
+    {
+      "path": "config/beachparty-common.toml",
+      "hash": "sha256:652e3ef889c34ddefd2ce7a97fdd118ceee29f261c7127c4533bf8400b105ff4",
+      "size": 200,
+      "normalize": true
+    },
+    {
+      "path": "config/betterclouds-v1.json",
+      "hash": "sha256:f356532d675bc64ab1484b91b8d5398b56a75d964d33e1f9155559d3be73a0f4",
+      "size": 1450,
+      "normalize": true
+    },
+    {
+      "path": "config/blueprint-client.toml",
+      "hash": "sha256:be05bad1aa4234dc14e1b4f69b4476d7457a6be60c4844c521195978ad8562a7",
+      "size": 879,
+      "normalize": true
+    },
+    {
+      "path": "config/blueprint-common.toml",
+      "hash": "sha256:fd498503a74d6c82561869da4e86d8fb886dc2ac182a2086886314aca26bb7be",
+      "size": 516,
+      "normalize": true
+    },
+    {
+      "path": "config/bountifulfares-client.toml",
+      "hash": "sha256:b376608cb5da091d91f2007ee09af6f3b746d029d0b40978b7915274819b32ca",
+      "size": 470,
+      "normalize": true
+    },
+    {
+      "path": "config/bountifulfares-common.toml",
+      "hash": "sha256:6a227612c12d65202c09a0473922b7abb0c9c30a0afe156e38b1786d545f3299",
+      "size": 1836,
+      "normalize": true
+    },
+    {
+      "path": "config/c2me.toml",
+      "hash": "sha256:f44f1e9636ce62f0be76cd093b731f64516d5076dbcb199d1621ef8cfd9d53be",
+      "size": 9269,
+      "normalize": true
+    },
+    {
+      "path": "config/camping-common.toml",
+      "hash": "sha256:2b774380671248a792cfc6b3fe5a254988693eb7cfc8b8868b840b8badffba9c",
+      "size": 61,
+      "normalize": true
+    },
+    {
+      "path": "config/carryon-client.toml",
+      "hash": "sha256:c3cbcb17ade590daf230373d51457732bc8d9dd1039f7947b6bf564e38df1d9c",
+      "size": 582,
+      "normalize": true
+    },
+    {
+      "path": "config/carryon-common.toml",
+      "hash": "sha256:64b3a9808f98d547bfc461f41e159cab6ef3c7525a98479e06adcbf65b027997",
+      "size": 8427,
+      "normalize": true
+    },
+    {
+      "path": "config/chatanimation.json",
+      "hash": "sha256:de5bb1061dcd48c3378f6849658940a465c3e094e5d6c342c5f73ea984da2a8b",
+      "size": 160,
+      "normalize": true
+    },
+    {
+      "path": "config/chefsdelight-common.toml",
+      "hash": "sha256:348bf9f89d3dc287ab71039f9151eef027163eb4b1a0c1016ef0ed7248dfb665",
+      "size": 688,
+      "normalize": true
+    },
+    {
+      "path": "config/collective.json5",
+      "hash": "sha256:1bd89e753b05ca51f7260596b5e8e8d53b6510eb39eb05c315a2e4f0d789461b",
+      "size": 999,
+      "normalize": true
+    },
+    {
+      "path": "config/colorwheel-client.toml",
+      "hash": "sha256:53a5ca163195a69c27765a7cb62a510d8dd35c1e78273d60d98d487e18fc4226",
+      "size": 267,
+      "normalize": true
+    },
+    {
+      "path": "config/comforts-common.toml",
+      "hash": "sha256:d1ff6e8f5aa2b77d6708b9d4a566d2de96e6f1ec594139742162b1dfdf92c476",
+      "size": 185,
+      "normalize": true
+    },
+    {
+      "path": "config/comforts-server.toml",
+      "hash": "sha256:00097d03bb5a4016c869695ecce545a38391c7089d8bd9f80cd6feccbae9738e",
+      "size": 1814,
+      "normalize": true
+    },
+    {
+      "path": "config/companion-common.yaml",
+      "hash": "sha256:d2699076e6295aefd93532404e9f82608f7180022ce352b36690e66e03f3b85d",
+      "size": 542,
+      "normalize": true
+    },
+    {
+      "path": "config/connector.json",
+      "hash": "sha256:67bee06b2b321ed25e0d4e9b5bac7ab76c8ae76442de6caf11f463ce2ae1ac5e",
+      "size": 176,
+      "normalize": true
+    },
+    {
+      "path": "config/continuity.json",
+      "hash": "sha256:00267a602028cbb037dcb0b5f803db31bed284235ca9c1ea189ad4179311a2f4",
+      "size": 122,
+      "normalize": true
+    },
+    {
+      "path": "config/copycats-client.toml",
+      "hash": "sha256:e315dbb97d8623bcb779383e2b58d22cf2c65b7ca239f73cb34660ee077fecfb",
+      "size": 331,
+      "normalize": true
+    },
+    {
+      "path": "config/copycats-common.toml",
+      "hash": "sha256:14818ac4ed5c487630e917c6bcbb986b6dfad26357111cdb4619ad5456b3a46e",
+      "size": 2091,
+      "normalize": true
+    },
+    {
+      "path": "config/copycats-server.toml",
+      "hash": "sha256:dac18a20718319d6556a7b2709d8f7a64b5da718d2b05ab9d32604087860322a",
+      "size": 351,
+      "normalize": true
+    },
+    {
+      "path": "config/corpse-server.toml",
+      "hash": "sha256:ccca6ca427eb813e81abe951caac1c37c8acc3fc55ba848eaef6bd2b303730c1",
+      "size": 1056,
+      "normalize": true
+    },
+    {
+      "path": "config/corpsecurioscompat-common.toml",
+      "hash": "sha256:067560f2da682722e831b15c64cee6e0efaf4adc2523a53a0eb91aa9182534d3",
+      "size": 282,
+      "normalize": true
+    },
+    {
+      "path": "config/create-client-1.toml.bak",
+      "hash": "sha256:e20f6769fd946b918f24cfd54a422a599faa43394ee9a33012e645102a366da3",
+      "size": 4701,
+      "normalize": false
+    },
+    {
+      "path": "config/create-client.toml",
+      "hash": "sha256:be83cb6b78d8960f7c76386a71a1b4cc412c4579f64f489b36ac06c463d5c00b",
+      "size": 4648,
+      "normalize": true
+    },
+    {
+      "path": "config/create-common.toml",
+      "hash": "sha256:1c632f62c30f4e1223669267196d2ff1a2c03e400bf565ff4fe81e20c7cd2bdf",
+      "size": 146,
+      "normalize": true
+    },
+    {
+      "path": "config/create-server-1.toml.bak",
+      "hash": "sha256:d063982581108b8c7ed6c670c4f4a302abe39be7bfeb565de96b8d9d880426cd",
+      "size": 16882,
+      "normalize": false
+    },
+    {
+      "path": "config/create-server.toml",
+      "hash": "sha256:f1a3edd31cdcf2b602b7d51d1fe8ba5e88d6403580ba382ba4cbfab1ecb3a365",
+      "size": 16286,
+      "normalize": true
+    },
+    {
+      "path": "config/create_central_kitchen-client.toml",
+      "hash": "sha256:cd23ac4f2ce6a45b649d26077484476f18854d28bae7749d132dfc7d1139ca8d",
+      "size": 154,
+      "normalize": true
+    },
+    {
+      "path": "config/create_central_kitchen-common.toml",
+      "hash": "sha256:9181ff82252d2e51065cc6cbfbe612bc597d1246146a579b0a6f38cc444fc4e9",
+      "size": 1342,
+      "normalize": true
+    },
+    {
+      "path": "config/create_cold_sweat-server.toml",
+      "hash": "sha256:c53691a4f275604ee5ca6c2dd72944a80b59366669725076bdea9a2dec49f349",
+      "size": 2057,
+      "normalize": true
+    },
+    {
+      "path": "config/create_dragons_plus-client.toml",
+      "hash": "sha256:a3888f58a510d8e33e3caf8444af00c726f895f75f1d85f5b99c20c6ca420290",
+      "size": 292,
+      "normalize": true
+    },
+    {
+      "path": "config/create_dragons_plus-common.toml",
+      "hash": "sha256:0f42cb765b27d07df5a406079dfee12f6154761e7a4fbfa5337644b530ca7853",
+      "size": 1405,
+      "normalize": true
+    },
+    {
+      "path": "config/create_dragons_plus-server.toml",
+      "hash": "sha256:690d2f38456d0c23d3ed246e50251e8ac9f6a465f96dc7e58cda234256f4f189",
+      "size": 337,
+      "normalize": true
+    },
+    {
+      "path": "config/create_dragons_plus-simulated-extension-common-1.toml.bak",
+      "hash": "sha256:5517ebbdfed7db87afa77909bd289bd72e248f48cecc835438c0d0aa3db6f098",
+      "size": 441,
+      "normalize": false
+    },
+    {
+      "path": "config/create_dragons_plus-simulated-extension-common.toml",
+      "hash": "sha256:9f68929cb7e3699215c0008b158d0425858b3ad065cba76ce1f4256369754982",
+      "size": 512,
+      "normalize": true
+    },
+    {
+      "path": "config/create_dragons_plus-simulated-extension-server-1.toml.bak",
+      "hash": "sha256:2abf35bbc1f4a4e8dbcb9903b43c161630fb0bf7b242dd42799ebb3fed8b88e1",
+      "size": 1389,
+      "normalize": false
+    },
+    {
+      "path": "config/create_dragons_plus-simulated-extension-server.toml",
+      "hash": "sha256:7dc2c33af18740fceb501226305ae7d46ec344944da22ed40baecd4a88ef8008",
+      "size": 2382,
+      "normalize": true
+    },
+    {
+      "path": "config/crittersandcompanions-common.toml",
+      "hash": "sha256:baf0a34a91616d08d3de642ae553cde495ea8139c75f6fb4d87654e074ac529f",
+      "size": 480,
+      "normalize": true
+    },
+    {
+      "path": "config/cubes_without_borders.json",
+      "hash": "sha256:fc23de68ad82636995de4b3da07d4732767e51d4f8c048a0749f42958b8afa47",
+      "size": 202,
+      "normalize": true
+    },
+    {
+      "path": "config/cupboard.json",
+      "hash": "sha256:937698438af081495eebab187013f66570218e1443f35db8a2ca0b4cb6d9638b",
+      "size": 1304,
+      "normalize": true
+    },
+    {
+      "path": "config/curios-client.toml",
+      "hash": "sha256:f1e31eed2ff11e1c6eda6517dc8b24dabd5b752ba1f8a3503c5ce750af1fc7b4",
+      "size": 741,
+      "normalize": true
+    },
+    {
+      "path": "config/curios-common.toml",
+      "hash": "sha256:16c71790deac2bbdea0099e39cdf8eb47b3dd7ef6337b69ba9fce793a1bf9674",
+      "size": 155,
+      "normalize": true
+    },
+    {
+      "path": "config/curios-server.toml",
+      "hash": "sha256:3c34cf9f7918c6a9ec15b14a87aa4570a751c1688f8ac01cb2e9acfb9392a734",
+      "size": 467,
+      "normalize": true
+    },
+    {
+      "path": "config/deeperdarker-common.toml",
+      "hash": "sha256:6fc0146c17f0e2c53509f79dd77a6d1d8e6a50a122ceee0bd0cd24befc4e2e26",
+      "size": 821,
+      "normalize": true
+    },
+    {
+      "path": "config/DistantHorizons.toml",
+      "hash": "sha256:13aad5e70170a2f209987b919376ce1877f68e1c1c7882e4db24c5e85de5cab7",
+      "size": 31807,
+      "normalize": true
+    },
+    {
+      "path": "config/endersdelight-common.toml",
+      "hash": "sha256:0b9d4a831ea7636874706c7dd7943779e8255f51c8e1f2debe77778b92cd6e56",
+      "size": 1280,
+      "normalize": true
+    },
+    {
+      "path": "config/ends_delight-common.toml",
+      "hash": "sha256:3518ceefb467631775957588db1f0ff6fc44c203a8d00c28e07f1813bbf06f1d",
+      "size": 690,
+      "normalize": true
+    },
+    {
+      "path": "config/entityculling.json",
+      "hash": "sha256:ceb5b3624c3269bef037b2914da8ab0d1c368abdd466156292a5d82db8803b0e",
+      "size": 1897,
+      "normalize": true
+    },
+    {
+      "path": "config/entity_model_features.json",
+      "hash": "sha256:6afd029bf11ffe17facede2ce7b3e55982b224382c3e9042a262a69b19e5ceb8",
+      "size": 1168,
+      "normalize": true
+    },
+    {
+      "path": "config/entity_texture_features.json",
+      "hash": "sha256:d8d72a9ac49bbe45921f1ace5a22c30b65802c5e70829343cf7acfd25f79b8dc",
+      "size": 1421,
+      "normalize": true
+    },
+    {
+      "path": "config/etf_warnings.json",
+      "hash": "sha256:a5ba22e63061c1fb67f0f895f17681351eaeccc225faef966c29ee630593275e",
+      "size": 28,
+      "normalize": true
+    },
+    {
+      "path": "config/expandeddelight-common.toml",
+      "hash": "sha256:075fa7464a4a36fa1c79f3f93c6408b99f8e0e05e66cd4dca075757c2462cb59",
+      "size": 125,
+      "normalize": true
+    },
+    {
+      "path": "config/explorerscompass-client.toml",
+      "hash": "sha256:482c9f241c7ba0f1492ee80ad7161a39eb93367a39fe6ff4d7d4be328ddce1ad",
+      "size": 503,
+      "normalize": true
+    },
+    {
+      "path": "config/explorerscompass-common.toml",
+      "hash": "sha256:a0867628abd6f9e052a618e61cab635a2fc04f8b2cbf93419857ba8ecec21e25",
+      "size": 2109,
+      "normalize": true
+    },
+    {
+      "path": "config/fallingleaves-client.toml",
+      "hash": "sha256:14a6af724037869ab4f196e6b5b3d83ff319c23d0df57ee2381e722133fe4a83",
+      "size": 1676,
+      "normalize": true
+    },
+    {
+      "path": "config/farmersdelight-client.toml",
+      "hash": "sha256:b15e935386c6b1c8a9ec606bcb516df64f07a439e54254b916d8db31fb7ced77",
+      "size": 357,
+      "normalize": true
+    },
+    {
+      "path": "config/farmersdelight-common.toml",
+      "hash": "sha256:0191c442d17fdc41a626951d610fa978512af5bbc464b81bba8be4884a1eca4a",
+      "size": 4587,
+      "normalize": true
+    },
+    {
+      "path": "config/farm_and_charm-common.toml",
+      "hash": "sha256:2e93b17ed7edf7873abd44fd44535b43062d5421fb62ec63d62a4f4c30a6363e",
+      "size": 5386,
+      "normalize": true
+    },
+    {
+      "path": "config/farsight.json",
+      "hash": "sha256:98a9f53e1e21247108a90e80b9cf4141fd7b432e219a262672ffedd5730afbab",
+      "size": 120,
+      "normalize": true
+    },
+    {
+      "path": "config/ferritecore-mixin.toml",
+      "hash": "sha256:b6c85cb392f799ed932ffe8d6051f48a283a0df3f8674acf4f8d89341836e686",
+      "size": 1579,
+      "normalize": true
+    },
+    {
+      "path": "config/flywheel-client.toml",
+      "hash": "sha256:cf802bcdb805f78b2254eca13ab89f0d36a2404124eeb4e743019f011c981807",
+      "size": 623,
+      "normalize": true
+    },
+    {
+      "path": "config/fml.toml",
+      "hash": "sha256:cc127c6067eb9e23289edc1c774afd71456456eef06c688af6731a72d3bba5e5",
+      "size": 1518,
+      "normalize": true
+    },
+    {
+      "path": "config/freecam.json5",
+      "hash": "sha256:442d3c73c8d0c64a2445ef0c31b618db0034a2f452bf15751ec337287f34ef0c",
+      "size": 737,
+      "normalize": true
+    },
+    {
+      "path": "config/friendsandfoes.json",
+      "hash": "sha256:56367d64e53853bba8881e9e09ec9425cc15e482ea49f9b2bf658b43e18f63cf",
+      "size": 2309,
+      "normalize": true
+    },
+    {
+      "path": "config/herbalbrews-common.toml",
+      "hash": "sha256:600cadae6ca6656dd7199e85b0dd87074076b7e16878f3679adb84e44f02fcc7",
+      "size": 773,
+      "normalize": true
+    },
+    {
+      "path": "config/horseexpert-client.toml",
+      "hash": "sha256:dd15f6c33af7ce8de6209a1ea557f4336753c17b29b73607f6d34fb56d09f9f0",
+      "size": 1896,
+      "normalize": true
+    },
+    {
+      "path": "config/immediatelyfast.json",
+      "hash": "sha256:a6c9d147a51c9e432c5c74c00285cfc5ba8b6fa4a0c6686051a7168b158d0d7a",
+      "size": 1114,
+      "normalize": true
+    },
+    {
+      "path": "config/immersive_aircraft.json",
+      "hash": "sha256:157139d7f9f38bdf952b0001fe43c40bb5c01620d9fb0829932668b687c976dc",
+      "size": 1518,
+      "normalize": true
+    },
+    {
+      "path": "config/immersive_horse_riding.json",
+      "hash": "sha256:1b533197e7408ddaa246ab0f120b4d9bfd0415982ed61392f48e6cad7ce84754",
+      "size": 190,
+      "normalize": true
+    },
+    {
+      "path": "config/iris-excluded.json",
+      "hash": "sha256:4d3264b58c502afaeca3f44e8d2db0843c54b8ba957afd21a2d450fe10dafefb",
+      "size": 31,
+      "normalize": true
+    },
+    {
+      "path": "config/iris.properties",
+      "hash": "sha256:769525277cceaa94614e095c26b5f6049f5db8c257be6ad527a2d37e5044de04",
+      "size": 294,
+      "normalize": true
+    },
+    {
+      "path": "config/jei-server.toml",
+      "hash": "sha256:57d741871716e29b3a318b625e740d590598f001c362b6a4a95e3ee628c5cbc3",
+      "size": 317,
+      "normalize": true
+    },
+    {
+      "path": "config/kaleidoscope_cookery-client.toml",
+      "hash": "sha256:1bd47fc7b41a718d64e96ad9019f20f2606f56b3bbf3fe52e46db2b4c6cf67d0",
+      "size": 111,
+      "normalize": true
+    },
+    {
+      "path": "config/kaleidoscope_cookery-common-1.toml.bak",
+      "hash": "sha256:beea70ccfe242f2fe71a4830148a6dc1bc3cba4b5867359181d1c35fada2e13e",
+      "size": 225,
+      "normalize": false
+    },
+    {
+      "path": "config/kaleidoscope_cookery-common.toml",
+      "hash": "sha256:1338a20f63b2035f56d3ee4743c6ca71f1252c696cd1873cd2c405b1c162af04",
+      "size": 1299,
+      "normalize": true
+    },
+    {
+      "path": "config/kiwi-client.yaml",
+      "hash": "sha256:6578bc417fc04cc6e57b330bf139a6d48ab5fc9de95638ae283f14975178ac3d",
+      "size": 497,
+      "normalize": true
+    },
+    {
+      "path": "config/kiwi-common.yaml",
+      "hash": "sha256:202b5a7ab19c1cfff344bd6546be24f8c10a3e92632551ca83ab636016e9d72f",
+      "size": 135,
+      "normalize": true
+    },
+    {
+      "path": "config/lambdynlights.toml",
+      "hash": "sha256:0289dfa4e25f8e4d025c321e0e41143a095a9cd795f195d066813784afad8626",
+      "size": 13026,
+      "normalize": true
+    },
+    {
+      "path": "config/leavesbegone-server.toml",
+      "hash": "sha256:e41e4f60aa1919d031ef42aa5af412ad8198390c3833cab3f617f6392aaf9cfc",
+      "size": 429,
+      "normalize": true
+    },
+    {
+      "path": "config/legendarytooltips.toml",
+      "hash": "sha256:ba2cce41d2777d8462be391f5c99763cca383beff9b91e6d0c844ad56a26feb3",
+      "size": 9195,
+      "normalize": true
+    },
+    {
+      "path": "config/lithium.properties",
+      "hash": "sha256:6cf6f83720071fd1657c8e79b357caf68d40f410ae123e5f922483eb1d1d25be",
+      "size": 267,
+      "normalize": true
+    },
+    {
+      "path": "config/lithostitched.json",
+      "hash": "sha256:d8a63933ec4757186a594debea59dd35724a0a895fe601b324f96217c28312df",
+      "size": 284,
+      "normalize": true
+    },
+    {
+      "path": "config/meadow-common.toml",
+      "hash": "sha256:d766f736dadd3697ce75c5fe080d0ac84a21a22424363420b86814baf20b55e6",
+      "size": 58,
+      "normalize": true
+    },
+    {
+      "path": "config/modernfix-common.toml",
+      "hash": "sha256:ee24e2b1bc100942a1c605f996255742cd6a5bb3662877aa906bc301100ccf27",
+      "size": 103,
+      "normalize": true
+    },
+    {
+      "path": "config/modernfix-mixins.properties",
+      "hash": "sha256:f7684457ca67d68a8df81e6f63b2f1bc6e3d9e3633ef60eef45c55d9c50d026a",
+      "size": 5429,
+      "normalize": true
+    },
+    {
+      "path": "config/moonlight-client.toml",
+      "hash": "sha256:5a6948c2b7927921cd3cab28446f301a24cf4db168533474d20dac154ad18167",
+      "size": 1266,
+      "normalize": true
+    },
+    {
+      "path": "config/moonlight-common.toml",
+      "hash": "sha256:ce17e22174f8d796e792c87dbe7c2cff8360686edfb59080adf905e26df144ea",
+      "size": 949,
+      "normalize": true
+    },
+    {
+      "path": "config/morevillagers-common.toml",
+      "hash": "sha256:7b46d4d9d0204345dd6cb72085c56e01491eb0f90d7b8087db73ab91a4acfa63",
+      "size": 1015,
+      "normalize": true
+    },
+    {
+      "path": "config/MouseTweaks.cfg",
+      "hash": "sha256:4069ce1a439d8c37453c1b1e9f2037e0942674c7e48723a39b37eab245792ad4",
+      "size": 135,
+      "normalize": true
+    },
+    {
+      "path": "config/naturescompass-client.toml",
+      "hash": "sha256:52155f5707537443156b47499d98b96dcdbf48ad0ed4ce8cfdf53cef7ffb8a9c",
+      "size": 432,
+      "normalize": true
+    },
+    {
+      "path": "config/naturescompass-common.toml",
+      "hash": "sha256:e5bdd793b356a733dbb217de068c31fc8b06f43e36dd3db405a85178c0ef6a05",
+      "size": 2194,
+      "normalize": true
+    },
+    {
+      "path": "config/natures_spirit-common.toml",
+      "hash": "sha256:762dbdb40b9aeeea43d3f12e46504cc5206ae0ccf896dbeb83687946ad7f1aa8",
+      "size": 2070,
+      "normalize": true
+    },
+    {
+      "path": "config/neoforge-client.toml",
+      "hash": "sha256:a5f0eb38f8daf8574f7672a8393a0ab5c668d6ec6e7ae43fc8669e928786929d",
+      "size": 570,
+      "normalize": true
+    },
+    {
+      "path": "config/neoforge-common.toml",
+      "hash": "sha256:e6f7578cf8c11ade0a47e36bf3863fc96f84cdf4bb679c0fceabb1e8a2f42399",
+      "size": 764,
+      "normalize": true
+    },
+    {
+      "path": "config/neoforge-server.toml",
+      "hash": "sha256:0f1415d7fef6d7f6194275501d500b633dd3310aea40d64128edd1b096372f60",
+      "size": 1167,
+      "normalize": true
+    },
+    {
+      "path": "config/netherite_horse_armor-common.toml",
+      "hash": "sha256:eba72106c5f1797e02acdc587ebaf8a6f770c5a8ce33622d97b4f81ba72f09a2",
+      "size": 358,
+      "normalize": true
+    },
+    {
+      "path": "config/offroad-server.toml",
+      "hash": "sha256:7dda83d4436419564b495e65b4123ab8453eb926cdd8dabc526e41d3ace6bf40",
+      "size": 1128,
+      "normalize": true
+    },
+    {
+      "path": "config/onekeyminer.json",
+      "hash": "sha256:4e65c8422d390e8373d81a7c7d3fd33be98a77f4c96e705881c8972e3d6fe3f9",
+      "size": 943,
+      "normalize": true
+    },
+    {
+      "path": "config/peacefulalternative-common.toml",
+      "hash": "sha256:7d3c75913fdd6ba157efbdd770b676de12b014e3bc9f0f5e0ff4e4d00e2cd47f",
+      "size": 155,
+      "normalize": true
+    },
+    {
+      "path": "config/pingwheel.json",
+      "hash": "sha256:6878009a9f7ca2309feb78f6884556493b6752232f7f87e12901dbb6946ab5ea",
+      "size": 410,
+      "normalize": true
+    },
+    {
+      "path": "config/pingwheel.server.json",
+      "hash": "sha256:821d5d12d0c096996c82d1a65349ac803adffcc25b89420a146c727fb92b381a",
+      "size": 111,
+      "normalize": true
+    },
+    {
+      "path": "config/ponder-client.toml",
+      "hash": "sha256:57fe579bf4cdbcab6c6702dc0dad2727b899f07f28fea686bca1e4b25b20bbfb",
+      "size": 615,
+      "normalize": true
+    },
+    {
+      "path": "config/realisticbees.json5",
+      "hash": "sha256:e9b541ed4bb6dbfd47ed5a4ff222e574d40d9fa9344a4b2b9ee0c5112fd37f1b",
+      "size": 788,
+      "normalize": true
+    },
+    {
+      "path": "config/resourcepackoverrides.json",
+      "hash": "sha256:5ad0e38bfea24b2a60771d179a7d989ecc929a4735e5c7d4c33234898495873c",
+      "size": 1535,
+      "normalize": true
+    },
+    {
+      "path": "config/resourcify.json",
+      "hash": "sha256:ade1b4a28332a849a0b3dfe006db3d1ef22810301999316fd58a34b130968fb5",
+      "size": 275,
+      "normalize": true
+    },
+    {
+      "path": "config/rightclickharvest.json5",
+      "hash": "sha256:4933acb18663de7cab3fb632f54b1931bbceac7cda0ef47ef34c5d56c210c63f",
+      "size": 590,
+      "normalize": true
+    },
+    {
+      "path": "config/sable-client.toml",
+      "hash": "sha256:1a4676e6136f117f2587d32991720455c0a1b204498ebc7eb21e83f5912df222",
+      "size": 663,
+      "normalize": true
+    },
+    {
+      "path": "config/sable-common-1.toml.bak",
+      "hash": "sha256:5d10408ecdb80544b66bafb2c50a92c7aff961040d60e007c36258fb274b79cb",
+      "size": 1580,
+      "normalize": false
+    },
+    {
+      "path": "config/sable-common.toml",
+      "hash": "sha256:363da43f4792344846ed055c20dc72a2c35b2f966dd7e468155576daaeebb338",
+      "size": 1805,
+      "normalize": true
+    },
+    {
+      "path": "config/sellcontainer-common.toml",
+      "hash": "sha256:a2f5602bd8a77978fc21dee0e79104be53c61b6bfd4f462cb7630545e26b8e0d",
+      "size": 652,
+      "normalize": true
+    },
+    {
+      "path": "config/simulated-client.toml",
+      "hash": "sha256:39e1269b6b3cec623ab69a170ee184c7504c302968c0213ccfbb0dcec71e3964",
+      "size": 628,
+      "normalize": true
+    },
+    {
+      "path": "config/simulated-server.toml",
+      "hash": "sha256:4eb8a653258d8f7aa303fa77c34df800785b543116d5bc41ae613adec8000202",
+      "size": 6763,
+      "normalize": true
+    },
+    {
+      "path": "config/sliceanddice-client.toml",
+      "hash": "sha256:765cd3bbbdd6ac865481befc841cf5a494412927d91857eb7561b213aad424d2",
+      "size": 27,
+      "normalize": true
+    },
+    {
+      "path": "config/sliceanddice-common.toml",
+      "hash": "sha256:2243b6025389c25e688c28231f4a68342da76f14d1d2da9e601c275203d6708f",
+      "size": 451,
+      "normalize": true
+    },
+    {
+      "path": "config/smarterfarmers-common.toml",
+      "hash": "sha256:b7b176461c4484b267d5aaab7f1e4b6cae9990b499313dcce84e7f32f109396e",
+      "size": 684,
+      "normalize": true
+    },
+    {
+      "path": "config/sodium-fingerprint.json",
+      "hash": "sha256:d924882d95b63e48af26f69e77785f5480180d47b79d14f41bb793e3873899c6",
+      "size": 427,
+      "normalize": true
+    },
+    {
+      "path": "config/sodium-mixins.properties",
+      "hash": "sha256:b627c4456e6fa0bc4b5f85e2f1cd949faedae3cb9afdaf2a5f52e6f3b6ae1f01",
+      "size": 258,
+      "normalize": true
+    },
+    {
+      "path": "config/sodium-options.json",
+      "hash": "sha256:0f114121c9e0f58ba617590ff42c3f99d988422e221a40b488d662b05176ff84",
+      "size": 734,
+      "normalize": true
+    },
+    {
+      "path": "config/sophisticatedbackpacks-common.toml",
+      "hash": "sha256:ce60ba4ebdbb1ba959f3ee6be206f84f2221b8dc436140c92cda412ef33f10e6",
+      "size": 114,
+      "normalize": true
+    },
+    {
+      "path": "config/sophisticatedbackpacks-server.toml",
+      "hash": "sha256:93a71378bfcdcc6fad1cda46ac9e25bed0a21e359559dc5d20b90d7afdcfe582",
+      "size": 21139,
+      "normalize": true
+    },
+    {
+      "path": "config/sophisticatedcore-client.toml",
+      "hash": "sha256:467c9ffc84322873121a2e109258245030ec4d0608b7181a739681ce685a63c9",
+      "size": 469,
+      "normalize": true
+    },
+    {
+      "path": "config/sophisticatedcore-common.toml",
+      "hash": "sha256:7f9f775da204fcf1ca9bd2865979e555069d02fd42f4fa576599ea40a0de6e21",
+      "size": 2921,
+      "normalize": true
+    },
+    {
+      "path": "config/stellarview-client.toml",
+      "hash": "sha256:e31597e3eae7ef7777e5a2a0c96c429fb72061447b03422a809c47781150a6ef",
+      "size": 5204,
+      "normalize": true
+    },
+    {
+      "path": "config/storagedrawers-client.toml",
+      "hash": "sha256:208db3e4a920d34d9d72e8bee35ea202f59c018cc8d5d53c83896947f75cf205",
+      "size": 909,
+      "normalize": true
+    },
+    {
+      "path": "config/storagedrawers-common.v2.toml",
+      "hash": "sha256:f85f909e20ab3a7b9db17013e21bca303dfb8f677a0308d7e64cdc85fcd1ac58",
+      "size": 14012,
+      "normalize": true
+    },
+    {
+      "path": "config/supplementaries-client.toml",
+      "hash": "sha256:886c6ae31b05d18257fad198c097d679bb444728385db255adf7eb27735f6ca2",
+      "size": 9032,
+      "normalize": true
+    },
+    {
+      "path": "config/supplementaries-common.toml",
+      "hash": "sha256:14210291891759b831951eba24c65985ed5bd27a7d09b6383aeb9fd3e8f1bc8c",
+      "size": 26975,
+      "normalize": true
+    },
+    {
+      "path": "config/terrablender.toml",
+      "hash": "sha256:499d188162ddcf7fcf450cdcdc96bd41ac582501ecad5ed4a74dd9ed6b01990a",
+      "size": 961,
+      "normalize": true
+    },
+    {
+      "path": "config/transition.json",
+      "hash": "sha256:6c0060c7301372bbc414f86a139b383e34fb620f0621badd71bb19efc3f26767",
+      "size": 62,
+      "normalize": true
+    },
+    {
+      "path": "config/trender.json",
+      "hash": "sha256:0a282f3623f7f9443a1d10b5768865f69e58b74e000dcfb4f40399626b7a6124",
+      "size": 47,
+      "normalize": true
+    },
+    {
+      "path": "config/universalbonemeal-server.toml",
+      "hash": "sha256:c03c7cd5dfd9d5a6de719eac255d201e98440ade866d4beb8c42f8d23fe3c8e8",
+      "size": 1857,
+      "normalize": true
+    },
+    {
+      "path": "config/upgrade_aquatic-client.toml",
+      "hash": "sha256:58d2977b5fa4d3db0989e96f0ba8664b8bbc520d24646a0649cf25a4ea59518e",
+      "size": 423,
+      "normalize": true
+    },
+    {
+      "path": "config/upgrade_aquatic-common.toml",
+      "hash": "sha256:571e1b1491fa4935d9d0cde152491d82b02007df5e60cdc72c8b98a516cf126e",
+      "size": 1583,
+      "normalize": true
+    },
+    {
+      "path": "config/vanillabackport-client.toml",
+      "hash": "sha256:4b6f99955f574707a5d2e5b6bcfefd9c5391559c6a0e5ab1dc0bd36aeb93c03f",
+      "size": 334,
+      "normalize": true
+    },
+    {
+      "path": "config/vanillabackport-common.toml",
+      "hash": "sha256:9d9a1bfb89a476228c2419645d6002e92798b8916a691de086340ab71fcca161",
+      "size": 2207,
+      "normalize": true
+    },
+    {
+      "path": "config/villagernames.json5",
+      "hash": "sha256:c6a90f762893e4b57c5ef6bd5fcc6a29180e8cb69c6fce3959bacb2ecf9041ea",
+      "size": 1321,
+      "normalize": true
+    },
+    {
+      "path": "config/vinery.toml",
+      "hash": "sha256:2997d7a214fc95f0c8309ff3ea699555e28261f818d3718a5d5b906f2501df23",
+      "size": 3155,
+      "normalize": true
+    },
+    {
+      "path": "config/watut-client.toml",
+      "hash": "sha256:165132e384817574b2d00b396665fd6d78c951a8058e60321a73dabfc8004da7",
+      "size": 3378,
+      "normalize": true
+    },
+    {
+      "path": "config/watut-common.toml",
+      "hash": "sha256:39dc75fe44500a3bf156f6e824ef57fe2ca25d11af0bcc08efd0eb0e0c2203a9",
+      "size": 161,
+      "normalize": true
+    },
+    {
+      "path": "config/watut-item-arm-adjustments.json",
+      "hash": "sha256:0c365ed28f78c9ace3d822ca6e11043c7600d92822bc1fc1817bb2661766b96b",
+      "size": 3274,
+      "normalize": true
+    },
+    {
+      "path": "config/watut-server.toml",
+      "hash": "sha256:b9eaceec932b2f8b235f75d2371fb896e67ad0ac42b99b806349162188c6f5d9",
+      "size": 2893,
+      "normalize": true
+    },
+    {
+      "path": "config/waves-common.toml",
+      "hash": "sha256:58f7cc1331f4296021b79449912131610f2232fe68b96601323ab74fe2aa8c37",
+      "size": 3648,
+      "normalize": true
+    },
+    {
+      "path": "config/wildernature-common.toml",
+      "hash": "sha256:6bcf4be058596228e4477683c1498f8b61009fdfe0c66949f69a311f967f4600",
+      "size": 2545,
+      "normalize": true
+    },
+    {
+      "path": "config/xaerohud.txt",
+      "hash": "sha256:9f559f3c19dd99efd59deca105ae85cc38e968c03b1587973272afe02f7a5683",
+      "size": 125,
+      "normalize": true
+    },
+    {
+      "path": "config/xaeropatreon.txt",
+      "hash": "sha256:e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0,
+      "normalize": true
+    },
+    {
+      "path": "config/yacl.json5",
+      "hash": "sha256:121b93764159be6fb7dab523b29a844e2bb78400ce8c48f52135a097e9b0006e",
+      "size": 250,
+      "normalize": true
+    },
+    {
+      "path": "config/coldsweat/client.toml",
+      "hash": "sha256:ec647e2bec47c16213a015b7ea0bb1664073237ad895395b8a800fd257191ba2",
+      "size": 13172,
+      "normalize": true
+    },
+    {
+      "path": "config/coldsweat/disabled_mods.txt",
+      "hash": "sha256:ba113e5910eb54f230affbbf638aee153b3d3b0d4d920f6df44d309b57fdc36a",
+      "size": 152,
+      "normalize": true
+    },
+    {
+      "path": "config/coldsweat/entity.toml",
+      "hash": "sha256:ed1436315ea16664512410c5e0e71bf8e68e12e7f6e569b1e8404fe49050a388",
+      "size": 7290,
+      "normalize": true
+    },
+    {
+      "path": "config/coldsweat/item.toml",
+      "hash": "sha256:15a9544ceb3f5e7f13963b46c1e82b54dde4ae4c821d5de481a919d8d7427d99",
+      "size": 16835,
+      "normalize": true
+    },
+    {
+      "path": "config/coldsweat/main.toml",
+      "hash": "sha256:40e9dd331064e5c7c08d6e68707b311a0b14a566be3076cc12d20ad0897c3760",
+      "size": 8422,
+      "normalize": true
+    },
+    {
+      "path": "config/coldsweat/world.toml",
+      "hash": "sha256:4965937061c58edd42ee42565f5701d28702ecff2b1686b168a981b135e82001",
+      "size": 26768,
+      "normalize": true
+    },
+    {
+      "path": "config/collective/entity_names.json",
+      "hash": "sha256:bddeff5a95a00aaed5c3d2a37bc73d81a1a69a31377f251330aca1265be6945a",
+      "size": 76741,
+      "normalize": true
+    },
+    {
+      "path": "config/CoroUtil/General.toml",
+      "hash": "sha256:6003299fd97cb6b383ca3df88a2a676c565585799b1e14bb2987617ee189c7c2",
+      "size": 121,
+      "normalize": true
+    },
+    {
+      "path": "config/cristellib/auto_config_settings.json5",
+      "hash": "sha256:799173b66094a241753f41af672ddf22921ca206cb88f1966d31960c89c3f99a",
+      "size": 895,
+      "normalize": true
+    },
+    {
+      "path": "config/cristellib/built_in_packs.json5",
+      "hash": "sha256:f1be3df3751749fc4f475c886553f4b6b998c1a9f68f7ec33ddebe6909bffb14",
+      "size": 419,
+      "normalize": true
+    },
+    {
+      "path": "config/cristellib/autumnity/structure_placement_config.json5",
+      "hash": "sha256:74f17afe9d0e5a15d2b60925bd6f1b18a1e4ab48c13fdcf6e2a0bf32dd3df11a",
+      "size": 123,
+      "normalize": true
+    },
+    {
+      "path": "config/cristellib/autumnity/structure_toggle_config.json5",
+      "hash": "sha256:27a29bb9d46c6621147efc88fac561c714b4774df216121e7f31123e7feb0248",
+      "size": 88,
+      "normalize": true
+    },
+    {
+      "path": "config/cristellib/bakery/structure_placement_config.json5",
+      "hash": "sha256:7c2eede09f9a2cf82bb4022fc94f08cd1e4e498210a42d3efa309ac027ae81e7",
+      "size": 119,
+      "normalize": true
+    },
+    {
+      "path": "config/cristellib/bakery/structure_toggle_config.json5",
+      "hash": "sha256:a4d570547934ef24481b91637c8b6e838b1a797eae231852fb3895a87e309d82",
+      "size": 81,
+      "normalize": true
+    },
+    {
+      "path": "config/cristellib/beekeeperhut/structure_placement_config.json5",
+      "hash": "sha256:c7da052db02446179fc6c73916198adf1e9bb6c94ec04a0d8520f46db47db6a4",
+      "size": 127,
+      "normalize": true
+    },
+    {
+      "path": "config/cristellib/beekeeperhut/structure_toggle_config.json5",
+      "hash": "sha256:c66f84712630cdf81df5f785fccb7f4775e97884ffadb4a747445e842bf99f3c",
+      "size": 95,
+      "normalize": true
+    },
+    {
+      "path": "config/cristellib/bloomingnature/structure_placement_config.json5",
+      "hash": "sha256:2bbb5040e73e52fb1e009d711785e0d0b620c85b309a63a0fba2488c6550b10a",
+      "size": 645,
+      "normalize": true
+    },
+    {
+      "path": "config/cristellib/bloomingnature/structure_toggle_config.json5",
+      "hash": "sha256:2cd15a625d25c016f11d8929e86fff6fe8d75f931da5e7c0936c4c341e774d36",
+      "size": 379,
+      "normalize": true
+    },
+    {
+      "path": "config/cristellib/brewery/structure_placement_config.json5",
+      "hash": "sha256:50423abe2ed0e54887132c1ee4e7b507c4a4ac2342a763cc2085711bd30c9a06",
+      "size": 124,
+      "normalize": true
+    },
+    {
+      "path": "config/cristellib/brewery/structure_toggle_config.json5",
+      "hash": "sha256:1e337be6124c2f4f9374fcae0ad6c697dfd4a45677ffb3e357fc1f574857c6e4",
+      "size": 95,
+      "normalize": true
+    },
+    {
+      "path": "config/cristellib/deeperdarker/structure_placement_config.json5",
+      "hash": "sha256:75856312be02a835dd931bbed09a279fa5c232ef4226695908b45fd211335f7e",
+      "size": 128,
+      "normalize": true
+    },
+    {
+      "path": "config/cristellib/deeperdarker/structure_toggle_config.json5",
+      "hash": "sha256:e6ce8be2f4c714f1077fa7331b89b1e8b6c728246415c2985e2342361dceca4e",
+      "size": 98,
+      "normalize": true
+    },
+    {
+      "path": "config/cristellib/endersdelight/structure_placement_config.json5",
+      "hash": "sha256:3b9d661b399c2ce5aa20b89e801f2d6344e75ac00db657e227547ee435c15092",
+      "size": 125,
+      "normalize": true
+    },
+    {
+      "path": "config/cristellib/endersdelight/structure_toggle_config.json5",
+      "hash": "sha256:8efe198dc9a2980d9ee582b7252fa52da1f36d5f8a3737959bc5dc29adcbc661",
+      "size": 87,
+      "normalize": true
+    },
+    {
+      "path": "config/cristellib/friendsandfoes/structure_placement_config.json5",
+      "hash": "sha256:f5b91497ceb1ba300233b637e5b2498446c4a0226fd7e6ef53df50988fde23b9",
+      "size": 383,
+      "normalize": true
+    },
+    {
+      "path": "config/cristellib/friendsandfoes/structure_toggle_config.json5",
+      "hash": "sha256:48b5e9b95e160cfacf99855814dea44ea5cab49dd63cf15265011a9ae8ad994b",
+      "size": 265,
+      "normalize": true
+    },
+    {
+      "path": "config/cristellib/incendium/structure_placement_config.json5",
+      "hash": "sha256:86d418f04cb5e14edb95568833f9ce421b50493a9445b0fa018c74475b48e701",
+      "size": 303,
+      "normalize": true
+    },
+    {
+      "path": "config/cristellib/incendium/structure_toggle_config.json5",
+      "hash": "sha256:ce93df2b6e4d3a0ed2e456e83c08fc04bae832400e32e0639d957da5e46987b5",
+      "size": 425,
+      "normalize": true
+    },
+    {
+      "path": "config/cristellib/meadow/structure_placement_config.json5",
+      "hash": "sha256:1fd0b97e2f1f73f6aa69a023b30ea90b4f17ecd03de4cb6e8958d219f5d23961",
+      "size": 424,
+      "normalize": true
+    },
+    {
+      "path": "config/cristellib/meadow/structure_toggle_config.json5",
+      "hash": "sha256:10f6b8221662ad3e95621cd5147fa166a65032155b6a0ddb826d239b9a637176",
+      "size": 253,
+      "normalize": true
+    },
+    {
+      "path": "config/cristellib/mes/structure_toggle_config.json5",
+      "hash": "sha256:573b4003c98bb3fc299300a03c5f6f475fba942067b05e5916b6f458f427ca47",
+      "size": 1371,
+      "normalize": true
+    },
+    {
+      "path": "config/cristellib/mns/structure_toggle_config.json5",
+      "hash": "sha256:20a6fc06d023a06248e2943e895f10c2238cfd0508e71df9d0bba87bdc19553f",
+      "size": 2537,
+      "normalize": true
+    },
+    {
+      "path": "config/cristellib/mushroomquest/structure_placement_config.json5",
+      "hash": "sha256:2c6858c6d78da3b998c2f978dc62b8ebb705e11282e526690d820ebf079967d2",
+      "size": 135,
+      "normalize": true
+    },
+    {
+      "path": "config/cristellib/mushroomquest/structure_toggle_config.json5",
+      "hash": "sha256:db40e218e901a7fc6d536485b472d673e1f674baa0a4ce91b2b2576cdd8c0dc9",
+      "size": 109,
+      "normalize": true
+    },
+    {
+      "path": "config/cristellib/natures_spirit/structure_placement_config.json5",
+      "hash": "sha256:a20227fd9af6a08a0ea3bd9b1f1c0517aa78ab18f771484ef2c18a05fecc5a02",
+      "size": 121,
+      "normalize": true
+    },
+    {
+      "path": "config/cristellib/natures_spirit/structure_toggle_config.json5",
+      "hash": "sha256:f2eb261dadf9c2c7f45db0ce0050dd8a54a03e91e2b0a23ffe42e3dddac74c53",
+      "size": 361,
+      "normalize": true
+    },
+    {
+      "path": "config/cristellib/nullscape/structure_placement_config.json5",
+      "hash": "sha256:7de079178b9125685d78b1897aae3cb430dee4f3d72f44ffff235ea885d639e6",
+      "size": 289,
+      "normalize": true
+    },
+    {
+      "path": "config/cristellib/nullscape/structure_toggle_config.json5",
+      "hash": "sha256:d12e2a741dc0ab4336291c1a7c396d19a312223e3cf382d202f32178b0bf0c46",
+      "size": 189,
+      "normalize": true
+    },
+    {
+      "path": "config/cristellib/supplementaries/structure_placement_config.json5",
+      "hash": "sha256:1175d80fb7e6cd18430c09e50b32c2a888202f2d51368741441dd8e0e1ea05b4",
+      "size": 125,
+      "normalize": true
+    },
+    {
+      "path": "config/cristellib/supplementaries/structure_toggle_config.json5",
+      "hash": "sha256:1715fab1db080ca0bd264dce0cb2f8de8218d6e2989d085b0a3cb72b0f8c6225",
+      "size": 125,
+      "normalize": true
+    },
+    {
+      "path": "config/fabric/indigo-renderer.properties",
+      "hash": "sha256:013b9daddf0c47b0931d1f0ecb3009de907e0942a1401dc1086e1c53ef174a50",
+      "size": 282,
+      "normalize": true
+    },
+    {
+      "path": "config/fzzy_config/keybinds.toml",
+      "hash": "sha256:26ac5810c9b5dc5c1968827357f0a58c58ac2b6f7b082630960228e16585062f",
+      "size": 6403,
+      "normalize": true
+    },
+    {
+      "path": "config/jade/hide-blocks.json",
+      "hash": "sha256:309df4ae96864c19eae41b646d58497c85a73b1fc3c584e772ef4d5822794baa",
+      "size": 149,
+      "normalize": true
+    },
+    {
+      "path": "config/jade/hide-entities.json",
+      "hash": "sha256:3741bb54a4535fb5a00fb0ee1f4386f3dd17834aebdf9e89c21fcd3307109709",
+      "size": 243,
+      "normalize": true
+    },
+    {
+      "path": "config/jade/jade.json",
+      "hash": "sha256:f9f68a1557cdfab8394d2f4b54a2756d96451dcdddea4f5e04cb912b516ffa05",
+      "size": 1089,
+      "normalize": true
+    },
+    {
+      "path": "config/jade/plugins.json",
+      "hash": "sha256:b649c8341a355f514a85e0e5dc2e646110d0660a56d4fcb89c9a82581565e825",
+      "size": 2353,
+      "normalize": true
+    },
+    {
+      "path": "config/jade/sort-order.json",
+      "hash": "sha256:56805b2fc1ca092bea7220d3961ac9f4f9ea9adc368a7dfffffe61e2f12e3379",
+      "size": 2691,
+      "normalize": true
+    },
+    {
+      "path": "config/jamlib/known_suspicious_jars.txt",
+      "hash": "sha256:e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0,
+      "normalize": true
+    },
+    {
+      "path": "config/jei/blacklist.json",
+      "hash": "sha256:b4174dc6e985aa90be5002c14e94b956d8d586683c44b7b6710c44d08fb13648",
+      "size": 19,
+      "normalize": true
+    },
+    {
+      "path": "config/jei/ingredient-list-mod-sort-order.ini",
+      "hash": "sha256:871be6ffa7e8246cb76889ff287848b1f8b92d1ea69feca207ed7ea03561efea",
+      "size": 1164,
+      "normalize": true
+    },
+    {
+      "path": "config/jei/ingredient-list-type-sort-order.ini",
+      "hash": "sha256:41529c0995233ba5dce62005e656f740f3bbd61f5cc625a296b0a6fc6b64702b",
+      "size": 76,
+      "normalize": true
+    },
+    {
+      "path": "config/jei/jei-client.ini",
+      "hash": "sha256:690df55f936858abf5ed93e681daab91e02b9bea84e128bedf0723556ce19258",
+      "size": 10423,
+      "normalize": true
+    },
+    {
+      "path": "config/jei/jei-colors.ini",
+      "hash": "sha256:e4bc0c5fce5a7536bce14c94b30e30482e65d63792b29db0ad59d4fa9eb4d1a5",
+      "size": 1353,
+      "normalize": true
+    },
+    {
+      "path": "config/jei/jei-debug.ini",
+      "hash": "sha256:39b7d63de65fbf7654ee33d521d67095aa17a93226d2d9b7a6fb09305c8990d4",
+      "size": 1282,
+      "normalize": true
+    },
+    {
+      "path": "config/jei/jei-mod-id-format.ini",
+      "hash": "sha256:4eb3a3eb280558bdd2665fb4792d32551cb6dddc468776e66afc1c3ea981781e",
+      "size": 477,
+      "normalize": true
+    },
+    {
+      "path": "config/jei/recipe-category-sort-order.ini",
+      "hash": "sha256:ae26f521fb5d65a21ba4c8f74435604c9f31d4aa6ce418200291d23c312416aa",
+      "size": 1922,
+      "normalize": true
+    },
+    {
+      "path": "config/jei/world/local/New_World/lookupHistory.json",
+      "hash": "sha256:9c73d8fc0c7b173e973714cd1da280ad2c73057254cf2185a0cd84c591b2bcac",
+      "size": 1136,
+      "normalize": true
+    },
+    {
+      "path": "config/jei/world/server/Minecraft_Server_c6076ef1/lookupHistory.json",
+      "hash": "sha256:c728abcd1d3b6239748e1f25e7c8d4f0778e40756f210d5a126b34b724a984b7",
+      "size": 3956,
+      "normalize": true
+    },
+    {
+      "path": "config/nerb/general.yaml",
+      "hash": "sha256:ec614cafa950e8fb5c77d497a8bb0b0fa44b8f88c0a0b7767515fdb94f116340",
+      "size": 633,
+      "normalize": true
+    },
+    {
+      "path": "config/nerb/compat/emi.yaml",
+      "hash": "sha256:cc73592e208680c42f5c4e761e55cf394f241ae9e2f1b5e05049805493bf5d0c",
+      "size": 472,
+      "normalize": true
+    },
+    {
+      "path": "config/NoChatReports/NCR-Client.json",
+      "hash": "sha256:edfe78d985fe67dce28104f3d87673e94c89134144451c291ecedcd2e2c3b480",
+      "size": 565,
+      "normalize": true
+    },
+    {
+      "path": "config/NoChatReports/NCR-Common.json",
+      "hash": "sha256:0eaad2630bd70ade719f7810e805810ada25379269ea194e43d3eea30c51dec0",
+      "size": 230,
+      "normalize": true
+    },
+    {
+      "path": "config/NoChatReports/NCR-Encryption.json",
+      "hash": "sha256:0f61ac30bfc78653a30d715f793e30a6a43d6715106706487efd0aea5d43a84c",
+      "size": 520,
+      "normalize": true
+    },
+    {
+      "path": "config/NoChatReports/NCR-ServerPreferences.json",
+      "hash": "sha256:df32843b853e0a493ef3a9b1e39276818294353fbb0d833f7f61e77da0f5bca1",
+      "size": 24,
+      "normalize": true
+    },
+    {
+      "path": "config/NoChatReports/README.md",
+      "hash": "sha256:c52b76ccad2bd1063a22c7f6bb9e7c5db6b00fb53a6fd605585972ee0e5fc01f",
+      "size": 167,
+      "normalize": false
+    },
+    {
+      "path": "config/particlerain/config.json",
+      "hash": "sha256:04dafd84ae4771ee93f924f2a766f6e7cad52d79f94c4b9f23d02422a8df7541",
+      "size": 1163,
+      "normalize": true
+    },
+    {
+      "path": "config/regions_unexplored/client.toml",
+      "hash": "sha256:89a5a2302ca2d229e8799cc980a545dd9312e29eabee4f83a62ff9202631aa11",
+      "size": 588,
+      "normalize": true
+    },
+    {
+      "path": "config/regions_unexplored/common.toml",
+      "hash": "sha256:a5f320b2ca7d136627322fd13a85a4009427bc96f38115e7ab6d944911e5abb3",
+      "size": 3383,
+      "normalize": true
+    },
+    {
+      "path": "config/sellcontainer/economy_items.csv",
+      "hash": "sha256:ba0063e0590151923db08d91f8fb713b55c1feb67aa942ecea82aeb462607e30",
+      "size": 430582,
+      "normalize": true
+    },
+    {
+      "path": "config/subtle_effects/blocks.toml",
+      "hash": "sha256:0ee1efbbd94b6bcd0e89fbea90c29947fb7039004741af951bf40594f8649e3d",
+      "size": 4119,
+      "normalize": true
+    },
+    {
+      "path": "config/subtle_effects/entities.toml",
+      "hash": "sha256:3e9788b1039b29c004d3b9b67b36213cdab0dbc8bb6a00952a9c8bcb8eef42ec",
+      "size": 3098,
+      "normalize": true
+    },
+    {
+      "path": "config/subtle_effects/environment.toml",
+      "hash": "sha256:55508eb928834d52f9f6ef564f0e927b562b6c7965c17779af07545a94f33174",
+      "size": 2522,
+      "normalize": true
+    },
+    {
+      "path": "config/subtle_effects/general.toml",
+      "hash": "sha256:960fa7522336f41cd9a56970c4a24a123511b0ec61426ee5128306d273351974",
+      "size": 1103,
+      "normalize": true
+    },
+    {
+      "path": "config/subtle_effects/items.toml",
+      "hash": "sha256:0955be893f8ba0a742ad4966dbe21e794e69c7b4235b63923dc9839865effdab",
+      "size": 1058,
+      "normalize": true
+    },
+    {
+      "path": "config/thirst/client.toml",
+      "hash": "sha256:3cb3c02b6fa27280cfa432e207b47ad48d5f18c7ff9b7ed31565687a459db8b3",
+      "size": 509,
+      "normalize": true
+    },
+    {
+      "path": "config/thirst/common.toml",
+      "hash": "sha256:76423fd271b3bccc3966060433372e1a066993caa8f549a7a335c0cbf0008366",
+      "size": 3770,
+      "normalize": true
+    },
+    {
+      "path": "config/thirst/container.toml",
+      "hash": "sha256:08e38e71a717e27d4344dd4fd942604688b3bde60c041ea3f2be63fe50942d9f",
+      "size": 239,
+      "normalize": true
+    },
+    {
+      "path": "config/thirst/item_settings.toml",
+      "hash": "sha256:8ef2ccf4980e9dfa8127e113c7dc08be02e0c74a6080b2c2ffd578ffb48cddcb",
+      "size": 4551,
+      "normalize": true
+    },
+    {
+      "path": "config/thirst/keyword.toml",
+      "hash": "sha256:40f562322c1666154bf986a7d6a7765e24bebda0f97ac1a51435350e5f7632b1",
+      "size": 2079,
+      "normalize": true
+    },
+    {
+      "path": "config/towns_and_towers/structure_enable_or_disable_new.json5",
+      "hash": "sha256:7c70e7df82d014a87dcb2defcf45d9654a22362283c7efe1f81f3b3c04290709",
+      "size": 3051,
+      "normalize": true
+    },
+    {
+      "path": "config/towns_and_towers/structure_rarity_new.json5",
+      "hash": "sha256:fe4ca0974aca38b27c94e3f1dc092f1688b54f27d9eaa728d61c6ccae4ca1313",
+      "size": 1520,
+      "normalize": true
+    },
+    {
+      "path": "config/traversable_leaves/general.toml",
+      "hash": "sha256:6991cd5e23fbf2020e6b233d3ac20d410a0334eb6a9d916aa308d76101abe59a",
+      "size": 858,
+      "normalize": true
+    },
+    {
+      "path": "config/vanilla_structures/placement_structure_config.json5",
+      "hash": "sha256:1f069468e438ae66f65ee41732603c895741b063add626a9e56ef7d0040ac4e6",
+      "size": 1690,
+      "normalize": true
+    },
+    {
+      "path": "config/vanilla_structures/toggle_structure_config.json5",
+      "hash": "sha256:c4fb220488de3c1afc569f4b8a89d8e97f8b5504eeb59d9700b491f29718d2f9",
+      "size": 1423,
+      "normalize": true
+    },
+    {
+      "path": "config/villagernames/customnames.txt",
+      "hash": "sha256:e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0,
+      "normalize": true
+    },
+    {
+      "path": "config/waves/waves.json",
+      "hash": "sha256:8f198622fba0fb43ca16e5402bff53458e7af5482462f8821ef690140a251bef",
+      "size": 215,
+      "normalize": true
+    },
+    {
+      "path": "config/xaero/lib/client.cfg",
+      "hash": "sha256:43ed9dbfa5b4d6f0f3d2e8c2ced17ad298164b22c68ff11d415257a39b074336",
+      "size": 26,
+      "normalize": true
+    },
+    {
+      "path": "config/xaero/lib/common.cfg",
+      "hash": "sha256:98f698d96a6d21d830a455b4ad045b70516fa63c298021742d8499e7f0366cd2",
+      "size": 236,
+      "normalize": true
+    },
+    {
+      "path": "config/xaero/lib/profiles/default.cfg",
+      "hash": "sha256:34ae854b17d896d7cb853bdc28c27231a3947e91cb9f0991f372846ee3c2a907",
+      "size": 121,
+      "normalize": true
+    },
+    {
+      "path": "config/xaero/lib/server_profiles/default.cfg",
+      "hash": "sha256:d438aea41ca41e93697e059f523686935c0add482f6abe96b532bbf10c6ed80a",
+      "size": 75,
+      "normalize": true
+    },
+    {
+      "path": "config/xaero/minimap/client.cfg",
+      "hash": "sha256:c0915eff5d1a7905cd1038d646eb9086fd1a29e2f637d53535e4da161de17b9f",
+      "size": 235,
+      "normalize": true
+    },
+    {
+      "path": "config/xaero/minimap/common.cfg",
+      "hash": "sha256:2b49df024c03a369c62a303c72755e7fedeb4f4653ff53a12fd37bd83ccd4ed0",
+      "size": 147,
+      "normalize": true
+    },
+    {
+      "path": "config/xaero/minimap/default_radar_categories_client.json",
+      "hash": "sha256:a4c13e76500473fe8d555225022542d0ef89708c3d885e233dca15f91e437774",
+      "size": 5531,
+      "normalize": true
+    },
+    {
+      "path": "config/xaero/minimap/default_radar_categories_server.json",
+      "hash": "sha256:a4c652cafa7dea324e5f5cf3b1df46a84e54b6d4f877195857bce55a559c1cfd",
+      "size": 4597,
+      "normalize": true
+    },
+    {
+      "path": "config/xaero/minimap/profiles/default.cfg",
+      "hash": "sha256:7a9b8a57aec32319cde1dc4dbb96fbd1555c1e99fabacb597819ea8b966d3be5",
+      "size": 3753,
+      "normalize": true
+    },
+    {
+      "path": "config/xaero/minimap/profiles/entity_radar_categories/default.cfg.json",
+      "hash": "sha256:a4c13e76500473fe8d555225022542d0ef89708c3d885e233dca15f91e437774",
+      "size": 5531,
+      "normalize": true
+    },
+    {
+      "path": "config/xaero/minimap/profiles/info_display_config/default.cfg.txt",
+      "hash": "sha256:282beb235b132315a19a66fdfc163061cf575cb3d348f054bd0d1445873a243d",
+      "size": 684,
+      "normalize": true
+    },
+    {
+      "path": "config/xaero/minimap/server_profiles/default.cfg",
+      "hash": "sha256:d438aea41ca41e93697e059f523686935c0add482f6abe96b532bbf10c6ed80a",
+      "size": 75,
+      "normalize": true
+    },
+    {
+      "path": "config/xaero/world-map/client.cfg",
+      "hash": "sha256:deece0fe0d29f2203a9699143a6209c451e91d7ecb799489c328b0d0fa31a90d",
+      "size": 466,
+      "normalize": true
+    },
+    {
+      "path": "config/xaero/world-map/common.cfg",
+      "hash": "sha256:0c229eb0daf85bd09af51f21eeeb99497a3bd50a825d5ab1ca695fb21bf6cf9d",
+      "size": 141,
+      "normalize": true
+    },
+    {
+      "path": "config/xaero/world-map/profiles/default.cfg",
+      "hash": "sha256:7b24c882801bcc7f0a8aedc625d419f661fa490fa0e9d5ebe39599a1ce2dcbd5",
+      "size": 1379,
+      "normalize": true
+    },
+    {
+      "path": "config/xaero/world-map/server_profiles/default.cfg",
+      "hash": "sha256:d438aea41ca41e93697e059f523686935c0add482f6abe96b532bbf10c6ed80a",
+      "size": 75,
+      "normalize": true
+    },
+    {
+      "path": "resourcepacks/Assorted Allays x FA - V.10.2.zip",
+      "hash": "sha256:792122a917a222401e672630b38b93b42669b8047873ac55833328b6d70b489f",
+      "size": 952116,
+      "normalize": false
+    },
+    {
+      "path": "resourcepacks/Better Horses v2.0 1.21.zip",
+      "hash": "sha256:a77fdde0c1b62f2df81332609e1d0c7f6507acf088f047b1708a0c862f10cef8",
+      "size": 1625633,
+      "normalize": false
+    },
+    {
+      "path": "resourcepacks/Better_Cats_V0.09.zip",
+      "hash": "sha256:c647eb3397fc861178c49edde7c1f4edae957ca573c5ad25cd1e9a5f7fdf2437",
+      "size": 1912874,
+      "normalize": false
+    },
+    {
+      "path": "resourcepacks/Better_Dogs_V0.41.zip",
+      "hash": "sha256:27f19f08cd13a42786722dc18b0a14aaf83411b9a3e4efa51f3f92caa3bb3523",
+      "size": 11447859,
+      "normalize": false
+    },
+    {
+      "path": "resourcepacks/FA+All_Extensions-v1.8.1.zip",
+      "hash": "sha256:420ad586300bb4164ff441460ae0d1b2be68933cfd9321746fcef173c0437015",
+      "size": 425088,
+      "normalize": false
+    },
+    {
+      "path": "resourcepacks/FA+Details-v2.2.1.zip",
+      "hash": "sha256:ab5b5526f0a961cea6d31e456593f0fa16448479ec588630c33f2a42590469e7",
+      "size": 289745,
+      "normalize": false
+    },
+    {
+      "path": "resourcepacks/FA+Player-v1.0.zip",
+      "hash": "sha256:b1f0c3cbcb77cdf2ad0c59e0f405f7da84f9c07f4ecd90cbb94a40bef70ca70b",
+      "size": 124472,
+      "normalize": false
+    },
+    {
+      "path": "resourcepacks/FA-Player",
+      "hash": "sha256:e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0,
+      "normalize": false
+    },
+    {
+      "path": "resourcepacks/Fresh Better Cats v1.3 1.21.5.zip",
+      "hash": "sha256:9bcb2d5c0d2171f3c2173f6c222ac9ca7abcc75396f3b03ec24973c823116647",
+      "size": 610864,
+      "normalize": false
+    },
+    {
+      "path": "resourcepacks/Fresh Better Horses v1.5 1.21.5.zip",
+      "hash": "sha256:316745e3fd13964c347a991139c97e8463f8558820c36db20b754252bb02f1c2",
+      "size": 1601206,
+      "normalize": false
+    },
+    {
+      "path": "resourcepacks/FreshAnimations_v1.10.4.zip",
+      "hash": "sha256:8e44b29560d2e7d952c0a4f77f0451e6dcb048f827189bffc712b446be8de7f2",
+      "size": 850941,
+      "normalize": false
+    },
+    {
+      "path": "resourcepacks/VanillaBackport_x_FreshAnimations_v1.0.zip",
+      "hash": "sha256:fefeb7ca347954c58474f7c0fed0f5bd2bb56495137f816794225eada85a1978",
+      "size": 318541,
+      "normalize": false
+    },
+    {
+      "path": "resourcepacks/§9Drodi's Illagers x FA [v5.2].zip",
+      "hash": "sha256:b058e6ea7b4b8492efdef03115d84043b11ee2d33e263f8610aae189e771e416",
+      "size": 269453,
+      "normalize": false
+    },
+    {
+      "path": "shaderpacks/Solas Shader V3.5.zip.txt",
+      "hash": "sha256:f829615e936b3eae867b754a51e00dadd4c8db0cc7926f8bd5d19317c08da06d",
+      "size": 72,
+      "normalize": true
+    }
+  ],
+  "options": {
+    "path": "options.txt",
+    "hash": "sha256:973663746c36ca154dcf363b1f957bde6b5cfc3ea77d541ff600df9600577c1d",
+    "managed": false
+  }
+}
