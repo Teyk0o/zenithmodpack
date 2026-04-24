@@ -2147,11 +2147,219 @@
         "projectId": "Ht4BfYp6",
         "versionId": "urkCzBf6"
       }
+    },
+    {
+      "name": "Nemo's Inventory Sorting",
+      "slug": "nemos-inventory-sorting",
+      "filename": "nemos-inventory-sorting-NeoForge-1.21.1-1.8.2.1.jar",
+      "side": "both",
+      "url": "https://cdn.modrinth.com/data/JHgf35QL/versions/Foc0173y/nemos-inventory-sorting-NeoForge-1.21.1-1.8.2.1.jar",
+      "hash": "sha512:8e9318f92c82adc19ba6897e327fb17c60473d161c9d40cd70a672e928964d526bb9f39dd8e043d34a16c03f76a68a43df39ab579609dc0efeee8597307a06bd",
+      "fileSize": 81559,
+      "modrinth": {
+        "projectId": "JHgf35QL",
+        "versionId": "Foc0173y"
+      }
+    },
+    {
+      "name": "Create: Liquid Fuel",
+      "slug": "create-liquid-fuel",
+      "filename": "createliquidfuel-2.1.1-1.21.1.jar",
+      "side": "both",
+      "url": "https://cdn.modrinth.com/data/sH9tXU9f/versions/7oNrI3y9/createliquidfuel-2.1.1-1.21.1.jar",
+      "hash": "sha512:01a8995f09105e1c4cfe001a4674c208c3ed0e82a7612ea3891b2482a9fcbe1ccec185125cf40fd5802d153bbed5f1d7a057aefe40ba750476f3000936d3c71e",
+      "fileSize": 18140,
+      "modrinth": {
+        "projectId": "sH9tXU9f",
+        "versionId": "7oNrI3y9"
+      }
+    },
+    {
+      "name": "Create Mechanical Spawner",
+      "slug": "create-mechanical-spawner",
+      "filename": "create_mechanical_spawner-1.21.1-1.3.0-6.0.8.jar",
+      "side": "both",
+      "url": "https://cdn.modrinth.com/data/T1hmeGi9/versions/WlsTiEVK/create_mechanical_spawner-1.21.1-1.3.0-6.0.8.jar",
+      "hash": "sha512:5a642e6b13783c490e0d0f5c6da9c456f0fdb2edbda3e257145c57b301ce21e77ef8bd9a35eb9c3e829fe9b18cd5b46e870a67541b85f9ebb8b87da2f2756314",
+      "fileSize": 1216413,
+      "modrinth": {
+        "projectId": "T1hmeGi9",
+        "versionId": "WlsTiEVK"
+      }
+    },
+    {
+      "name": "Create Cobblestone",
+      "slug": "create-cobblestone",
+      "filename": "createcobblestone-1.4.9+neoforge-1.21.1-130.jar",
+      "side": "both",
+      "url": "https://cdn.modrinth.com/data/ihpnEd80/versions/LEOroMJx/createcobblestone-1.4.9%2Bneoforge-1.21.1-130.jar",
+      "hash": "sha512:aa440541b67f91b782e150d96e954d0e7f6f8b3b76cc41a01f07b1b0da0b0b5d71a7236767af6bfef7bfacb84f389a97d2ecd80157674a8a8e4121de5c69b774",
+      "fileSize": 572645,
+      "modrinth": {
+        "projectId": "ihpnEd80",
+        "versionId": "LEOroMJx"
+      }
+    },
+    {
+      "name": "Create: Vibrant Vaults",
+      "slug": "create-vibrant-vaults",
+      "filename": "create_vibrant_vaults-0.3.2.jar",
+      "side": "both",
+      "url": "https://cdn.modrinth.com/data/hddN8ksR/versions/t17qYXjn/create_vibrant_vaults-0.3.2.jar",
+      "hash": "sha512:3bd53097482e614dc4e5e635778af25020fa27c1c453d4928d1d8baa6767c93cb300810a5ac0c49af86813749a180e3f092ab2e65b07e7741c2b12aaebd47006",
+      "fileSize": 2687938,
+      "modrinth": {
+        "projectId": "hddN8ksR",
+        "versionId": "t17qYXjn"
+      }
+    },
+    {
+      "name": "Create: Copper & Zinc",
+      "slug": "create-copper-zinc",
+      "filename": "create_copper_and_zinc-2.0.0-neoforge-1.21.1.jar",
+      "side": "both",
+      "url": "https://cdn.modrinth.com/data/aqYNR6rI/versions/1Z1LCW5Z/create_copper_and_zinc-2.0.0-neoforge-1.21.1.jar",
+      "hash": "sha512:c7aa3c1c35ff7aa232c0627fc9552b845f834c0319c24bf313539bac755c2f3e3a7454f34b7fd6114b7738598b3aaeb0018775914d3bcbc03f68b797060d3fa9",
+      "fileSize": 98709,
+      "modrinth": {
+        "projectId": "aqYNR6rI",
+        "versionId": "1Z1LCW5Z"
+      }
+    },
+    {
+      "name": "Mechanicals Lib",
+      "slug": "mechanicals-lib",
+      "filename": "mechanicals-1.21.1-1.1.0.jar",
+      "side": "both",
+      "url": "https://cdn.modrinth.com/data/ProvjTA7/versions/z9HvpJMU/mechanicals-1.21.1-1.1.0.jar",
+      "hash": "sha512:6638860a9273ff656095a5c7de0c029ae2eb48928fcabe7b0f240e74d9bfa28d9c8da04f08cefdbe3feba682efbd46f887a80474b54c2d698f643db9f4477807",
+      "fileSize": 507824,
+      "modrinth": {
+        "projectId": "ProvjTA7",
+        "versionId": "z9HvpJMU"
+      }
+    },
+    {
+      "name": "Macaw's Furniture",
+      "slug": "macaws-furniture",
+      "filename": "mcw-furniture-3.4.1-mc1.21.1neoforge.jar",
+      "side": "both",
+      "url": "https://cdn.modrinth.com/data/dtWC90iB/versions/Z5V3Ps7S/mcw-furniture-3.4.1-mc1.21.1neoforge.jar",
+      "hash": "sha512:93103f868a6a7b4fa613dbe908bcf83c4aaabf4719057d484d1636c98e6e3defa00d550a8988ff91d4d0a090463c25b898336e675da52c19bd3bd0ce37e053e4",
+      "fileSize": 2080436,
+      "modrinth": {
+        "projectId": "dtWC90iB",
+        "versionId": "Z5V3Ps7S"
+      }
+    },
+    {
+      "name": "Macaw's Stairs",
+      "slug": "macaws-stairs",
+      "filename": "mcw-mcwstairs-1.0.2-mc1.21.1neoforge.jar",
+      "side": "both",
+      "url": "https://cdn.modrinth.com/data/iP3wH1ha/versions/4t8L0dGP/mcw-mcwstairs-1.0.2-mc1.21.1neoforge.jar",
+      "hash": "sha512:51533899b5e64610a642ee9e9d89eb9f193d0877a8cba16d3bfa262789334c864128b01757bff9d3db2718bd3df1fc177f9b2d45b84f06fc0a6ee15474af2fac",
+      "fileSize": 529082,
+      "modrinth": {
+        "projectId": "iP3wH1ha",
+        "versionId": "4t8L0dGP"
+      }
+    },
+    {
+      "name": "Macaw's Roofs",
+      "slug": "macaws-roofs",
+      "filename": "mcw-roofs-2.3.2-mc1.21.1neoforge.jar",
+      "side": "both",
+      "url": "https://cdn.modrinth.com/data/B8jaH3P1/versions/jiXRXiSt/mcw-roofs-2.3.2-mc1.21.1neoforge.jar",
+      "hash": "sha512:c0e82a3d0a3ab2f2fac5fb0bdd7c7c228f084feaa816540d3d9524f341c8b108c3bb1afecadae2e8118e6c93f0e73280c62da1af4349aca87b6aa337e5e22ae4",
+      "fileSize": 1784829,
+      "modrinth": {
+        "projectId": "B8jaH3P1",
+        "versionId": "jiXRXiSt"
+      }
+    },
+    {
+      "name": "Macaw's Doors",
+      "slug": "macaws-doors",
+      "filename": "mcw-doors-1.1.5-mc1.21.1neoforge.jar",
+      "side": "both",
+      "url": "https://cdn.modrinth.com/data/kNxa8z3e/versions/u7BRX44F/mcw-doors-1.1.5-mc1.21.1neoforge.jar",
+      "hash": "sha512:43ddf00be46af91c009a95392a094f05017155214c46c7980042cbcf871864dc792416497019e688eb558897c87848bd70c282ec4a6d7b268e1ba30389ba987a",
+      "fileSize": 1190404,
+      "modrinth": {
+        "projectId": "kNxa8z3e",
+        "versionId": "u7BRX44F"
+      }
+    },
+    {
+      "name": "Macaw's Windows",
+      "slug": "macaws-windows",
+      "filename": "mcw-mcwwindows-2.4.2-mc1.21.1neoforge.jar",
+      "side": "both",
+      "url": "https://cdn.modrinth.com/data/C7I0BCni/versions/rQUE4LCz/mcw-mcwwindows-2.4.2-mc1.21.1neoforge.jar",
+      "hash": "sha512:7628aa390a689a211013e5856cca1c695729b1faa7e20da16fa1f8a3822d5b569631829e91222caa8f1b27c4a7d28ab49110502551551216de2fb471b6f2549f",
+      "fileSize": 1261268,
+      "modrinth": {
+        "projectId": "C7I0BCni",
+        "versionId": "rQUE4LCz"
+      }
+    },
+    {
+      "name": "Macaw's Fences and Walls",
+      "slug": "macaws-fences-and-walls",
+      "filename": "mcw-mcwfences-1.2.1-mc1.21.1neoforge.jar",
+      "side": "both",
+      "url": "https://cdn.modrinth.com/data/GmwLse2I/versions/jVdb0r4W/mcw-mcwfences-1.2.1-mc1.21.1neoforge.jar",
+      "hash": "sha512:9bf496a8db8c6074ab32374042ae15e87fe87d897e21de29d459556fa8d7d0e73f2718f28a0236181cfb3c1bc66c776b4d079f0a7084696ad490275ab1b9eb6e",
+      "fileSize": 673871,
+      "modrinth": {
+        "projectId": "GmwLse2I",
+        "versionId": "jVdb0r4W"
+      }
+    },
+    {
+      "name": "Smooth Gui",
+      "slug": "smooth-gui",
+      "filename": "smoothgui-neoforge-1.21.1-1.1.0.jar",
+      "side": "both",
+      "url": "https://cdn.modrinth.com/data/j6yrZogB/versions/WVSpzVhZ/smoothgui-neoforge-1.21.1-1.1.0.jar",
+      "hash": "sha512:ac09d55accd784279fa317850bab0322c12b188f407e1b9a1b8174c59e8aa2cebdf1f7761dc4196b6567d6bc879b0d8b479c1c80c7928f79596be8883d3ffcee",
+      "fileSize": 176633,
+      "modrinth": {
+        "projectId": "j6yrZogB",
+        "versionId": "WVSpzVhZ"
+      }
+    },
+    {
+      "name": "Chat Heads",
+      "slug": "chat-heads",
+      "filename": "chat_heads-0.15.1-neoforge-1.21.jar",
+      "side": "both",
+      "url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/8oDa7chj/chat_heads-0.15.1-neoforge-1.21.jar",
+      "hash": "sha512:779c264a4ad54f9fe462c313ba40968ae7fc206d282d5895c433136d510bfa29a86a3ba32e83bbe819c07fc06e75cf8cb2e4606120d8038b6b24378fd556f11d",
+      "fileSize": 89272,
+      "modrinth": {
+        "projectId": "Wb5oqrBJ",
+        "versionId": "8oDa7chj"
+      }
+    },
+    {
+      "name": "Simple Voice Chat",
+      "slug": "simple-voice-chat",
+      "filename": "voicechat-neoforge-1.21.1-2.6.16.jar",
+      "side": "both",
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/rGX4hrtP/voicechat-neoforge-1.21.1-2.6.16.jar",
+      "hash": "sha512:87d4862b6d5e91712adb389acdb5a139b20e9315a62b54c60f1cd76855c86ee75e56e61ebc484b44d57179caa0e9f26c28a2284c8a0e3bf403dbd44f79a00ed1",
+      "fileSize": 4901132,
+      "modrinth": {
+        "projectId": "9eGKb6K1",
+        "versionId": "rGX4hrtP"
+      }
     }
   ],
   "filesArchive": {
     "url": "https://teyk0o.github.io/zenithmodpack/files.zip",
-    "hash": "sha256:4ef8d012f9fab212a63d29151bc6a7bd04d2b7f08cde28336feeb1ad1cd72d78",
+    "hash": "sha256:7789b35817eb562039ba1d78ee11e30a07d824041a65e6aa82fb6205d8942f86",
     "size": 19179751
   },
   "files": [
