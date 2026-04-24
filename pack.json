@@ -9,7 +9,7 @@
     "version": "21.1.227"
   },
   "installerVersion": "1.0.0",
-  "installerUrl": "https://teyk0o.github.io/zenith-modpack/zenithpack-installer.jar",
+  "installerUrl": "https://teyk0o.github.io/zenithmodpack/zenithpack-installer.jar",
   "installerHash": "",
   "mods": [
     {
@@ -2150,8 +2150,8 @@
     }
   ],
   "filesArchive": {
-    "url": "https://teyk0o.github.io/zenith-modpack/files.zip",
-    "hash": "sha256:c220750c26148ea5e239b6841770aed146b1597d0f6cab5468de6effa4bcc36c",
+    "url": "https://teyk0o.github.io/zenithmodpack/files.zip",
+    "hash": "sha256:e92985cb10b10155e7acb622b69238961a4d98811c4f348eacd30e5c81a6aea9",
     "size": 19183233
   },
   "files": [
