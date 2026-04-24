@@ -2355,11 +2355,24 @@
         "projectId": "9eGKb6K1",
         "versionId": "rGX4hrtP"
       }
+    },
+    {
+      "name": "Better Brightness Slider Respawn",
+      "slug": "better-brightness-slider-respawn",
+      "filename": "BetterBrightnessSliderRespawn-1.1-1.21.1-NeoForge.jar",
+      "side": "both",
+      "url": "https://cdn.modrinth.com/data/7EMBwHEz/versions/OFr3ky16/BetterBrightnessSliderRespawn-1.1-1.21.1-NeoForge.jar",
+      "hash": "sha512:41d1be638961519c9d85cb8cced329020c7a371ceb7de33338da56338eb9af81f8ce27d4eabb311fa0655a4537e31cadceed688d5f7200e5b9f7a7207ae5d842",
+      "fileSize": 11991,
+      "modrinth": {
+        "projectId": "7EMBwHEz",
+        "versionId": "OFr3ky16"
+      }
     }
   ],
   "filesArchive": {
     "url": "https://teyk0o.github.io/zenithmodpack/files.zip",
-    "hash": "sha256:7789b35817eb562039ba1d78ee11e30a07d824041a65e6aa82fb6205d8942f86",
+    "hash": "sha256:ac0a082d9ba54042694ce69c91d8964be32c7ea223304a88fa24429162ad3ec1",
     "size": 19179751
   },
   "files": [
