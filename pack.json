@@ -2407,11 +2407,24 @@
         "projectId": "SSyS4Ayv",
         "versionId": "gExehcKM"
       }
+    },
+    {
+      "name": "Create: Ultimate Factory",
+      "slug": "create-ultimate-factory",
+      "filename": "create_ultimate_factory-2.2.3-neoforge-1.21.1.jar",
+      "side": "both",
+      "url": "https://cdn.modrinth.com/data/N9QToVpw/versions/t5APrWmo/create_ultimate_factory-2.2.3-neoforge-1.21.1.jar",
+      "hash": "sha512:18347fa78c9d3c58218551fbf3ebae5e285fe0d401c16c9da2f5fb729cdf04eaf64d6417e975b7e30a88960af03c40819eebcb80279b792930fae5178724098b",
+      "fileSize": 234343,
+      "modrinth": {
+        "projectId": "N9QToVpw",
+        "versionId": "t5APrWmo"
+      }
     }
   ],
   "filesArchive": {
     "url": "https://teyk0o.github.io/zenithmodpack/files.zip",
-    "hash": "sha256:d18e8a395e20f3db2994bf8e12cb2ab11b778a964f352a2f770f241a89eca00e",
+    "hash": "sha256:1d8315b162004c6213012422df460012b6783d01e22230f8b584dd59331da175",
     "size": 19179751
   },
   "files": [
