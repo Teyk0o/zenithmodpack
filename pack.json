@@ -2472,11 +2472,24 @@
         "projectId": "b1ZV3DIJ",
         "versionId": "ZtIfQlxH"
       }
+    },
+    {
+      "name": "Shuffle",
+      "slug": "shuffle",
+      "filename": "shuffle-neoforge-21.1.0.jar",
+      "side": "both",
+      "url": "https://cdn.modrinth.com/data/WUvGZLgB/versions/c2CBLjgR/shuffle-neoforge-21.1.0.jar",
+      "hash": "sha512:b754df3ee89fe271e9a675abf18d22ded2fa51abe04c7fa91716dbe95ba5265cc46e873a7c0a0eca4ab72463baeee58deb9dea8d2f30da68cb3d3d6efa12d3cc",
+      "fileSize": 88930,
+      "modrinth": {
+        "projectId": "WUvGZLgB",
+        "versionId": "c2CBLjgR"
+      }
     }
   ],
   "filesArchive": {
     "url": "https://teyk0o.github.io/zenithmodpack/files.zip",
-    "hash": "sha256:766b40d1e6321abf2edc9fb8d676a044742190ae300219fb60b4784cd53e8a0e",
+    "hash": "sha256:08cee8243ccc5f4178ae60581f97b6cd5cd24e547237d2e9d38fab487c7d7fc0",
     "size": 19179751
   },
   "files": [
