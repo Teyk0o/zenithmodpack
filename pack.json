@@ -2420,11 +2420,37 @@
         "projectId": "N9QToVpw",
         "versionId": "t5APrWmo"
       }
+    },
+    {
+      "name": "Create: Connected",
+      "slug": "create-connected",
+      "filename": "create_connected-1.1.13-mc1.21.1.jar",
+      "side": "both",
+      "url": "https://cdn.modrinth.com/data/Vg5TIO6d/versions/cpErBxbD/create_connected-1.1.13-mc1.21.1.jar",
+      "hash": "sha512:e7fe213615cf888b09c28ed88fcb2379d537ad610435764f5338af2460c9decd40248848d7dbee1686ff1729e54068aee15a6583d8e3bbaacfb37de60badb96f",
+      "fileSize": 6555122,
+      "modrinth": {
+        "projectId": "Vg5TIO6d",
+        "versionId": "cpErBxbD"
+      }
+    },
+    {
+      "name": "Create: Power Loader",
+      "slug": "create-power-loader",
+      "filename": "create_power_loader-2.0.3-mc1.21.1.jar",
+      "side": "both",
+      "url": "https://cdn.modrinth.com/data/wPQ6GgFE/versions/ydVSjzJR/create_power_loader-2.0.3-mc1.21.1.jar",
+      "hash": "sha512:b0552ff1fa0d23dddd66b425a5454784f373b635a730892675921c90d2ad288164f483fe53f13b79ce60317d5456c8cd9c6308ec3806bbf10b12674b8b94e77a",
+      "fileSize": 404692,
+      "modrinth": {
+        "projectId": "wPQ6GgFE",
+        "versionId": "ydVSjzJR"
+      }
     }
   ],
   "filesArchive": {
     "url": "https://teyk0o.github.io/zenithmodpack/files.zip",
-    "hash": "sha256:1d8315b162004c6213012422df460012b6783d01e22230f8b584dd59331da175",
+    "hash": "sha256:e14e3fc97f04da253fa9d2378e8d4b8726acc14b230e6962cce837855b150303",
     "size": 19179751
   },
   "files": [
