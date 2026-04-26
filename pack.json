@@ -2511,11 +2511,37 @@
         "projectId": "Q8xUICr6",
         "versionId": "3VLPjt5Q"
       }
+    },
+    {
+      "name": "Create: Remote Terminal",
+      "slug": "create-remote-terminal",
+      "filename": "createterminal-1.21.1-1.0.2.jar",
+      "side": "both",
+      "url": "https://cdn.modrinth.com/data/fxkC0Wyy/versions/H4wNS4NT/createterminal-1.21.1-1.0.2.jar",
+      "hash": "sha512:535ad7604a5d447076510adb9c24012e3279b4244e90fb32ce1add838b32539810f794731da5b147c14226e204d4bdc5dc60a6f1a55b2e6c058dcefa867ed7e0",
+      "fileSize": 79157,
+      "modrinth": {
+        "projectId": "fxkC0Wyy",
+        "versionId": "H4wNS4NT"
+      }
+    },
+    {
+      "name": "Envelope",
+      "slug": "envelope",
+      "filename": "envelope-neoforge-1.21.1-0.6.0.jar",
+      "side": "both",
+      "url": "https://cdn.modrinth.com/data/bINSbhYK/versions/h7wqtGVY/envelope-neoforge-1.21.1-0.6.0.jar",
+      "hash": "sha512:b27e62b374d3772fb36091a879ed5f142877244dd1fedafb5be8f8832ffe25ee5e3a0b870110b497fe2382864711282d6839e402aee1e964c960037e5ea7c268",
+      "fileSize": 1580646,
+      "modrinth": {
+        "projectId": "bINSbhYK",
+        "versionId": "h7wqtGVY"
+      }
     }
   ],
   "filesArchive": {
     "url": "https://teyk0o.github.io/zenithmodpack/files.zip",
-    "hash": "sha256:8cf175be30b866368a02ac7bfb695f9fefca68cbe9dbaf9b68628c6aca7b8dd8",
+    "hash": "sha256:780af01f39a8a91dd7ffbc89cd39563e7864edbe070ff89d95dad15b12840f03",
     "size": 19179751
   },
   "files": [
