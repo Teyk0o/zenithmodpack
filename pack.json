@@ -2563,11 +2563,24 @@
         "projectId": "uUhZpyjI",
         "versionId": "FTx6Sme7"
       }
+    },
+    {
+      "name": "Elytra Slot",
+      "slug": "elytra-slot",
+      "filename": "elytraslot-neoforge-9.0.2+1.21.1.jar",
+      "side": "both",
+      "url": "https://cdn.modrinth.com/data/mSQF1NpT/versions/RX6A02W1/elytraslot-neoforge-9.0.2%2B1.21.1.jar",
+      "hash": "sha512:257af1e8de11634c561e617ac64ce2c452aebd86bd0a6ba2c4d164cee9746a30c093aa5e913d553b34ae4c235d5b17b40e5f95db18f2fea8f6e6361bd405d819",
+      "fileSize": 65086,
+      "modrinth": {
+        "projectId": "mSQF1NpT",
+        "versionId": "RX6A02W1"
+      }
     }
   ],
   "filesArchive": {
     "url": "https://teyk0o.github.io/zenithmodpack/files.zip",
-    "hash": "sha256:92cb2215ef19f1173d6f25cb2ca9a2ead78cd021828f42c438f6ba973073754e",
+    "hash": "sha256:7c94c97298d41699063900edf6f1ce98110b483374871d2b8696a5437b124bab",
     "size": 19179751
   },
   "files": [
