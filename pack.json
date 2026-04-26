@@ -2537,11 +2537,37 @@
         "projectId": "bINSbhYK",
         "versionId": "h7wqtGVY"
       }
+    },
+    {
+      "name": "Create: Trading floor",
+      "slug": "create-trading-floor",
+      "filename": "trading_floor-3.0.16.jar",
+      "side": "both",
+      "url": "https://cdn.modrinth.com/data/WROfLLvn/versions/K3nIvcWT/trading_floor-3.0.16.jar",
+      "hash": "sha512:6eaf42758446093c1923a9c325b955f7ec38933bc0b271559547b73b7dc9950e47a8256ca6f9baf13389ccc349da05a9e32d0f77e71a5f5b2c37080f3773148f",
+      "fileSize": 214343,
+      "modrinth": {
+        "projectId": "WROfLLvn",
+        "versionId": "K3nIvcWT"
+      }
+    },
+    {
+      "name": "Create: Brassworks Missions",
+      "slug": "create-brassworks-missions",
+      "filename": "brassworksmissions-1.13.jar",
+      "side": "both",
+      "url": "https://cdn.modrinth.com/data/uUhZpyjI/versions/FTx6Sme7/brassworksmissions-1.13.jar",
+      "hash": "sha512:94293557c1a7c0d20e13f7057d1fa7a6fc18dbe09d338fda8487dfa35fce485bef5c881a5289508a3ec34a0d3bd5c1d8c717ecb904c226c04b2e7d13bdd553a3",
+      "fileSize": 524908,
+      "modrinth": {
+        "projectId": "uUhZpyjI",
+        "versionId": "FTx6Sme7"
+      }
     }
   ],
   "filesArchive": {
     "url": "https://teyk0o.github.io/zenithmodpack/files.zip",
-    "hash": "sha256:780af01f39a8a91dd7ffbc89cd39563e7864edbe070ff89d95dad15b12840f03",
+    "hash": "sha256:92cb2215ef19f1173d6f25cb2ca9a2ead78cd021828f42c438f6ba973073754e",
     "size": 19179751
   },
   "files": [
