@@ -2589,11 +2589,37 @@
         "projectId": "40FYwb4z",
         "versionId": "KsfI4QsR"
       }
+    },
+    {
+      "name": "Cloth Config API",
+      "slug": "cloth-config",
+      "filename": "cloth-config-15.0.140-neoforge.jar",
+      "side": "both",
+      "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/izKINKFg/cloth-config-15.0.140-neoforge.jar",
+      "hash": "sha512:aaf9b010955b8cd294e5a92f069985b18729fd5e2cf22d351f1dff9680f15488688803ec41e77e941cbde130ceb535014ca4c868047d80ab69c2d508e216654d",
+      "fileSize": 1163890,
+      "modrinth": {
+        "projectId": "9s6osm5g",
+        "versionId": "izKINKFg"
+      }
+    },
+    {
+      "name": "Music Notification",
+      "slug": "music-notification",
+      "filename": "musicnotification-neoforge-3.0.0+mc1.21.1.jar",
+      "side": "both",
+      "url": "https://cdn.modrinth.com/data/A4YQgwzz/versions/QSipl86T/musicnotification-neoforge-3.0.0%2Bmc1.21.1.jar",
+      "hash": "sha512:02ad811b3a28f51f3a59b2eb527f38b4c548470bda7355ebc40a4cdcff6993a2f53cdb6ad857b2c2b48f3cd3eea658f9110e22cd548691c8e3cef969d8dd9b0b",
+      "fileSize": 134486,
+      "modrinth": {
+        "projectId": "A4YQgwzz",
+        "versionId": "QSipl86T"
+      }
     }
   ],
   "filesArchive": {
     "url": "https://teyk0o.github.io/zenithmodpack/files.zip",
-    "hash": "sha256:770d464338e7c1a8431e297ead501d1c63d60e520bb92313bcd792fade9a2e50",
+    "hash": "sha256:cc8526e21ca3ef0c884fcd5ead32499b8b48014e624616dfee30c54ec6143dbc",
     "size": 19179751
   },
   "files": [
