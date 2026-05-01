@@ -56,14 +56,14 @@
     },
     {
       "name": "AppleSkin",
-      "filename": "appleskin-neoforge-mc1.21-3.0.7.jar",
+      "filename": "appleskin-neoforge-mc1.21-3.0.9.jar",
       "side": "both",
-      "url": "https://cdn.modrinth.com/data/EsAfCjCV/versions/kztxpjAA/appleskin-neoforge-mc1.21-3.0.7.jar",
-      "hash": "sha512:03a94fe4143250b8e80abe97770918ba0af1265110bb73c25444674f9cdf86164464332a913cbac29af82d8ed02dce6ef19bbb62fced92620817a7ec1e761b71",
-      "fileSize": 74100,
+      "url": "https://cdn.modrinth.com/data/EsAfCjCV/versions/uAKA6Laj/appleskin-neoforge-mc1.21-3.0.9.jar",
+      "hash": "sha512:f4ea46273e407334b63e262e2555c9a8204f7b5e60f23f272fbaa83ad9e88800e0ee186aca840710df2dbe0a18b37758695fef2ae1a902c10b3706e3de772937",
+      "fileSize": 75804,
       "modrinth": {
         "projectId": "EsAfCjCV",
-        "versionId": "kztxpjAA"
+        "versionId": "uAKA6Laj"
       },
       "slug": "appleskin",
       "detectedSide": "both"
@@ -336,14 +336,14 @@
     },
     {
       "name": "Sinytra Connector",
-      "filename": "connector-2.0.0-beta.2+1.21.1-full.jar",
+      "filename": "connector-2.0.0-beta.14+1.21.1-full.jar",
       "side": "both",
-      "url": "https://cdn.modrinth.com/data/u58R1TMW/versions/WFiIDhbD/connector-2.0.0-beta.2%2B1.21.1-full.jar",
-      "hash": "sha512:5c012e8ea3f41ae9e2a05bd6ed007e4a85477033dcc73bd922535bb0ad69be398e19dd38eaec62bf6abf548a24d99abd2ba54a0737be1dd4136b124e3d1fe910",
-      "fileSize": 4476886,
+      "url": "https://cdn.modrinth.com/data/u58R1TMW/versions/1i8teo7m/connector-2.0.0-beta.14%2B1.21.1-full.jar",
+      "hash": "sha512:6ed3168c2c7dad2606ada1fdf63ee412bb8bb5620718a702f6ac51310e671f2f93ab46fc96400e258f4433e51b96f9dd21441e1a8963d8b356c75b578e156dcc",
+      "fileSize": 4526785,
       "modrinth": {
         "projectId": "u58R1TMW",
-        "versionId": "WFiIDhbD"
+        "versionId": "1i8teo7m"
       },
       "slug": "connector",
       "detectedSide": "both"
@@ -670,14 +670,14 @@
     },
     {
       "name": "Entity Culling",
-      "filename": "entityculling-neoforge-1.7.3-mc1.21.jar",
+      "filename": "entityculling-neoforge-1.10.1-mc1.21.1.jar",
       "side": "client",
-      "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/4HW5j3ty/entityculling-neoforge-1.7.3-mc1.21.jar",
-      "hash": "sha512:809d46d0c8f85f7324d6cce793c9978501dd0c2a2f5d4d00924f31a67276fe1183a43d383420e55a9f61d460ceb21a1ef76836e90a8d656dc5237b20661e4c6a",
-      "fileSize": 74131,
+      "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/LrKSuU8e/entityculling-neoforge-1.10.1-mc1.21.1.jar",
+      "hash": "sha512:dc3c746929c454ca0bebf0b06788f20896a0f3a477150b4ce23399054eecd831ee6b0bd14edadf6a3f921eb695ae13c1a20b70d72d7f78bd6dda07ffa6e0e304",
+      "fileSize": 1578350,
       "modrinth": {
         "projectId": "NNAgCjsB",
-        "versionId": "4HW5j3ty"
+        "versionId": "LrKSuU8e"
       },
       "slug": "entityculling",
       "detectedSide": "client"
@@ -712,14 +712,14 @@
     },
     {
       "name": "Farmer's Delight",
-      "filename": "FarmersDelight-1.21.1-1.2.9.jar",
+      "filename": "FarmersDelight-1.21.1-1.3.1.jar",
       "side": "both",
-      "url": "https://cdn.modrinth.com/data/R2OftAxM/versions/opCbq7uB/FarmersDelight-1.21.1-1.2.9.jar",
-      "hash": "sha512:00a7db6776e6aa305aa7511c267866b43cf044c154f3825d344ef2685758049486a84a2f1f19920e3cd663ad7971fda326c9a501f8352abe506a170dc05f7104",
-      "fileSize": 2964387,
+      "url": "https://cdn.modrinth.com/data/R2OftAxM/versions/9gp7w8NC/FarmersDelight-1.21.1-1.3.1.jar",
+      "hash": "sha512:596340db019049e8da066df13cedb76eb06a8e877c86fd10b38332317b5fd5001cad485a6de87e3a8bf0423d87a1ffbdd51a86f6c06560f40995d68fe05edf95",
+      "fileSize": 3124506,
       "modrinth": {
         "projectId": "R2OftAxM",
-        "versionId": "opCbq7uB"
+        "versionId": "9gp7w8NC"
       },
       "slug": "farmers-delight",
       "detectedSide": "both"
@@ -740,14 +740,14 @@
     },
     {
       "name": "FerriteCore",
-      "filename": "ferritecore-7.0.0-neoforge.jar",
+      "filename": "ferritecore-7.0.3-neoforge.jar",
       "side": "both",
-      "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/BkJB5PPB/ferritecore-7.0.0-neoforge.jar",
-      "hash": "sha512:590e4bf3641c8531fc7a03e84046c912f6b7ee4bd229ec77038d3b9a0cf039c707b500e8dda826a1f383166b8b6cd2c5c5859b61af88b25221d20432abbc36ab",
-      "fileSize": 115359,
+      "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/x7kQWVju/ferritecore-7.0.3-neoforge.jar",
+      "hash": "sha512:19af89a2075bb10a63884fa853ebf84b02c79dc3242430ecdad056fd764fdcde367a7303276b329df01b0736e2ef264c5d80c7dc92c6aebd244f556a230bb417",
+      "fileSize": 121559,
       "modrinth": {
         "projectId": "uXXizFIs",
-        "versionId": "BkJB5PPB"
+        "versionId": "x7kQWVju"
       },
       "slug": "ferrite-core",
       "detectedSide": "both"
@@ -972,14 +972,14 @@
     },
     {
       "name": "Iris Shaders",
-      "filename": "iris-neoforge-1.8.0-beta.3+mc1.21.1.jar",
+      "filename": "iris-neoforge-1.8.12+mc1.21.1.jar",
       "side": "client",
-      "url": "https://cdn.modrinth.com/data/YL57xq9U/versions/hfeO55Am/iris-neoforge-1.8.0-beta.3%2Bmc1.21.1.jar",
-      "hash": "sha512:f6f79955ef2d905fae366b20cc500ed049f8d0d440fd61623754add865051fec81cca0ae38876cf552708d33dfe2f9864dbde9fb416e9aa9cc231922ac4e0c0e",
-      "fileSize": 2282574,
+      "url": "https://cdn.modrinth.com/data/YL57xq9U/versions/t3ruzodq/iris-neoforge-1.8.12%2Bmc1.21.1.jar",
+      "hash": "sha512:57b8026a3c3c433cf6123d63dc6ce7e11f6d480a72926370db1fc7f2b06059bc16a753ecd7e7af659c19e90b592103196b0e89585ce4f0744a4ca433f59bcf1a",
+      "fileSize": 2438548,
       "modrinth": {
         "projectId": "YL57xq9U",
-        "versionId": "hfeO55Am"
+        "versionId": "t3ruzodq"
       },
       "slug": "iris",
       "detectedSide": "client"
@@ -1460,14 +1460,14 @@
     },
     {
       "name": "More Villagers: Re-employed",
-      "filename": "Morevillagers-Re-1.21.1-neoforge-5.2.0.jar",
+      "filename": "MoreVillagers-Re-1.21.1-neoforge-1.25.12.4.jar",
       "side": "both",
-      "url": "https://cdn.modrinth.com/data/1fOqTPRO/versions/zXmqysjt/Morevillagers-Re-1.21.1-neoforge-5.2.0.jar",
-      "hash": "sha512:2404e0d431c3dc2df56073c291710bfce5bb2bf33a6c05882db6a56c5ee8023f0a38300b0c9fa36870a65c3e3ffeb1c66dd2082504c5b2604c1ca052820b5eb4",
-      "fileSize": 369232,
+      "url": "https://cdn.modrinth.com/data/1fOqTPRO/versions/nDquoRbd/MoreVillagers-Re-1.21.1-neoforge-1.25.12.4.jar",
+      "hash": "sha512:a4798c19bc96d9fda36444375d50c2443eb375d4ab9d68d16b35d13f017dbe7297d8b69c49d4551e7b9397278619f9d357a68c3abe86466b784d53d5e73a576d",
+      "fileSize": 376197,
       "modrinth": {
         "projectId": "1fOqTPRO",
-        "versionId": "zXmqysjt"
+        "versionId": "nDquoRbd"
       },
       "slug": "more-villagers-re-employed",
       "detectedSide": "both"
@@ -1654,14 +1654,14 @@
     },
     {
       "name": "ShatterLib | OctoLib",
-      "filename": "OctoLib-NEOFORGE-0.4.2.jar",
+      "filename": "OctoLib-NEOFORGE-0.6.1+1.21.jar",
       "side": "both",
-      "url": "https://cdn.modrinth.com/data/RH2KUdKJ/versions/1Yn9tKNv/OctoLib-NEOFORGE-0.4.2.jar",
-      "hash": "sha512:ad48c7e355f1424a0bce8bba18beedb70523d6ba1edfb41026f226e5c5176fa5620fdeeae462c6fd0c1edd97d35eba2a28151955ff23eb69730ffbe94dd244d9",
-      "fileSize": 400265,
+      "url": "https://cdn.modrinth.com/data/RH2KUdKJ/versions/AbiyvpxR/OctoLib-NEOFORGE-0.6.1%2B1.21.jar",
+      "hash": "sha512:6e0194da00ae7cc1e67f0033b97965acc460edaa86e204e5f8498ea83be94a2019cb5a3254e07b59562e66297f12f3ea2262f9f0005a52c12b9a680b6f218c4d",
+      "fileSize": 540285,
       "modrinth": {
         "projectId": "RH2KUdKJ",
-        "versionId": "1Yn9tKNv"
+        "versionId": "AbiyvpxR"
       },
       "slug": "octo-lib",
       "detectedSide": "both"
@@ -1802,14 +1802,14 @@
     },
     {
       "name": "Resourcify",
-      "filename": "Resourcify (1.21+-neoforge)-1.4.0.jar",
+      "filename": "Resourcify (1.21.1-neoforge)-1.8.1.jar",
       "side": "client",
-      "url": "https://cdn.modrinth.com/data/RLzHAoZe/versions/6Jl7MQ8S/Resourcify%20%281.21%2B-neoforge%29-1.4.0.jar",
-      "hash": "sha512:7ff44821865af076ac051b3cf8def8b2c75e010a8658e603491996f286391c778486388639dafd3562a41543db69387529bf4fd560606c379c40dc14786a1b5c",
-      "fileSize": 2445011,
+      "url": "https://cdn.modrinth.com/data/RLzHAoZe/versions/yIfzKO1A/Resourcify%20%281.21.1-neoforge%29-1.8.1.jar",
+      "hash": "sha512:c80e76da9f4b4e0614b4d3998f3664791bca25615a55130f6df6f3253625b39bf7a1e6b699e43a09f90bf403407671c9e0391d126c4985b21d6abc3b9776b0f5",
+      "fileSize": 2586268,
       "modrinth": {
         "projectId": "RLzHAoZe",
-        "versionId": "6Jl7MQ8S"
+        "versionId": "yIfzKO1A"
       },
       "slug": "resourcify",
       "detectedSide": "client"
@@ -2674,7 +2674,7 @@
   ],
   "filesArchive": {
     "url": "https://teyk0o.github.io/zenithmodpack/files.zip",
-    "hash": "sha256:d8bac6fab097ea317235900d9c9053f3fa2071bb71bbefbbac85b7b09ac84e37",
+    "hash": "sha256:6a8c98944a78189ad6463884b6d82e320425e6d779f41b55bdb441383c9de3b7",
     "size": 19179751
   },
   "files": [
