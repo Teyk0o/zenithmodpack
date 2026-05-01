@@ -722,7 +722,8 @@
         "versionId": "rOESN0jP"
       },
       "slug": "farmers-delight",
-      "detectedSide": "both"
+      "detectedSide": "both",
+      "pinned": "Incompatible Nature Spirit"
     },
     {
       "name": "Fast IP Ping",
@@ -1107,20 +1108,6 @@
       },
       "slug": "larger-ore-veins-deluxe",
       "detectedSide": "both"
-    },
-    {
-      "name": "Leaves Be Gone",
-      "filename": "LeavesBeGone-v21.1.0-1.21.1-NeoForge.jar",
-      "side": "server",
-      "url": "https://cdn.modrinth.com/data/AVq17PqV/versions/TOHEOE2X/LeavesBeGone-v21.1.0-1.21.1-NeoForge.jar",
-      "hash": "sha512:0f6e5131b2be64f3ebc9cc628bace6023c8d4748051092d1490e6523bd708892acfdf353dcec8032076be6fbc2fc6e5f4c7656e0b2a127b277c3676798d1e92a",
-      "fileSize": 56168,
-      "modrinth": {
-        "projectId": "AVq17PqV",
-        "versionId": "TOHEOE2X"
-      },
-      "slug": "leaves-be-gone",
-      "detectedSide": "server"
     },
     {
       "name": "Legendary Tooltips",
@@ -1512,7 +1499,8 @@
         "versionId": "n2vJCdff"
       },
       "slug": "my-nethers-delight",
-      "detectedSide": "both"
+      "detectedSide": "both",
+      "pinned": "Incompatible Farmer's Delight"
     },
     {
       "name": "Nature's Delight",
@@ -2670,11 +2658,53 @@
         "projectId": "9s6osm5g",
         "versionId": "izKINKFg"
       }
+    },
+    {
+      "name": "Elytra Slot",
+      "slug": "elytra-slot",
+      "filename": "elytraslot-neoforge-9.0.2+1.21.1.jar",
+      "side": "both",
+      "detectedSide": "both",
+      "url": "https://cdn.modrinth.com/data/mSQF1NpT/versions/RX6A02W1/elytraslot-neoforge-9.0.2%2B1.21.1.jar",
+      "hash": "sha512:257af1e8de11634c561e617ac64ce2c452aebd86bd0a6ba2c4d164cee9746a30c093aa5e913d553b34ae4c235d5b17b40e5f95db18f2fea8f6e6361bd405d819",
+      "fileSize": 65086,
+      "modrinth": {
+        "projectId": "mSQF1NpT",
+        "versionId": "RX6A02W1"
+      }
+    },
+    {
+      "name": "Caelus API",
+      "slug": "caelus",
+      "filename": "caelus-neoforge-7.0.1+1.21.1.jar",
+      "side": "both",
+      "detectedSide": "both",
+      "url": "https://cdn.modrinth.com/data/40FYwb4z/versions/KsfI4QsR/caelus-neoforge-7.0.1%2B1.21.1.jar",
+      "hash": "sha512:3763f95304ade2bacb217828c74eeef7905a114f71d41537d56121af58c182c2685467a5afb7e03ddb3997ec3d7496bdfdf71a9946a9f33e3470393e7a13306d",
+      "fileSize": 50235,
+      "modrinth": {
+        "projectId": "40FYwb4z",
+        "versionId": "KsfI4QsR"
+      }
+    },
+    {
+      "name": "Elytra Trims",
+      "slug": "elytra-trims",
+      "filename": "elytratrims-neoforge-3.10.0+1.21.1.jar",
+      "side": "both",
+      "detectedSide": "both",
+      "url": "https://cdn.modrinth.com/data/XpzGz7KD/versions/XRCucewh/elytratrims-neoforge-3.10.0%2B1.21.1.jar",
+      "hash": "sha512:d0b7613f6495d037599513afe9a0cc90c84095d213822aba03d52afcaff8cea521b82b653f3f26e2bc7468ea1fb7629d1aad748b24deb913899ecfdfe3cde1c0",
+      "fileSize": 690957,
+      "modrinth": {
+        "projectId": "XpzGz7KD",
+        "versionId": "XRCucewh"
+      }
     }
   ],
   "filesArchive": {
     "url": "https://teyk0o.github.io/zenithmodpack/files.zip",
-    "hash": "sha256:e388b770ea151890632929e914451c73d8705431456a034bc0e605b3a7d30a6b",
+    "hash": "sha256:363757a0aaa3a27910a77ef575d9d4ca4245ce58b0f422764b51b8ae5db8aace",
     "size": 19179751
   },
   "files": [
