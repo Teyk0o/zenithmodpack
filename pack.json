@@ -2843,11 +2843,25 @@
         "projectId": "GgG2my3y",
         "versionId": "vNYhXInp"
       }
+    },
+    {
+      "name": "Straw Statues",
+      "slug": "straw-statues",
+      "filename": "StrawStatues-v21.1.0-1.21.1-NeoForge.jar",
+      "side": "both",
+      "detectedSide": "both",
+      "url": "https://cdn.modrinth.com/data/2fltysAl/versions/C7j9WWVp/StrawStatues-v21.1.0-1.21.1-NeoForge.jar",
+      "hash": "sha512:ee213d7f9a6bc795b293927493e22f07f4bac06ab4cb412815c127cc895a02d286eea4f18973a3e153a27312ea4ebd0bedf5ac5f9247e12756811cdf3085eb85",
+      "fileSize": 313043,
+      "modrinth": {
+        "projectId": "2fltysAl",
+        "versionId": "C7j9WWVp"
+      }
     }
   ],
   "filesArchive": {
     "url": "https://teyk0o.github.io/zenithmodpack/files.zip",
-    "hash": "sha256:e2d5aa86a8f544fef2d8ea8053fa7f955ed2ea35ac230067b117204e9b59b97b",
+    "hash": "sha256:51b26632a7a0a6b4bc437fd29cfce6f2dec67815b801bdcfc77042ba0a5da18d",
     "size": 19179751
   },
   "files": [
