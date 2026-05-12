@@ -2557,19 +2557,6 @@
       }
     },
     {
-      "name": "Armor Visibility",
-      "slug": "armor-visibility",
-      "filename": "armor_visibility-neoforge-21.1.1.jar",
-      "side": "client",
-      "url": "https://cdn.modrinth.com/data/kvPlmCLX/versions/5enXeKOr/armor_visibility-neoforge-21.1.1.jar",
-      "hash": "sha512:f62764dd837ebb032e6a0fd679a0eabfeb2703728f46f5abd8aa931777b8a6ba8f198cac3210244ed3b09b4fe130e487128722d8e51245dca43115ada467a95b",
-      "fileSize": 22639,
-      "modrinth": {
-        "projectId": "kvPlmCLX",
-        "versionId": "5enXeKOr"
-      }
-    },
-    {
       "name": "Ash API",
       "slug": "ash-api",
       "filename": "ash_api-neoforge-21.1.1.jar",
@@ -2842,11 +2829,25 @@
         "projectId": "sk9knFPE",
         "versionId": "ZdLtebKH"
       }
+    },
+    {
+      "name": "Armor Hider",
+      "slug": "zannaghs-armor-hider",
+      "filename": "armor-hider-neoforge-0.10.16+mc-1.21.0-1.jar",
+      "side": "both",
+      "detectedSide": "both",
+      "url": "https://cdn.modrinth.com/data/GgG2my3y/versions/vNYhXInp/armor-hider-neoforge-0.10.16%2Bmc-1.21.0-1.jar",
+      "hash": "sha512:66dacb1fb57afd876dae205cc7174c5892a1310efc192a10997dc1dfab86bce4bf8d955b6415a816a53b942b4a5b3bd4d7b501d91b81a1673e52537688ed13a2",
+      "fileSize": 270815,
+      "modrinth": {
+        "projectId": "GgG2my3y",
+        "versionId": "vNYhXInp"
+      }
     }
   ],
   "filesArchive": {
     "url": "https://teyk0o.github.io/zenithmodpack/files.zip",
-    "hash": "sha256:054226507cb7f663c54d8b8ec3ef6c7e2ae56e2daa20d00752115d5dedd69436",
+    "hash": "sha256:e2d5aa86a8f544fef2d8ea8053fa7f955ed2ea35ac230067b117204e9b59b97b",
     "size": 19179751
   },
   "files": [
