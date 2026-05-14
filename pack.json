@@ -294,14 +294,14 @@
     },
     {
       "name": "Colorwheel",
-      "filename": "colorwheel-neoforge-1.2.5+mc1.21.1.jar",
+      "filename": "colorwheel-neoforge-1.2.6+mc1.21.1.jar",
       "side": "client",
-      "url": "https://cdn.modrinth.com/data/BzHgFoGz/versions/qIo72EWB/colorwheel-neoforge-1.2.5%2Bmc1.21.1.jar",
-      "hash": "sha512:1c7ae274389829e8213be1ad3387c2bdc50266badef75a497435e0afab7a1f9eefc9252d59aa6d7360091f70326fd396df6dab29e612c47a2d88fa1d85c24565",
-      "fileSize": 384109,
+      "url": "https://cdn.modrinth.com/data/BzHgFoGz/versions/HOqMxRV9/colorwheel-neoforge-1.2.6%2Bmc1.21.1.jar",
+      "hash": "sha512:56db620d4c2573ac6415e96f23fe188225d3c461b4d65db64113681986c6a45f118e6c2ea71de6d2eebb0e08a8530cb456ecb038547ecf92759139c286b63818",
+      "fileSize": 390082,
       "modrinth": {
         "projectId": "BzHgFoGz",
-        "versionId": "qIo72EWB"
+        "versionId": "HOqMxRV9"
       },
       "slug": "colorwheel",
       "detectedSide": "client"
@@ -841,14 +841,14 @@
     },
     {
       "name": "Geophilic",
-      "filename": "Geophilic v3.4.6.mod.jar",
+      "filename": "Geophilic v3.5.mod.jar",
       "side": "both",
-      "url": "https://cdn.modrinth.com/data/hl5OLM95/versions/Vk4cYx6F/Geophilic%20v3.4.6.mod.jar",
-      "hash": "sha512:5d0ac03046a6524f015c6c380e5fce59d8b763eec5fd5b6b301d67418d25a726088e94d96381ec577425d03f7d70c3b711cfd13eea29e7a48a02e95a5fb11065",
-      "fileSize": 751598,
+      "url": "https://cdn.modrinth.com/data/hl5OLM95/versions/3pbmqlYX/Geophilic%20v3.5.mod.jar",
+      "hash": "sha512:0edf246d8e4844d3374cc1f86982175c30fa17ab6d452e06cb63f30a262f146c8473d06f48cf1a383eefa51ba0cafd3f9205fb6988bf739b7664ba29fd64e283",
+      "fileSize": 2616562,
       "modrinth": {
         "projectId": "hl5OLM95",
-        "versionId": "Vk4cYx6F"
+        "versionId": "3pbmqlYX"
       },
       "slug": "geophilic",
       "detectedSide": "both"
@@ -1888,14 +1888,14 @@
     },
     {
       "name": "Sodium",
-      "filename": "sodium-neoforge-0.6.13+mc1.21.1.jar",
+      "filename": "sodium-neoforge-0.8.12-alpha.2+mc1.21.1.jar",
       "side": "client",
-      "url": "https://cdn.modrinth.com/data/AANobbMI/versions/Pb3OXVqC/sodium-neoforge-0.6.13%2Bmc1.21.1.jar",
-      "hash": "sha512:ce58f34d05d96c0a109a5cea23c741f6bdb2e6be31fc087c5989274cefca5f10ba0c08c62083cf554a51f2c7667bf46e4164383f675c844e77633aef2659996b",
-      "fileSize": 1162994,
+      "url": "https://cdn.modrinth.com/data/AANobbMI/versions/hSgrV2wa/sodium-neoforge-0.8.12-alpha.2%2Bmc1.21.1.jar",
+      "hash": "sha512:0dd90a033062947ac3392a4624c52da1459b33f5e694a64afe966dd6813e45f4f1cd299dd4d8bfbc107f20a30513afdf8724e8f7b984123e2181142d2383f51f",
+      "fileSize": 1284556,
       "modrinth": {
         "projectId": "AANobbMI",
-        "versionId": "Pb3OXVqC"
+        "versionId": "hSgrV2wa"
       },
       "slug": "sodium",
       "detectedSide": "client"
@@ -1930,28 +1930,28 @@
     },
     {
       "name": "Sophisticated Backpacks",
-      "filename": "sophisticatedbackpacks-1.21.1-3.25.44.1736.jar",
+      "filename": "sophisticatedbackpacks-1.21.1-3.25.45.1742.jar",
       "side": "both",
-      "url": "https://cdn.modrinth.com/data/TyCTlI4b/versions/ZMuJ1TI7/sophisticatedbackpacks-1.21.1-3.25.44.1736.jar",
-      "hash": "sha512:0704060b2d0e2e88bc771da1b26fe262563ac6a814f129a1207782d7edbac8bdc1b4057669c5bc94976e6eb74c6386c0735f93628b2d1f23e7eac4ae6562e185",
-      "fileSize": 1023758,
+      "url": "https://cdn.modrinth.com/data/TyCTlI4b/versions/gCxpNA3A/sophisticatedbackpacks-1.21.1-3.25.45.1742.jar",
+      "hash": "sha512:a4e536c2c9cf53ab538bc22469518320382e02368714069b545e69eb21da4c04abaebfc578843b09761de2602a77db1427278789dc99c33e5e28cd1388ac58e3",
+      "fileSize": 1052173,
       "modrinth": {
         "projectId": "TyCTlI4b",
-        "versionId": "ZMuJ1TI7"
+        "versionId": "gCxpNA3A"
       },
       "slug": "sophisticated-backpacks",
       "detectedSide": "both"
     },
     {
       "name": "Sophisticated Core",
-      "filename": "sophisticatedcore-1.21.1-1.4.38.1847.jar",
+      "filename": "sophisticatedcore-1.21.1-1.4.39.1852.jar",
       "side": "both",
-      "url": "https://cdn.modrinth.com/data/nmoqTijg/versions/FkvJPfcC/sophisticatedcore-1.21.1-1.4.38.1847.jar",
-      "hash": "sha512:681668c72a58eeeb9778e03d2f7cec0718b99532478f9b36ca5c75edcbc9f7e4a2657e8a2f5e0f2002966956473d7a6ea720d2ac1e769ab69d192761f85211e1",
-      "fileSize": 1518673,
+      "url": "https://cdn.modrinth.com/data/nmoqTijg/versions/616eWTaq/sophisticatedcore-1.21.1-1.4.39.1852.jar",
+      "hash": "sha512:98be3c258f453558af770b094027e03fa2503aa32bbef963e7c7d9136b8aea58c53b7c8377e27598d8c74efd90683b86866d77410b1ffd3f8ffafa82c3b80d7f",
+      "fileSize": 1596647,
       "modrinth": {
         "projectId": "nmoqTijg",
-        "versionId": "FkvJPfcC"
+        "versionId": "616eWTaq"
       },
       "slug": "sophisticated-core",
       "detectedSide": "both"
@@ -2080,14 +2080,14 @@
     },
     {
       "name": "Vanilla Backport",
-      "filename": "VanillaBackport-neoforge-1.21.1-1.1.6.3.jar",
+      "filename": "VanillaBackport-neoforge-1.21.1-1.1.7.4.jar",
       "side": "both",
-      "url": "https://cdn.modrinth.com/data/6xwxDTgf/versions/TJ1RI2mA/VanillaBackport-neoforge-1.21.1-1.1.6.3.jar",
-      "hash": "sha512:dea48d0be304269af459d429a6a048a6a73260cd8f1400d262a96e85d493639992658df174fd6ae4347fd742051244ef4b3c593348f27a727cb7af314b1a4dcd",
-      "fileSize": 27456653,
+      "url": "https://cdn.modrinth.com/data/6xwxDTgf/versions/AZLyELAH/VanillaBackport-neoforge-1.21.1-1.1.7.4.jar",
+      "hash": "sha512:34c1bdf0ff2c2a342c2c56bc68d951adf425089d78e9931d1047f88db2cdee8c0fef7112beff18b4f4b089d0a27b75b50840d1759e1ce38a4523e0245d3c4c7f",
+      "fileSize": 54203413,
       "modrinth": {
         "projectId": "6xwxDTgf",
-        "versionId": "TJ1RI2mA"
+        "versionId": "AZLyELAH"
       },
       "slug": "vanillabackport",
       "detectedSide": "both"
@@ -2791,15 +2791,15 @@
     {
       "name": "KubeJS",
       "slug": "kubejs",
-      "filename": "kubejs-neoforge-2101.7.2-build.363.jar",
+      "filename": "kubejs-neoforge-2101.7.2-build.368.jar",
       "side": "both",
       "detectedSide": "both",
-      "url": "https://cdn.modrinth.com/data/umyGl7zF/versions/Fe9CjPws/kubejs-neoforge-2101.7.2-build.363.jar",
-      "hash": "sha512:f5becb7d285c5e1e4f1d739f553d0d08b1a0a7cb346e318902f72b5c7a460f4b62f834f26dcf4f6bf66ccd02da0302811824e183f0357cf6a67a1252069a8d65",
-      "fileSize": 2270442,
+      "url": "https://cdn.modrinth.com/data/umyGl7zF/versions/F2nzeC19/kubejs-neoforge-2101.7.2-build.368.jar",
+      "hash": "sha512:5e2f1bd1460d8f443ce4bd44ed367d27f9170e50dff2ce9430954206e89651f8969dfbe842c3100b0244f8d58f843fc5fb9c46b5c576430a07f1e5b6dd4b9f7b",
+      "fileSize": 2281720,
       "modrinth": {
         "projectId": "umyGl7zF",
-        "versionId": "Fe9CjPws"
+        "versionId": "F2nzeC19"
       }
     },
     {
@@ -2857,11 +2857,39 @@
         "projectId": "2fltysAl",
         "versionId": "C7j9WWVp"
       }
+    },
+    {
+      "name": "ItemClearLag",
+      "slug": "itemclearlag",
+      "filename": "ICL-1.21.1-neoforge-1.5.3b.jar",
+      "side": "server",
+      "detectedSide": "server",
+      "url": "https://cdn.modrinth.com/data/NJcJEXNc/versions/5NyQGDq6/ICL-1.21.1-neoforge-1.5.3b.jar",
+      "hash": "sha512:dfda5e5d5e385f01e0700573a4f7c8301deaf13fcbeeebdcd3cb1e7efbc8cc2a977d27c54a1fea360939939d74e9e657b9638632acb86ac66a849781d3533d26",
+      "fileSize": 41220,
+      "modrinth": {
+        "projectId": "NJcJEXNc",
+        "versionId": "5NyQGDq6"
+      }
+    },
+    {
+      "name": "Platform",
+      "slug": "platform",
+      "filename": "Platform-neoforge-1.21.1-1.3.3.jar",
+      "side": "both",
+      "detectedSide": "both",
+      "url": "https://cdn.modrinth.com/data/i6fiqm5y/versions/v7P0nBi2/Platform-neoforge-1.21.1-1.3.3.jar",
+      "hash": "sha512:1ab1dcf3583237dd30c3443a1fac3ee8271add25aae84af2933fa9eb13def3840d7a8cca53523d1dd3c5a77eb23059099285d218509d02d001034fca42f5f64d",
+      "fileSize": 489341,
+      "modrinth": {
+        "projectId": "i6fiqm5y",
+        "versionId": "v7P0nBi2"
+      }
     }
   ],
   "filesArchive": {
     "url": "https://teyk0o.github.io/zenithmodpack/files.zip",
-    "hash": "sha256:51b26632a7a0a6b4bc437fd29cfce6f2dec67815b801bdcfc77042ba0a5da18d",
+    "hash": "sha256:50b6e7821855084a7e3583f2cbc575b842faa76d50aad13edd83b50e88d8cd43",
     "size": 19179751
   },
   "files": [
