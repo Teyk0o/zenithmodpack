@@ -1888,17 +1888,18 @@
     },
     {
       "name": "Sodium",
-      "filename": "sodium-neoforge-0.8.12-alpha.2+mc1.21.1.jar",
+      "filename": "sodium-neoforge-0.6.13+mc1.21.1.jar",
       "side": "client",
-      "url": "https://cdn.modrinth.com/data/AANobbMI/versions/hSgrV2wa/sodium-neoforge-0.8.12-alpha.2%2Bmc1.21.1.jar",
-      "hash": "sha512:0dd90a033062947ac3392a4624c52da1459b33f5e694a64afe966dd6813e45f4f1cd299dd4d8bfbc107f20a30513afdf8724e8f7b984123e2181142d2383f51f",
-      "fileSize": 1284556,
+      "url": "https://cdn.modrinth.com/data/AANobbMI/versions/Pb3OXVqC/sodium-neoforge-0.6.13%2Bmc1.21.1.jar",
+      "hash": "sha512:ce58f34d05d96c0a109a5cea23c741f6bdb2e6be31fc087c5989274cefca5f10ba0c08c62083cf554a51f2c7667bf46e4164383f675c844e77633aef2659996b",
+      "fileSize": 1162994,
       "modrinth": {
         "projectId": "AANobbMI",
-        "versionId": "hSgrV2wa"
+        "versionId": "Pb3OXVqC"
       },
       "slug": "sodium",
-      "detectedSide": "client"
+      "detectedSide": "client",
+      "pinned": "Incompatible SABLE"
     },
     {
       "name": "Sodium Leaf Culling",
@@ -2889,7 +2890,7 @@
   ],
   "filesArchive": {
     "url": "https://teyk0o.github.io/zenithmodpack/files.zip",
-    "hash": "sha256:50b6e7821855084a7e3583f2cbc575b842faa76d50aad13edd83b50e88d8cd43",
+    "hash": "sha256:5ef5f7843f72bfd1a4a25a8b4975354d036675399fefca48bd5b807e361b9280",
     "size": 19179751
   },
   "files": [
