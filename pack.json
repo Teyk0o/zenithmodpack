@@ -322,14 +322,14 @@
     },
     {
       "name": "Companion 🐕",
-      "filename": "Companion-1.21.1-NeoForge-6.1.1.jar",
+      "filename": "Companion-1.21.1-NeoForge-6.2.0.jar",
       "side": "server",
-      "url": "https://cdn.modrinth.com/data/4w0EzGRW/versions/eOB43rJ0/Companion-1.21.1-NeoForge-6.1.1.jar",
-      "hash": "sha512:9ea754d6e87618a042b134d3e864a8155f99b12ef7aa13190cd646b7462429c13bff191368ae38062fd1de486339a94c4cbef06e7ccfd79f08f01420ee20eed6",
-      "fileSize": 41800,
+      "url": "https://cdn.modrinth.com/data/4w0EzGRW/versions/xotWY5Gs/Companion-1.21.1-NeoForge-6.2.0.jar",
+      "hash": "sha512:1d10d4af562c62709794460895190446b8cebbd1d1c47e7baf8cda7420eadbab961e8c099f3a053b572a5661671990146a98f6b53c8a8197f6d798ce76e3a226",
+      "fileSize": 42633,
       "modrinth": {
         "projectId": "4w0EzGRW",
-        "versionId": "eOB43rJ0"
+        "versionId": "xotWY5Gs"
       },
       "slug": "companion",
       "detectedSide": "server"
@@ -475,14 +475,14 @@
     },
     {
       "name": "Create: Dragons Plus",
-      "filename": "CreateDragonsPlus-1.10.0b.jar",
+      "filename": "CreateDragonsPlus-1.10.1.jar",
       "side": "both",
-      "url": "https://cdn.modrinth.com/data/dzb1a5WV/versions/ew6gKsnx/CreateDragonsPlus-1.10.0b.jar",
-      "hash": "sha512:e54e40f1d0f005693a2a165f15a694482c44406ee34f1658d687ad0397f173227be42cc208bafd6706ad0be547b8ee85cbad5b52f17c7fa7216fb729d4e81684",
-      "fileSize": 756460,
+      "url": "https://cdn.modrinth.com/data/dzb1a5WV/versions/r0TIh2nX/CreateDragonsPlus-1.10.1.jar",
+      "hash": "sha512:cb8ff236250d346f7c76d534a5cd12f75b081d05b542c54cac49cc430a4539061f05562f10b8ba8503423fb6044666418a355aeae31a4e34615d0da41fa14967",
+      "fileSize": 759631,
       "modrinth": {
         "projectId": "dzb1a5WV",
-        "versionId": "ew6gKsnx"
+        "versionId": "r0TIh2nX"
       },
       "slug": "create-dragons-plus",
       "detectedSide": "both"
@@ -597,20 +597,6 @@
         "versionId": "G6YDRA79"
       },
       "slug": "deeperdarker",
-      "detectedSide": "both"
-    },
-    {
-      "name": "Distant Horizons",
-      "filename": "DistantHorizons-3.0.3-b-1.21.1-fabric-neoforge.jar",
-      "side": "both",
-      "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/oYXIfeus/DistantHorizons-3.0.3-b-1.21.1-fabric-neoforge.jar",
-      "hash": "sha512:8b39994ee6c5d71b8afacc80c2d13dd92fad10281374392c0049d1b6aebc823d7e137125268dee7383d3ff753eacf708fbe87d773cf0087d7b6057a05cf18ad3",
-      "fileSize": 30113661,
-      "modrinth": {
-        "projectId": "uCdwusMi",
-        "versionId": "oYXIfeus"
-      },
-      "slug": "distanthorizons",
       "detectedSide": "both"
     },
     {
@@ -1365,14 +1351,14 @@
     },
     {
       "name": "Lithostitched",
-      "filename": "lithostitched-1.7.3-neoforge-21.1.jar",
+      "filename": "lithostitched-1.7.6-neoforge-21.1.jar",
       "side": "server",
-      "url": "https://cdn.modrinth.com/data/XaDC71GB/versions/3yrFEAmj/lithostitched-1.7.3-neoforge-21.1.jar",
-      "hash": "sha512:d55d442c233d4d993aa30e0f281fd9c49579bd955c6d63460786b7687bff0b7be4e5ff5a7095d58cdb6c1de0ee8ff4d7465eee65757e3823ef1cec356051ed57",
-      "fileSize": 821956,
+      "url": "https://cdn.modrinth.com/data/XaDC71GB/versions/rs8lbH3l/lithostitched-1.7.6-neoforge-21.1.jar",
+      "hash": "sha512:8bdd894e62eb7a9de66d3759420651ec53b27323061e4224cdc9d7170d0d48cfb7bacc729a4a3c607096f86e309548888ffe0aa38deed70562542d5840c40ba4",
+      "fileSize": 821750,
       "modrinth": {
         "projectId": "XaDC71GB",
-        "versionId": "3yrFEAmj"
+        "versionId": "rs8lbH3l"
       },
       "slug": "lithostitched",
       "detectedSide": "server"
@@ -1435,14 +1421,14 @@
     },
     {
       "name": "Moonlight Lib",
-      "filename": "moonlight-neoforge-1.21.1-3.0.7.jar",
+      "filename": "moonlight-neoforge-1.21.1-3.0.9.jar",
       "side": "both",
-      "url": "https://cdn.modrinth.com/data/twkfQtEc/versions/GjDWHqm5/moonlight-neoforge-1.21.1-3.0.7.jar",
-      "hash": "sha512:fe96fef2882654cfab98c3d7892a349f446a865dafa0a144e0a4e689b7b70519e5cdf4975fe31f3cf3420806710c53d5c42c6c709d5aae9db00a875db45873f1",
-      "fileSize": 1573221,
+      "url": "https://cdn.modrinth.com/data/twkfQtEc/versions/sqbhVahR/moonlight-neoforge-1.21.1-3.0.9.jar",
+      "hash": "sha512:5a7364b494cb0348b6401b23cd7a6dec9db1d6f91641072a8c6824308e24cb4bc8e12465e8b816800fdbcedcc8a0e3f837852c48f8d455c7b6f5f6e72330800d",
+      "fileSize": 1574538,
       "modrinth": {
         "projectId": "twkfQtEc",
-        "versionId": "GjDWHqm5"
+        "versionId": "sqbhVahR"
       },
       "slug": "moonlight",
       "detectedSide": "both"
@@ -2834,15 +2820,15 @@
     {
       "name": "Armor Hider",
       "slug": "zannaghs-armor-hider",
-      "filename": "armor-hider-neoforge-0.10.16+mc-1.21.0-1.jar",
+      "filename": "armor-hider-neoforge-0.10.17+mc-1.21.0-1.jar",
       "side": "both",
       "detectedSide": "both",
-      "url": "https://cdn.modrinth.com/data/GgG2my3y/versions/vNYhXInp/armor-hider-neoforge-0.10.16%2Bmc-1.21.0-1.jar",
-      "hash": "sha512:66dacb1fb57afd876dae205cc7174c5892a1310efc192a10997dc1dfab86bce4bf8d955b6415a816a53b942b4a5b3bd4d7b501d91b81a1673e52537688ed13a2",
-      "fileSize": 270815,
+      "url": "https://cdn.modrinth.com/data/GgG2my3y/versions/w4UWGjuX/armor-hider-neoforge-0.10.17%2Bmc-1.21.0-1.jar",
+      "hash": "sha512:59d424ef21fe50c10e6136ddd91fe9e22fba1339f516cadfa2741000b4439d524fbc304e88cfefd5bdbd46d29ff6da52d5b327ace41dfbfa33aa29e652d20660",
+      "fileSize": 270852,
       "modrinth": {
         "projectId": "GgG2my3y",
-        "versionId": "vNYhXInp"
+        "versionId": "w4UWGjuX"
       }
     },
     {
@@ -2888,19 +2874,161 @@
       }
     },
     {
-      "name": "cosmonautics",
-      "filename": "cosmonautics-1.3.8-rc3.jar",
+      "name": "CC: Tweaked",
+      "slug": "cc-tweaked",
+      "filename": "cc-tweaked-1.21.1-forge-1.118.0.jar",
       "side": "both",
-      "url": "https://teyk0o.github.io/zenithmodpack/mods/cosmonautics-1.3.8-rc3.jar",
-      "hash": "sha256:a4d9e12a30cfcb6bc4f2e1293686fd4fafe23c53117c17b8a99f12f30031a82a",
-      "fileSize": 5526879,
+      "detectedSide": "both",
+      "url": "https://cdn.modrinth.com/data/gu7yAYhd/versions/tufB2KsB/cc-tweaked-1.21.1-forge-1.118.0.jar",
+      "hash": "sha512:191f2d88e4760343c141fac1c14239215dadffcacd934767e4d796a97fe09c43cde3b819a4137ab502db0f9995ee11cac3cff805d7c602241798e5cf155cb743",
+      "fileSize": 3122700,
+      "modrinth": {
+        "projectId": "gu7yAYhd",
+        "versionId": "tufB2KsB"
+      }
+    },
+    {
+      "name": "CC: Sable",
+      "slug": "cc-sable",
+      "filename": "cc_sable-neoforge-1.3.4.jar",
+      "side": "both",
+      "detectedSide": "both",
+      "url": "https://cdn.modrinth.com/data/OPNBxiZD/versions/j0UWQoMG/cc_sable-neoforge-1.3.4.jar",
+      "hash": "sha512:70e7e09c8a4a566fe8bd67a8d53069083e8285a15cb680412b415f5104b5be3ad3b623c9ccd99f165996933ef5d81aa1966633796d7439f562b6e35ae59af717",
+      "fileSize": 43338,
+      "modrinth": {
+        "projectId": "OPNBxiZD",
+        "versionId": "j0UWQoMG"
+      }
+    },
+    {
+      "name": "Create Big Cannons",
+      "slug": "create-big-cannons",
+      "filename": "createbigcannons-5.11.3+mc.1.21.1.jar",
+      "side": "both",
+      "detectedSide": "both",
+      "url": "https://cdn.modrinth.com/data/GWp4jCJj/versions/bsGaXKEd/createbigcannons-5.11.3%2Bmc.1.21.1.jar",
+      "hash": "sha512:f75a8bbdc9fc67c09eac6d78e8ad92583a342d54ab70e91923c52cd9b42987765e9a84e43e9c3e175593982aed80fe960a96561d9cd1ed62c4c966818346b466",
+      "fileSize": 3715787,
+      "modrinth": {
+        "projectId": "GWp4jCJj",
+        "versionId": "bsGaXKEd"
+      }
+    },
+    {
+      "name": "Create Big Cannons: Advanced Technologies",
+      "slug": "create-big-cannons-advanced-technologies",
+      "filename": "cbc_at_Neoforge_1.21.1_0.1.4c.jar",
+      "side": "both",
+      "detectedSide": "both",
+      "url": "https://cdn.modrinth.com/data/pTfszyXD/versions/ds01YFge/cbc_at_Neoforge_1.21.1_0.1.4c.jar",
+      "hash": "sha512:5e94655294b568e08e7d04de7ce369811baad3c01355a614e04933c5c46e6f33700cc44688e9038b61ded245c8bb1cd0c01d14ab8369898ac3a0dfb263a7deed",
+      "fileSize": 1438535,
+      "modrinth": {
+        "projectId": "pTfszyXD",
+        "versionId": "ds01YFge"
+      }
+    },
+    {
+      "name": "Create: Power Grid",
+      "slug": "power-grid",
+      "filename": "powergrid-mc1.21.1-0.5.5.1.jar",
+      "side": "both",
+      "detectedSide": "both",
+      "url": "https://cdn.modrinth.com/data/eWiBLJ9R/versions/8EtGIOFr/powergrid-mc1.21.1-0.5.5.1.jar",
+      "hash": "sha512:0dafe82438143270a762f9bfff3483c56e85a5db0bb382dba15302b6d6f6a886f252dee42fca08fb46c7a76eb9401f90430d41994b20133e9c009d5b876b8bb5",
+      "fileSize": 6252168,
+      "modrinth": {
+        "projectId": "eWiBLJ9R",
+        "versionId": "8EtGIOFr"
+      }
+    },
+    {
+      "name": "Simple Fog Control",
+      "slug": "simplefog",
+      "filename": "simplefog-neoforge-1.21.1-2.0.5.jar",
+      "side": "client",
+      "detectedSide": "client",
+      "url": "https://cdn.modrinth.com/data/Glp1bwYc/versions/ywT5urX0/simplefog-neoforge-1.21.1-2.0.5.jar",
+      "hash": "sha512:a3069c7ab02969bd250636dcb99a9b8b1201d8b236ce7c8f7c69cce3c60d09fcab7c075b86f059433c493af993ba9d70dee0fbe3cc3d8eda6d1b0d8809f60960",
+      "fileSize": 32805,
+      "modrinth": {
+        "projectId": "Glp1bwYc",
+        "versionId": "ywT5urX0"
+      }
+    },
+    {
+      "name": "Better Clouds",
+      "slug": "better-clouds",
+      "filename": "better-clouds-1.7.20-alpha+1.21.1-neoforge.rev.4c611d9.jar",
+      "side": "client",
+      "detectedSide": "client",
+      "url": "https://cdn.modrinth.com/data/5srFLIaK/versions/ucwzanPQ/better-clouds-1.7.20-alpha%2B1.21.1-neoforge.rev.4c611d9.jar",
+      "hash": "sha512:42237971ef5e56cc56db54f61ffa5d52261f1f645bdffb643475069a484eca7c345865056f61323113387c675d7ad965508bf0e56087d88ec0f505d60f2e4bfc",
+      "fileSize": 790657,
+      "modrinth": {
+        "projectId": "5srFLIaK",
+        "versionId": "ucwzanPQ"
+      }
+    },
+    {
+      "name": "cosmonautics",
+      "filename": "cosmonautics-1.3.8rc4.jar",
+      "side": "both",
+      "url": "https://teyk0o.github.io/zenithmodpack/mods/cosmonautics-1.3.8rc4.jar",
+      "hash": "sha256:1f939b8407d86776db390c1dbee6acf4536369f40573aecec010ae3093bb6539",
+      "fileSize": 5878023,
+      "local": true,
+      "modrinth": null
+    },
+    {
+      "name": "farsight",
+      "filename": "farsight-1.21.1-4.5.jar",
+      "side": "client",
+      "url": "https://teyk0o.github.io/zenithmodpack/mods/farsight-1.21.1-4.5.jar",
+      "hash": "sha256:1fd4967c959a6177bbd1ea25a74436a55ad594d5f95c89f3479ca517b7ed8bc3",
+      "fileSize": 438450,
+      "local": true,
+      "modrinth": null
+    },
+    {
+      "name": "Ritchie's Projectile Library",
+      "slug": "rpl",
+      "filename": "ritchiesprojectilelib-2.1.2+mc.1.21.1-neoforge.jar",
+      "side": "both",
+      "detectedSide": "both",
+      "url": "https://cdn.modrinth.com/data/B3pb093D/versions/hZ6B2Z0x/ritchiesprojectilelib-2.1.2%2Bmc.1.21.1-neoforge.jar",
+      "hash": "sha512:6d64c84505a5a8fbb96d106603065465c5a2314ec09636900c5c1a31014c12fa68f1a41e758313cbf0d6f95d9a1f53bd67339020f7d8db0e184c23f66aee0330",
+      "fileSize": 76369,
+      "modrinth": {
+        "projectId": "B3pb093D",
+        "versionId": "hZ6B2Z0x"
+      }
+    },
+    {
+      "name": "cupboard",
+      "filename": "cupboard-1.21-3.5.jar",
+      "side": "client",
+      "url": "https://teyk0o.github.io/zenithmodpack/mods/cupboard-1.21-3.5.jar",
+      "hash": "sha256:d27298b67d74d6c95bdf1869bd60f49cfb93f33e6f14a0393be144584649c7db",
+      "fileSize": 26659,
+      "local": true,
+      "modrinth": null
+    },
+    {
+      "name": "drivebywire",
+      "filename": "drivebywire-0.2.8.jar",
+      "side": "both",
+      "url": "https://teyk0o.github.io/zenithmodpack/mods/drivebywire-0.2.8.jar",
+      "hash": "sha256:e83e20faaa8e15aae71a91329b1e594ba33b37039331c59d6e5d944adb4d6b45",
+      "fileSize": 268631,
       "local": true,
       "modrinth": null
     }
   ],
   "filesArchive": {
     "url": "https://teyk0o.github.io/zenithmodpack/files.zip",
-    "hash": "sha256:1fb4420e62cdb80ea800825dbe1b23fb0d5b9d24f15b429520270fca4fbd396a",
+    "hash": "sha256:3c860005a5ea41b9344613451233281b99d80fed8395e3bbe393f28a97a6bc37",
     "size": 19179751
   },
   "files": [
