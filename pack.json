@@ -223,20 +223,6 @@
       "detectedSide": "both"
     },
     {
-      "name": "Carry On",
-      "filename": "carryon-neoforge-1.21.1-2.2.4.4.jar",
-      "side": "both",
-      "url": "https://cdn.modrinth.com/data/joEfVgkn/versions/cgZi7nC7/carryon-neoforge-1.21.1-2.2.4.4.jar",
-      "hash": "sha512:8b78ddc55ce6e28d4457dadb5aca4cd32e16d2db3c395276993e67c6acc108ced55e3e3d9a01aa5bf1da0d4fccab6183ba62acc1421054c0b2ecae9bd03cabf6",
-      "fileSize": 357489,
-      "modrinth": {
-        "projectId": "joEfVgkn",
-        "versionId": "cgZi7nC7"
-      },
-      "slug": "carry-on",
-      "detectedSide": "both"
-    },
-    {
       "name": "Chat Animation [Smooth Chat]",
       "filename": "chatanimation-neoforge-1.21.1-1.1.3.jar",
       "side": "client",
@@ -3024,11 +3010,25 @@
       "fileSize": 268631,
       "local": true,
       "modrinth": null
+    },
+    {
+      "name": "Create: Radars",
+      "slug": "create-radars",
+      "filename": "create_radar-0.4.8-1.21.1.jar",
+      "side": "both",
+      "detectedSide": "both",
+      "url": "https://cdn.modrinth.com/data/BLu2Yqfq/versions/3MbtX7qD/create_radar-0.4.8-1.21.1.jar",
+      "hash": "sha512:d739365d6d46cd7ced5a4731b2c424c1d0585ad5201b7ca7b5be488c7edf3ac51b67091bb61c121e4836b10959cf5733c017fa3a979ef89d0f8a872f4eca8441",
+      "fileSize": 16462408,
+      "modrinth": {
+        "projectId": "BLu2Yqfq",
+        "versionId": "3MbtX7qD"
+      }
     }
   ],
   "filesArchive": {
     "url": "https://teyk0o.github.io/zenithmodpack/files.zip",
-    "hash": "sha256:3c860005a5ea41b9344613451233281b99d80fed8395e3bbe393f28a97a6bc37",
+    "hash": "sha256:ef66a71960451399bd2c04e02da436401213bcd58f34176d03cf8cc70b67144f",
     "size": 19179751
   },
   "files": [
