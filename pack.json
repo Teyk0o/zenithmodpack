@@ -196,14 +196,14 @@
     },
     {
       "name": "Concurrent Chunk Management Engine (NeoForge)",
-      "filename": "c2me-neoforge-mc1.21.1-0.3.0+alpha.0.91.jar",
+      "filename": "c2me-neoforge-mc1.21.1-0.3.0+alpha.0.93.jar",
       "side": "both",
-      "url": "https://cdn.modrinth.com/data/COlSi5iR/versions/9iPiN34N/c2me-neoforge-mc1.21.1-0.3.0%2Balpha.0.91.jar",
-      "hash": "sha512:9e0bc6fe17ebbaaec9999c5f742e6e0eb50abd9eea578a76e15ed411adebe8cdf9d17224493ffdc17f16d46bad52efe10efebfb998e346997b03cb5edd144c3f",
-      "fileSize": 4508649,
+      "url": "https://cdn.modrinth.com/data/COlSi5iR/versions/KmfiVd28/c2me-neoforge-mc1.21.1-0.3.0%2Balpha.0.93.jar",
+      "hash": "sha512:7dbb5cabc4669b900c570547fc636ce77b24e08451f4c699db76ec9ed3c805a256323862d7823e7d8c5acd10baa15e83c27dae3384ed5ea765f7e883a41f6045",
+      "fileSize": 4510749,
       "modrinth": {
         "projectId": "COlSi5iR",
-        "versionId": "9iPiN34N"
+        "versionId": "KmfiVd28"
       },
       "slug": "c2me-neoforge",
       "detectedSide": "both"
@@ -280,14 +280,14 @@
     },
     {
       "name": "Colorwheel",
-      "filename": "colorwheel-neoforge-1.2.6+mc1.21.1.jar",
+      "filename": "colorwheel-neoforge-1.2.7+mc1.21.1.jar",
       "side": "client",
-      "url": "https://cdn.modrinth.com/data/BzHgFoGz/versions/HOqMxRV9/colorwheel-neoforge-1.2.6%2Bmc1.21.1.jar",
-      "hash": "sha512:56db620d4c2573ac6415e96f23fe188225d3c461b4d65db64113681986c6a45f118e6c2ea71de6d2eebb0e08a8530cb456ecb038547ecf92759139c286b63818",
-      "fileSize": 390082,
+      "url": "https://cdn.modrinth.com/data/BzHgFoGz/versions/Khgr5l7P/colorwheel-neoforge-1.2.7%2Bmc1.21.1.jar",
+      "hash": "sha512:92dee58c443fe2c6ac3a26b96b95e59409312baea278a5452e8ce3619bd664406af0a146262d034a3f6a32037888708a1189d06ec901e496ca8b9caa36754ca3",
+      "fileSize": 394458,
       "modrinth": {
         "projectId": "BzHgFoGz",
-        "versionId": "HOqMxRV9"
+        "versionId": "Khgr5l7P"
       },
       "slug": "colorwheel",
       "detectedSide": "client"
@@ -503,14 +503,14 @@
     },
     {
       "name": "Cristel Lib",
-      "filename": "cristellib-neoforge-1.21.1-3.0.3.jar",
+      "filename": "cristellib-neoforge-1.21.1-3.1.5.jar",
       "side": "both",
-      "url": "https://cdn.modrinth.com/data/cl223EMc/versions/JiCAbUWP/cristellib-neoforge-1.21.1-3.0.3.jar",
-      "hash": "sha512:b1408d22adeb6d113ddaba0c5d1f24aa5193d565f4f94dae6b81867f17859f2204c438d26977625aaed614c58fbf08860195154a179c9fb62798d2d629a07877",
-      "fileSize": 539899,
+      "url": "https://cdn.modrinth.com/data/cl223EMc/versions/JbGjwnV6/cristellib-neoforge-1.21.1-3.1.5.jar",
+      "hash": "sha512:34ff78dc84dcac723d5a08a49b4c92a93820afc3b59dda13724a2ca29b97ea1c8315f50ae8793de9598ad5ddf3a8e5fdb329e22642051d8a3dd271fad472dd93",
+      "fileSize": 583290,
       "modrinth": {
         "projectId": "cl223EMc",
-        "versionId": "JiCAbUWP"
+        "versionId": "JbGjwnV6"
       },
       "slug": "cristel-lib",
       "detectedSide": "both"
@@ -1017,14 +1017,14 @@
     },
     {
       "name": "Kiwi 🥝",
-      "filename": "Kiwi-1.21.1-NeoForge-15.8.3.jar",
+      "filename": "Kiwi-1.21.1-NeoForge-15.8.4.jar",
       "side": "both",
-      "url": "https://cdn.modrinth.com/data/ufdDoWPd/versions/2flHQIzv/Kiwi-1.21.1-NeoForge-15.8.3.jar",
-      "hash": "sha512:3d0168a9189adf81002533421d183d83f75c30523be5499416ee430288e10175df0d43027435600f4c49d5fffffd0f78b86b2bef5bd67f82b1c494ba2f8b5536",
-      "fileSize": 1538356,
+      "url": "https://cdn.modrinth.com/data/ufdDoWPd/versions/Zr2eBMyy/Kiwi-1.21.1-NeoForge-15.8.4.jar",
+      "hash": "sha512:136822d6ef5f101c822370d278edc23732a012392c162e39ebeb4602b3c89391642ce86f20acb9156c8fa93f5ca52c710f758da83388f70eac34004a1fc02ba3",
+      "fileSize": 1538618,
       "modrinth": {
         "projectId": "ufdDoWPd",
-        "versionId": "2flHQIzv"
+        "versionId": "Zr2eBMyy"
       },
       "slug": "kiwi",
       "detectedSide": "both"
@@ -1337,28 +1337,28 @@
     },
     {
       "name": "Lithostitched",
-      "filename": "lithostitched-1.7.6-neoforge-21.1.jar",
+      "filename": "lithostitched-1.7.7-neoforge-21.1.jar",
       "side": "server",
-      "url": "https://cdn.modrinth.com/data/XaDC71GB/versions/rs8lbH3l/lithostitched-1.7.6-neoforge-21.1.jar",
-      "hash": "sha512:8bdd894e62eb7a9de66d3759420651ec53b27323061e4224cdc9d7170d0d48cfb7bacc729a4a3c607096f86e309548888ffe0aa38deed70562542d5840c40ba4",
-      "fileSize": 821750,
+      "url": "https://cdn.modrinth.com/data/XaDC71GB/versions/Nf30FMLg/lithostitched-1.7.7-neoforge-21.1.jar",
+      "hash": "sha512:35508c0ee72418f78311fbf11a0a341d96cbd468c29f098c7cee81550de902ddb6ca5af65a97a806fb85b2949a78108bc0d5b09e6411220d8f1d960b8885445e",
+      "fileSize": 821748,
       "modrinth": {
         "projectId": "XaDC71GB",
-        "versionId": "rs8lbH3l"
+        "versionId": "Nf30FMLg"
       },
       "slug": "lithostitched",
       "detectedSide": "server"
     },
     {
       "name": "ModernFix",
-      "filename": "modernfix-neoforge-5.27.7+mc1.21.1.jar",
+      "filename": "modernfix-neoforge-5.27.9+mc1.21.1.jar",
       "side": "both",
-      "url": "https://cdn.modrinth.com/data/nmDcB62a/versions/Ml6xWbje/modernfix-neoforge-5.27.7%2Bmc1.21.1.jar",
-      "hash": "sha512:7647fc59b57455796086022d7103df7bff3746a2297da52ca97f5c188b5749c49a04fbe5ee84df22a13233d53812d0d6c3dc5e1d586ccb1562109dfa116f6678",
-      "fileSize": 569178,
+      "url": "https://cdn.modrinth.com/data/nmDcB62a/versions/Icd2DkF6/modernfix-neoforge-5.27.9%2Bmc1.21.1.jar",
+      "hash": "sha512:baea12df13b0b0b1674a08cc06639e29b38c6b215e859c12fd2e60c1dbf903b7f8d8f11fea65f1ead4e7f521cdbf78286728846f8620b8378969c36e9267e2c9",
+      "fileSize": 574149,
       "modrinth": {
         "projectId": "nmDcB62a",
-        "versionId": "Ml6xWbje"
+        "versionId": "Icd2DkF6"
       },
       "slug": "modernfix",
       "detectedSide": "both"
@@ -1379,42 +1379,42 @@
     },
     {
       "name": "MES - Moog's End Structures",
-      "filename": "MoogsEndStructures-1.21-2.0.2.jar",
+      "filename": "MoogsEndStructures-1.21-2.0.3.jar",
       "side": "server",
-      "url": "https://cdn.modrinth.com/data/r4PuRGfV/versions/oN0WTi2D/MoogsEndStructures-1.21-2.0.2.jar",
-      "hash": "sha512:96635d7ee00c11d63b532920604dce3736291b6e7961d1dcaafd08383ffbb639060ea85589519c745fef156bdf38f81b6a78bc2c033b1fb39fe4d8520fbdaf6a",
-      "fileSize": 1210262,
+      "url": "https://cdn.modrinth.com/data/r4PuRGfV/versions/JW80uvhz/MoogsEndStructures-1.21-2.0.3.jar",
+      "hash": "sha512:eaf67a1854fe548f9537dbb0ec60a913d0126980db24840318ced7c3dd0740979b2821100d6acd37e85a73aca6a190d410b4d78d4503dc68e36b23a6dfcc7b17",
+      "fileSize": 1210283,
       "modrinth": {
         "projectId": "r4PuRGfV",
-        "versionId": "oN0WTi2D"
+        "versionId": "JW80uvhz"
       },
       "slug": "mes-moogs-end-structures",
       "detectedSide": "server"
     },
     {
       "name": "MNS - Moog's Nether Structures",
-      "filename": "MoogsNetherStructures-1.21-2.0.4.jar",
+      "filename": "MoogsNetherStructures-1.21-2.1.0.jar",
       "side": "server",
-      "url": "https://cdn.modrinth.com/data/nGUXvjTa/versions/TfYTZy5g/MoogsNetherStructures-1.21-2.0.4.jar",
-      "hash": "sha512:eee66cc1e253565e1670cf015b86b522cf67695ea4019404579d84d4bd22d81bb8ef283783e5a2a6177fbfd69b28608d26e1bce7370e7cfde73fc490b10cf49b",
-      "fileSize": 443156,
+      "url": "https://cdn.modrinth.com/data/nGUXvjTa/versions/7MB6E0xC/MoogsNetherStructures-1.21-2.1.0.jar",
+      "hash": "sha512:c602a81ef70c70394e8e79ac3e20394b1846f14a4ff18f4377149820b103572c8fc142124acf065bbd7e21f6da309d7b81a22377f3d4926893e83bf18839de18",
+      "fileSize": 443204,
       "modrinth": {
         "projectId": "nGUXvjTa",
-        "versionId": "TfYTZy5g"
+        "versionId": "7MB6E0xC"
       },
       "slug": "mns-moogs-nether-structures",
       "detectedSide": "server"
     },
     {
       "name": "Moonlight Lib",
-      "filename": "moonlight-neoforge-1.21.1-3.0.9.jar",
+      "filename": "moonlight-neoforge-1.21.1-3.0.14.jar",
       "side": "both",
-      "url": "https://cdn.modrinth.com/data/twkfQtEc/versions/sqbhVahR/moonlight-neoforge-1.21.1-3.0.9.jar",
-      "hash": "sha512:5a7364b494cb0348b6401b23cd7a6dec9db1d6f91641072a8c6824308e24cb4bc8e12465e8b816800fdbcedcc8a0e3f837852c48f8d455c7b6f5f6e72330800d",
-      "fileSize": 1574538,
+      "url": "https://cdn.modrinth.com/data/twkfQtEc/versions/er7S98Q1/moonlight-neoforge-1.21.1-3.0.14.jar",
+      "hash": "sha512:e28aa1a0da057a5099232519165af5fe9a36fdd0e133b18af493d2108a17d071add4e0c85dd02e20100f0e2e3ae09e2416c72d9f77e306e4e711b03e4424e5a5",
+      "fileSize": 1578765,
       "modrinth": {
         "projectId": "twkfQtEc",
-        "versionId": "sqbhVahR"
+        "versionId": "er7S98Q1"
       },
       "slug": "moonlight",
       "detectedSide": "both"
@@ -1708,14 +1708,14 @@
     },
     {
       "name": "Puzzles Lib",
-      "filename": "PuzzlesLib-v21.1.39-1.21.1-NeoForge.jar",
+      "filename": "PuzzlesLib-v21.1.46-1.21.1-NeoForge.jar",
       "side": "both",
-      "url": "https://cdn.modrinth.com/data/QAGBst4M/versions/EgWWSAhJ/PuzzlesLib-v21.1.39-1.21.1-NeoForge.jar",
-      "hash": "sha512:84bac5cddae511234eea4387d34a96cc961a0e7d23b8c1ab17523b9762bee96a6aa132f57a417e5bc679565439784c268b92ee8d353e4b26f86d3ef5e1c5453b",
-      "fileSize": 1080389,
+      "url": "https://cdn.modrinth.com/data/QAGBst4M/versions/7IlRqegD/PuzzlesLib-v21.1.46-1.21.1-NeoForge.jar",
+      "hash": "sha512:f0cf4cd93caaec753d258f84522daaf34bf3b6af96c30f797dc0ddd1019a7e5593f933bcdea474fca18fa065e25293c883548b475d151359d3a260d2b4ec7862",
+      "fileSize": 1359680,
       "modrinth": {
         "projectId": "QAGBst4M",
-        "versionId": "EgWWSAhJ"
+        "versionId": "7IlRqegD"
       },
       "slug": "puzzles-lib",
       "detectedSide": "both"
@@ -1818,14 +1818,14 @@
     },
     {
       "name": "Serene Shrubbery",
-      "filename": "SereneShrubbery-NeoForge-1.21.1-v2.3.2.jar",
+      "filename": "SereneShrubbery-NeoForge-1.21.1-v2.4.0.jar",
       "side": "both",
-      "url": "https://cdn.modrinth.com/data/8nNCA6Vy/versions/a9Ola3FR/SereneShrubbery-NeoForge-1.21.1-v2.3.2.jar",
-      "hash": "sha512:ee0d376c5faecf0d3faef78a57a346c0b9d2da2f0a39ecd3e27ba7eeba17cd0cfb10a6cd372c052f4d8472539bb05019c1ad0def2dda871dda1c402827e5b91f",
-      "fileSize": 628585,
+      "url": "https://cdn.modrinth.com/data/8nNCA6Vy/versions/rRJVLCOH/SereneShrubbery-NeoForge-1.21.1-v2.4.0.jar",
+      "hash": "sha512:9ff006baa17b346b914279b6eb5ad691b00907fc8b03c20dab72366dd064fa6184a19e8c65441e3fb55ff863828bdfc5d9d518305f05f1062f811c2eff8978dc",
+      "fileSize": 841114,
       "modrinth": {
         "projectId": "8nNCA6Vy",
-        "versionId": "a9Ola3FR"
+        "versionId": "rRJVLCOH"
       },
       "slug": "serene-shrubbery",
       "detectedSide": "both"
@@ -1903,28 +1903,28 @@
     },
     {
       "name": "Sophisticated Backpacks",
-      "filename": "sophisticatedbackpacks-1.21.1-3.25.45.1742.jar",
+      "filename": "sophisticatedbackpacks-1.21.1-3.25.49.1788.jar",
       "side": "both",
-      "url": "https://cdn.modrinth.com/data/TyCTlI4b/versions/gCxpNA3A/sophisticatedbackpacks-1.21.1-3.25.45.1742.jar",
-      "hash": "sha512:a4e536c2c9cf53ab538bc22469518320382e02368714069b545e69eb21da4c04abaebfc578843b09761de2602a77db1427278789dc99c33e5e28cd1388ac58e3",
-      "fileSize": 1052173,
+      "url": "https://cdn.modrinth.com/data/TyCTlI4b/versions/tqDekk0k/sophisticatedbackpacks-1.21.1-3.25.49.1788.jar",
+      "hash": "sha512:230e40869d97e17a4ba01f50c4460087595139baa74ca4e925c391cd3bdbf76b98beff2ca81cc6dc0b7926a59ffd59441e9cc8121fe4b022f2f09a41be80c926",
+      "fileSize": 1056463,
       "modrinth": {
         "projectId": "TyCTlI4b",
-        "versionId": "gCxpNA3A"
+        "versionId": "tqDekk0k"
       },
       "slug": "sophisticated-backpacks",
       "detectedSide": "both"
     },
     {
       "name": "Sophisticated Core",
-      "filename": "sophisticatedcore-1.21.1-1.4.39.1852.jar",
+      "filename": "sophisticatedcore-1.21.1-1.4.41.1867.jar",
       "side": "both",
-      "url": "https://cdn.modrinth.com/data/nmoqTijg/versions/616eWTaq/sophisticatedcore-1.21.1-1.4.39.1852.jar",
-      "hash": "sha512:98be3c258f453558af770b094027e03fa2503aa32bbef963e7c7d9136b8aea58c53b7c8377e27598d8c74efd90683b86866d77410b1ffd3f8ffafa82c3b80d7f",
-      "fileSize": 1596647,
+      "url": "https://cdn.modrinth.com/data/nmoqTijg/versions/xLeCYw3D/sophisticatedcore-1.21.1-1.4.41.1867.jar",
+      "hash": "sha512:5077d80fe644c34516381e1b9c1f89d9ffd99aa7762af0a4747e82caee5d6828a747802f67c9734104929558e2364631ca3d1d738621638196a51de276aaee37",
+      "fileSize": 1607780,
       "modrinth": {
         "projectId": "nmoqTijg",
-        "versionId": "616eWTaq"
+        "versionId": "xLeCYw3D"
       },
       "slug": "sophisticated-core",
       "detectedSide": "both"
@@ -1971,14 +1971,14 @@
     },
     {
       "name": "Supplementaries",
-      "filename": "supplementaries-neoforge-1.21.1-3.6.4.jar",
+      "filename": "supplementaries-neoforge-1.21.1-3.6.5.jar",
       "side": "both",
-      "url": "https://cdn.modrinth.com/data/fFEIiSDQ/versions/3N4gijtd/supplementaries-neoforge-1.21.1-3.6.4.jar",
-      "hash": "sha512:9fd0e156697c2e56960a52747a33c0ee8e391cb90f89e93af6a79d333272153bd789ac4341967b0c3ea745a72bd654ae88076b48181464ea62c7bebc01159dac",
-      "fileSize": 13282562,
+      "url": "https://cdn.modrinth.com/data/fFEIiSDQ/versions/4XwZg5Dq/supplementaries-neoforge-1.21.1-3.6.5.jar",
+      "hash": "sha512:b36703fc4cf3e534fe10137ac1dc2de6ab9b60b5c511602efd1ee04687e461308c919bd9e154135e978b74765b4847fab351ee50cd10c0f2d195d1a184c976a7",
+      "fileSize": 13304373,
       "modrinth": {
         "projectId": "fFEIiSDQ",
-        "versionId": "3N4gijtd"
+        "versionId": "4XwZg5Dq"
       },
       "slug": "supplementaries",
       "detectedSide": "both"
@@ -1995,7 +1995,8 @@
         "versionId": "E4Wy3O8Y"
       },
       "slug": "towns-and-towers",
-      "detectedSide": "both"
+      "detectedSide": "both",
+      "pinned": "Incompatible neoforge"
     },
     {
       "name": "TerraBlender",
@@ -2053,14 +2054,14 @@
     },
     {
       "name": "Vanilla Backport",
-      "filename": "VanillaBackport-neoforge-1.21.1-1.1.7.4.jar",
+      "filename": "VanillaBackport-neoforge-1.21.1-1.1.7.6.jar",
       "side": "both",
-      "url": "https://cdn.modrinth.com/data/6xwxDTgf/versions/AZLyELAH/VanillaBackport-neoforge-1.21.1-1.1.7.4.jar",
-      "hash": "sha512:34c1bdf0ff2c2a342c2c56bc68d951adf425089d78e9931d1047f88db2cdee8c0fef7112beff18b4f4b089d0a27b75b50840d1759e1ce38a4523e0245d3c4c7f",
-      "fileSize": 54203413,
+      "url": "https://cdn.modrinth.com/data/6xwxDTgf/versions/HlDC50NG/VanillaBackport-neoforge-1.21.1-1.1.7.6.jar",
+      "hash": "sha512:4ad83d591f7bbc8e9f6ec1644fe7a1ea3ce838d3180fc3ef6c1e1984bbbd2bcc757bb50d815934a968ebc5577f4814461d9f2948aa57747a07d0aeaebe39f826",
+      "fileSize": 54217741,
       "modrinth": {
         "projectId": "6xwxDTgf",
-        "versionId": "AZLyELAH"
+        "versionId": "HlDC50NG"
       },
       "slug": "vanillabackport",
       "detectedSide": "both"
@@ -2480,14 +2481,14 @@
     {
       "name": "Create: Power Loader",
       "slug": "create-power-loader",
-      "filename": "create_power_loader-2.0.4-mc1.21.1.jar",
+      "filename": "create_power_loader-2.0.5-mc1.21.1.jar",
       "side": "both",
-      "url": "https://cdn.modrinth.com/data/wPQ6GgFE/versions/MX6Eqw1t/create_power_loader-2.0.4-mc1.21.1.jar",
-      "hash": "sha512:599c0b65ec63202d23b3c61965b3e3267e7c31eeeb094b55c1c5bbf171002f740c3cbf54e8d6097537fd049f0a6bd7c54d534dbfcc336353d9f72e47e8a241a8",
-      "fileSize": 439565,
+      "url": "https://cdn.modrinth.com/data/wPQ6GgFE/versions/3Y4r0ItR/create_power_loader-2.0.5-mc1.21.1.jar",
+      "hash": "sha512:e4f06cfe79eafa538a2edf45d0b173051475f2a20d6c2352668f6980f4433078f2cdd8ffdd047984c30dfd903142ea37eadde48ff71a3892f18154662f20eb57",
+      "fileSize": 442369,
       "modrinth": {
         "projectId": "wPQ6GgFE",
-        "versionId": "MX6Eqw1t"
+        "versionId": "3Y4r0ItR"
       }
     },
     {
@@ -2736,15 +2737,15 @@
     {
       "name": "Create Propulsion: Simulated",
       "slug": "create-propulsion-simulated",
-      "filename": "createpropulsion-1.1.3.jar",
+      "filename": "createpropulsion-1.1.4.jar",
       "side": "both",
       "detectedSide": "both",
-      "url": "https://cdn.modrinth.com/data/ApkoHNO9/versions/uak7jUzL/createpropulsion-1.1.3.jar",
-      "hash": "sha512:95bad66bc25585c7a0e3256d630b4a0e09d470fa9684da887d5eec3d07c72d14755d36cb1a0b5550ec9795627ceef4cd13c7ccfb1b7f6d29fa5ccdecf1d15782",
-      "fileSize": 1136939,
+      "url": "https://cdn.modrinth.com/data/ApkoHNO9/versions/hTnJ29I0/createpropulsion-1.1.4.jar",
+      "hash": "sha512:25e9655b6e44ee5539f2b3b620d8657f3b9f0cb840a0917d4bb5e349b5fb301bb15a05e420122cdc2f9236fc9b78019d98816e3f3d939dabf6c5c1b05e6b6862",
+      "fileSize": 1196735,
       "modrinth": {
         "projectId": "ApkoHNO9",
-        "versionId": "uak7jUzL"
+        "versionId": "hTnJ29I0"
       }
     },
     {
@@ -2862,15 +2863,15 @@
     {
       "name": "CC: Tweaked",
       "slug": "cc-tweaked",
-      "filename": "cc-tweaked-1.21.1-forge-1.118.0.jar",
+      "filename": "cc-tweaked-1.21.1-forge-1.119.0.jar",
       "side": "both",
       "detectedSide": "both",
-      "url": "https://cdn.modrinth.com/data/gu7yAYhd/versions/tufB2KsB/cc-tweaked-1.21.1-forge-1.118.0.jar",
-      "hash": "sha512:191f2d88e4760343c141fac1c14239215dadffcacd934767e4d796a97fe09c43cde3b819a4137ab502db0f9995ee11cac3cff805d7c602241798e5cf155cb743",
-      "fileSize": 3122700,
+      "url": "https://cdn.modrinth.com/data/gu7yAYhd/versions/puxJkazX/cc-tweaked-1.21.1-forge-1.119.0.jar",
+      "hash": "sha512:87c086049ecbb5c1cfbb8e2180abc6902d2c70f2b07d4a37652f931d4c334e7304b1df1206a98b109c40e5dea719a22a335f8c0b09b330646bd05c971a8edb62",
+      "fileSize": 3125991,
       "modrinth": {
         "projectId": "gu7yAYhd",
-        "versionId": "tufB2KsB"
+        "versionId": "puxJkazX"
       }
     },
     {
@@ -2946,26 +2947,16 @@
     {
       "name": "Better Clouds",
       "slug": "better-clouds",
-      "filename": "better-clouds-1.7.20-alpha+1.21.1-neoforge.rev.4c611d9.jar",
+      "filename": "better-clouds-1.13.5-beta+1.21.1-neoforge.rev.a60dfa0.jar",
       "side": "client",
       "detectedSide": "client",
-      "url": "https://cdn.modrinth.com/data/5srFLIaK/versions/ucwzanPQ/better-clouds-1.7.20-alpha%2B1.21.1-neoforge.rev.4c611d9.jar",
-      "hash": "sha512:42237971ef5e56cc56db54f61ffa5d52261f1f645bdffb643475069a484eca7c345865056f61323113387c675d7ad965508bf0e56087d88ec0f505d60f2e4bfc",
-      "fileSize": 790657,
+      "url": "https://cdn.modrinth.com/data/5srFLIaK/versions/bfurRkm7/better-clouds-1.13.5-beta%2B1.21.1-neoforge.rev.a60dfa0.jar",
+      "hash": "sha512:28431a57db449054e302745494c32352c0e250a0cd7b0513956c875284bbe67039cc230d56c3ff82d02f454711d8cecd2fea06c5c481807c19237ae0b13a64c6",
+      "fileSize": 816389,
       "modrinth": {
         "projectId": "5srFLIaK",
-        "versionId": "ucwzanPQ"
+        "versionId": "bfurRkm7"
       }
-    },
-    {
-      "name": "cosmonautics",
-      "filename": "cosmonautics-1.3.8rc4.jar",
-      "side": "both",
-      "url": "https://teyk0o.github.io/zenithmodpack/mods/cosmonautics-1.3.8rc4.jar",
-      "hash": "sha256:1f939b8407d86776db390c1dbee6acf4536369f40573aecec010ae3093bb6539",
-      "fileSize": 5878023,
-      "local": true,
-      "modrinth": null
     },
     {
       "name": "farsight",
@@ -3024,11 +3015,35 @@
         "projectId": "BLu2Yqfq",
         "versionId": "3MbtX7qD"
       }
+    },
+    {
+      "name": "Dimensional Sable",
+      "slug": "dimensional-sable",
+      "filename": "dimensional_sable-1.0.4.jar",
+      "side": "server",
+      "detectedSide": "server",
+      "url": "https://cdn.modrinth.com/data/Iq9c4mLa/versions/LrkdIDoN/dimensional_sable-1.0.4.jar",
+      "hash": "sha512:9611d128b0f228adda8c1f774c33203fb0d807e4c81ac33ca230e2e927ac6d3a4bbadcd6df7eb5853745e4a80591c75ac6a52ad4aaff1742a0e3681e2baf9765",
+      "fileSize": 43612,
+      "modrinth": {
+        "projectId": "Iq9c4mLa",
+        "versionId": "LrkdIDoN"
+      }
+    },
+    {
+      "name": "cosmonautics",
+      "filename": "cosmonautics-1.3.8orbitalbuild.jar",
+      "side": "both",
+      "url": "https://teyk0o.github.io/zenithmodpack/mods/cosmonautics-1.3.8orbitalbuild.jar",
+      "hash": "sha256:d8291c6d1d379c7174d6b88374c8803eeb78d9ef112692da4c6872d4b1fabd29",
+      "fileSize": 11740931,
+      "local": true,
+      "modrinth": null
     }
   ],
   "filesArchive": {
     "url": "https://teyk0o.github.io/zenithmodpack/files.zip",
-    "hash": "sha256:ef66a71960451399bd2c04e02da436401213bcd58f34176d03cf8cc70b67144f",
+    "hash": "sha256:88ee130cbda313bb9615de33748efb6ea45720409e93ccc5eeaabac043e803ea",
     "size": 19179751
   },
   "files": [
